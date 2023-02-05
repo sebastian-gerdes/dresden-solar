@@ -3,12 +3,12 @@ project:
   
 
 website:
-  favicon: Sun_Pylon.jpg
+  favicon: pv_dd_logo.png
   title: "Photovoltaik in Dresden"
-  comments: 
-    hypothesis:
-      theme: clean
-      openSidebar: false
+  # comments: 
+  #   hypothesis:
+  #     theme: clean
+  #     openSidebar: false
   navbar:
     left:
       - news.qmd

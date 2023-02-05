@@ -2,3 +2,10 @@
 title: "Mitmachen"
 ---
 
+Diese Seite ist gedacht als eine Seite, zu der viele Menschen beitragen können.
+
+## Variante 1: Betreiber
+Für Personen / Institutionen, die selbst PV-Anlagen installieren und betreiben wollen. Sie können hier vom Projektfortschritt berichten.
+
+## Variante 2: Anschieber
+Für Menschen, die versuchen ein PV-Projekt zu initieren, aber dieses Projekt eher anschieben und nicht selbst durchführen.

@@ -11,4 +11,8 @@ page-layout: full
 title-block-banner: true
 ---
 
+::: {.callout-note}
+## Information
+Auf dieser Seite werden Nachrichten angezeigt, die den Fortschritt des Photovoltaikausbaus in Dresden dokumentieren.
+:::
 

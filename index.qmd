@@ -18,6 +18,3 @@ Bisher ist es eine rein private Webseite, die nicht für andere gedacht ist.
 
 
 Copyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 ([Link](https://creativecommons.org/licenses/by-sa/3.0)), via Wikimedia Commons, [Link](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) zur Datei
-
-Copyright des Favicons:
-NikoLang, Public domain, via Wikimedia Commons [Original File](https://commons.wikimedia.org/wiki/File:Celestia_sun.jpg)
