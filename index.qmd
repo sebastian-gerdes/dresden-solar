@@ -3,10 +3,10 @@ title: "Über das Projekt"
 image: profile.jpg
 about:
   template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com
 
 ---
 
