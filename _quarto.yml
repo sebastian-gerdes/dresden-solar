@@ -3,6 +3,7 @@ project:
   
 
 website:
+  favicon: Sun_Pylon.jpg
   title: "Photovoltaik in Dresden"
   comments: 
     hypothesis:

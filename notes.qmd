@@ -1,0 +1,6 @@
+---
+title: "Notes"
+---
+
+Todo:
+* smaller / better favicon

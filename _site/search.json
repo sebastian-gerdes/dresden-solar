@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist.\nCopyright des Bildes: Andrewglaser at English Wikipedia, CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0, via Wikimedia Commons"
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist.\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei\nCopyright des Favicons: NikoLang, Public domain, via Wikimedia Commons Original File"
   },
   {
     "objectID": "index.html",
@@ -40,5 +40,12 @@
     "title": "Erster Eintrag",
     "section": "Mitmachen",
     "text": "Mitmachen"
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Die ist eine private Webseite von:\nSebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de"
   }
 ]
