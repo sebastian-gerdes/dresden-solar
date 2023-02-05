@@ -1,14 +1,23 @@
 ---
-title: "Nachrichten"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Über das Projekt"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+
 ---
 
+Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
 
+Dies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.
+
+Bisher ist es eine rein private Webseite, die nicht für andere gedacht ist.
+
+
+Copyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 ([Link](https://creativecommons.org/licenses/by-sa/3.0)), via Wikimedia Commons, [Link](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) zur Datei
+
+Copyright des Favicons:
+NikoLang, Public domain, via Wikimedia Commons [Original File](https://commons.wikimedia.org/wiki/File:Celestia_sun.jpg)

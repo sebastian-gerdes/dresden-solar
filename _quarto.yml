@@ -11,14 +11,10 @@ website:
       openSidebar: false
   navbar:
     left:
-      - about.qmd
+      - news.qmd
       - mitmachen.qmd
       - links.qmd
       - impressum.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme: cosmo
