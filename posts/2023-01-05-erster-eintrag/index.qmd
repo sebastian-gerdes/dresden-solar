@@ -4,23 +4,11 @@ format: html
 date: "2/05/2023"
 ---
 
-## Quarto
+## Motivation
+Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Dies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.
 
-## Running Code
+Bisher ist es eine rein private Webseite, die nicht für andere gedacht ist.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this 
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## Mitmachen

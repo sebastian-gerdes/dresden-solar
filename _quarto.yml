@@ -1,11 +1,19 @@
 project:
   type: website
+  
 
 website:
   title: "Photovoltaik in Dresden"
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
   navbar:
     left:
       - about.qmd
+      - mitmachen.qmd
+      - links.qmd
+      - impressum.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
@@ -14,6 +22,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
 
 
 

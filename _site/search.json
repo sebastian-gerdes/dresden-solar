@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nCopyright des Bildes: Andrewglaser at English Wikipedia, CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0, via Wikimedia Commons"
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist.\nCopyright des Bildes: Andrewglaser at English Wikipedia, CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0, via Wikimedia Commons"
   },
   {
     "objectID": "index.html",
@@ -26,5 +26,19 @@
     "title": "Erster Eintrag",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "posts/2023-01-05-erster-eintrag/index.html",
+    "href": "posts/2023-01-05-erster-eintrag/index.html",
+    "title": "Erster Eintrag",
+    "section": "",
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist."
+  },
+  {
+    "objectID": "posts/2023-01-05-erster-eintrag/index.html#mitmachen",
+    "href": "posts/2023-01-05-erster-eintrag/index.html#mitmachen",
+    "title": "Erster Eintrag",
+    "section": "Mitmachen",
+    "text": "Mitmachen"
   }
 ]
