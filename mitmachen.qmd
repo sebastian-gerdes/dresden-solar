@@ -2,6 +2,17 @@
 title: "Mitmachen"
 ---
 
+
+::: {.callout-note}
+## Mitmachmöglichkeit
+Ich suche noch nach einem schönen Bild für die Seite ["Über das Projekt"](index.qmd). Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. 
+
+Aktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre! Vom Copyright könnte eine geschickte Möglichkeit sein, Bilder von wikipedia als Startmaterial zu nehmen (z. B. von [hier](https://en.wikipedia.org/wiki/Frauenkirche,_Dresden), [hier](https://en.wikipedia.org/wiki/Photovoltaic_system) und [hier](https://de.wikipedia.org/wiki/Photovoltaikanlage) - oder auch von woanders). 
+
+Wer eine andere Idee hat - auch gern vorschlagen :-)
+:::
+
+
 Das Projekt "Dresden Solar" ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
 
 Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
