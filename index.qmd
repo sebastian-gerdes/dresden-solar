@@ -3,21 +3,18 @@ title: "Über das Projekt"
 image: profile.jpg
 about:
   template: jolla
-  # links:
-  #   - icon: twitter
-  #     text: Twitter
-  #     href: https://twitter.com
+# links:
+#   - icon: twitter
+#     text: Twitter
+#     href: https://twitter.com
 
 ---
- 
+  
 Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann! 
-
+  
 Auf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen!
+  
+Der Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann! Auch könnten über diese Seite perspektivisch Kontaktmöglichkeiten zwischen Menschen, die gern den Photovoltaikanlagenausbau voranbringen möchten, geschaffen werden. 
 
-Der Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann!
-
-Bisher ist es eine rein private Webseite, die nicht für andere gedacht ist.
-
-
-Copyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 ([Link](https://creativecommons.org/licenses/by-sa/3.0)), via Wikimedia Commons, [Link](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) zur Datei
+Copyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 ([Link](https://creativecommons.org/licenses/by-sa/3.0)), via Wikimedia Commons, [Link](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) zur Datei.
 

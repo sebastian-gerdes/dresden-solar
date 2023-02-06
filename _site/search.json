@@ -1,59 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "News",
-    "section": "",
-    "text": "Erster Eintrag\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!\nAuf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen!\nDer Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann!\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist.\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei"
+    "text": "Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!\nAuf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen!\nDer Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann! Auch könnten über diese Seite perspektivisch Kontaktmöglichkeiten zwischen Menschen, die gern den Photovoltaikanlagenausbau voranbringen möchten, geschaffen werden.\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei."
   },
   {
-    "objectID": "posts/2023-01-05-erster-eintrag/Index.html",
-    "href": "posts/2023-01-05-erster-eintrag/Index.html",
-    "title": "Erster Eintrag",
+    "objectID": "mitmachen.html",
+    "href": "mitmachen.html",
+    "title": "Mitmachen",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Das Projekt “Dresden Solar” ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!\nGgf. könnte die Webseite auch an einen bestehenden oder neu zu gründenden Verein angegliedert werden. Das wäre mit tatsächlich ganz lieb!"
   },
   {
-    "objectID": "posts/2023-01-05-erster-eintrag/Index.html#running-code",
-    "href": "posts/2023-01-05-erster-eintrag/Index.html#running-code",
-    "title": "Erster Eintrag",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "mitmachen.html#newsbeiträge",
+    "href": "mitmachen.html#newsbeiträge",
+    "title": "Mitmachen",
+    "section": "Newsbeiträge",
+    "text": "Newsbeiträge\nNewsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de. Perspektivisch wäre es bestimmt ein gute Idee eine besser Kontaktmöglichkeit zu schaffen!\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
   },
   {
-    "objectID": "posts/2023-01-05-erster-eintrag/index.html",
-    "href": "posts/2023-01-05-erster-eintrag/index.html",
-    "title": "Erster Eintrag",
-    "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist."
-  },
-  {
-    "objectID": "posts/2023-01-05-erster-eintrag/index.html#mitmachen",
-    "href": "posts/2023-01-05-erster-eintrag/index.html#mitmachen",
-    "title": "Erster Eintrag",
-    "section": "Mitmachen",
-    "text": "Mitmachen"
-  },
-  {
-    "objectID": "impressum.html",
-    "href": "impressum.html",
-    "title": "Impressum",
-    "section": "",
-    "text": "Quelle: Telemediengesetz (TMG)\nEs handelt sich bei dieser Webpräsenz um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Todo: * smaller / better favicon"
+    "objectID": "mitmachen.html#verbesserung-der-webseite",
+    "href": "mitmachen.html#verbesserung-der-webseite",
+    "title": "Mitmachen",
+    "section": "Verbesserung der Webseite",
+    "text": "Verbesserung der Webseite\nHinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der entsprechenden Githubseite des Projektes.\n\n\n\n\n\n\nMitmachmöglichkeit 1\n\n\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll!\nWer eine andere Idee hat - auch gern vorschlagen :-)\nAktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre!\n\n\n\n\n\n\n\n\nMitmachmöglichkeit 2\n\n\n\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
   },
   {
     "objectID": "news.html",
@@ -63,43 +35,18 @@
     "text": "Information\n\n\n\nAuf dieser Seite werden Nachrichten angezeigt, die den Fortschritt des Photovoltaikausbaus in Dresden dokumentieren.\n\n\n\n\n\n\n\n\n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\nGrønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\n\n\n\n\n\n\nZweiter Eintrag\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n05.02.2023\n\n\n\n\n\n\n\n\nErster Eintrag\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n04.02.2023\n\n\n\n\n\n\nKeine Treffer"
   },
   {
-    "objectID": "posts/2023-01-05-zweiter-eintrag/index.html",
-    "href": "posts/2023-01-05-zweiter-eintrag/index.html",
-    "title": "Zweiter Eintrag",
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
     "section": "",
-    "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch Inhalte und ich möchte noch eine gute Einführung für die Startseite schreiben, was das Ziel der Seite ist!"
+    "text": "Quelle: Telemediengesetz (TMG)\nEs handelt sich bei dieser Webpräsenz um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
   },
   {
-    "objectID": "posts/2023-01-05-zweiter-eintrag/index.html#konkrete-todos",
-    "href": "posts/2023-01-05-zweiter-eintrag/index.html#konkrete-todos",
-    "title": "Zweiter Eintrag",
-    "section": "Konkrete ToDos:",
-    "text": "Konkrete ToDos:\n\nGeeignetes favicon finden\nGuten Text für Startseite schreiben\nFeedback einholen\nNach guter Kommentarfunktion Ausschau halten"
-  },
-  {
-    "objectID": "mitmachen.html",
-    "href": "mitmachen.html",
-    "title": "Mitmachen",
-    "section": "",
-<<<<<<< HEAD
-    "text": "Das Projekt “Dresden Solar” ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!"
-=======
-    "text": "Das Projekt “Dresden Solar” ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!"
->>>>>>> e79cf74efe87efb3c3f406b840170577ddaa5125
-  },
-  {
-    "objectID": "mitmachen.html#variante-2-anschieber",
-    "href": "mitmachen.html#variante-2-anschieber",
-    "title": "Mitmachen",
-    "section": "Variante 2: Anschieber",
-    "text": "Variante 2: Anschieber\nFür Menschen, die versuchen ein PV-Projekt zu initieren, aber dieses Projekt eher anschieben und nicht selbst durchführen."
-  },
-  {
-    "objectID": "mitmachen.html#variante-1-betreiber",
-    "href": "mitmachen.html#variante-1-betreiber",
-    "title": "Mitmachen",
-    "section": "Variante 1: Betreiber",
-    "text": "Variante 1: Betreiber\nFür Personen / Institutionen, die selbst PV-Anlagen installieren und betreiben wollen. Sie können hier vom Projektfortschritt berichten."
+    "objectID": "impressum.html#datenschutz",
+    "href": "impressum.html#datenschutz",
+    "title": "Impressum",
+    "section": "Datenschutz",
+    "text": "Datenschutz\n\nAuf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.\nDie Kommentarfunktion ist über Github utterances realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der Projektwebseite."
   },
   {
     "objectID": "links.html",
@@ -114,20 +61,6 @@
     "title": "Links",
     "section": "Seiten der Stadt Dresden",
     "text": "Seiten der Stadt Dresden\n\nAllgemeine Seite zum Thema Klima: Link\nKlimaschutz\nIntegriertes Energie- und Klimaschutzkonzept"
-  },
-  {
-    "objectID": "links.html#pv-verein-dresden",
-    "href": "links.html#pv-verein-dresden",
-    "title": "Links",
-    "section": "PV-Verein Dresden",
-    "text": "PV-Verein Dresden\nfalls so etwas existiert"
-  },
-  {
-    "objectID": "links.html#umweltschutzorganisationen",
-    "href": "links.html#umweltschutzorganisationen",
-    "title": "Links",
-    "section": "Umweltschutzorganisationen",
-    "text": "Umweltschutzorganisationen\nda gibt es sicher viele"
   },
   {
     "objectID": "links.html#vee-sachsen",
@@ -165,108 +98,10 @@
     "text": "egNEOS\nLink"
   },
   {
-    "objectID": "links.html#sachsenenergie",
-    "href": "links.html#sachsenenergie",
-    "title": "Links",
-    "section": "Sachsenenergie",
-    "text": "Sachsenenergie\n\nLink\nFür mich auf den ersten Blick keine aussagekräftigen Informationen zum Thema Energiewende etc. ersichtlich"
-  },
-  {
-    "objectID": "posts/2023-02-05-erster-eintrag/index.html",
-    "href": "posts/2023-02-05-erster-eintrag/index.html",
-    "title": "Erster Eintrag",
-    "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist."
-  },
-  {
-    "objectID": "posts/2023-02-05-erster-eintrag/index.html#mitmachen",
-    "href": "posts/2023-02-05-erster-eintrag/index.html#mitmachen",
-    "title": "Erster Eintrag",
-    "section": "Mitmachen",
-    "text": "Mitmachen"
-  },
-  {
-    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
-    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
-    "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak Grønnköpingkið University Hospital Dresden",
-    "section": "",
-    "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
-  },
-  {
-    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html#konkrete-todos",
-    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html#konkrete-todos",
-    "title": "Zweiter Eintrag",
-    "section": "Konkrete ToDos:",
-    "text": "Konkrete ToDos:\n\nGeeignetes favicon finden\nGuten Text für Startseite schreiben\nFeedback einholen\nNach guter Kommentarfunktion Ausschau halten"
-  },
-  {
-    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html",
-    "href": "posts/2023-02-05-zweiter-eintrag/index.html",
-    "title": "Zweiter Eintrag",
-    "section": "",
-    "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch Inhalte und ich möchte noch eine gute Einführung für die Startseite schreiben, was das Ziel der Seite ist!"
-  },
-  {
-    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html#konkrete-todos",
-    "href": "posts/2023-02-05-zweiter-eintrag/index.html#konkrete-todos",
-    "title": "Zweiter Eintrag",
-    "section": "Konkrete ToDos:",
-    "text": "Konkrete ToDos:\n\nGeeignetes favicon finden\nGuten Text für Startseite schreiben\nFeedback einholen\nNach guter Kommentarfunktion Ausschau halten"
-  },
-  {
-    "objectID": "posts/2023-02-04-erster-eintrag/index.html",
-    "href": "posts/2023-02-04-erster-eintrag/index.html",
-    "title": "Erster Eintrag",
-    "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist."
-  },
-  {
-    "objectID": "posts/2023-02-04-erster-eintrag/index.html#mitmachen",
-    "href": "posts/2023-02-04-erster-eintrag/index.html#mitmachen",
-    "title": "Erster Eintrag",
-    "section": "Mitmachen",
-    "text": "Mitmachen"
-  },
-  {
-    "objectID": "impressum.html#datenschutz",
-    "href": "impressum.html#datenschutz",
-    "title": "Impressum",
-    "section": "Datenschutz",
-    "text": "Datenschutz\n\nAuf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.\nDie Kommentarfunktion ist über Github utterances realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der Projektwebseite."
-  },
-  {
     "objectID": "links.html#carus-green",
     "href": "links.html#carus-green",
     "title": "Links",
     "section": "Carus Green",
     "text": "Carus Green\n\nBisher keine gute Webpräsenz gefunden"
-  },
-  {
-    "objectID": "mitmachen.html#startphase",
-    "href": "mitmachen.html#startphase",
-    "title": "Mitmachen",
-    "section": "Startphase",
-    "text": "Startphase\nDas Projekt “Dresden Solar” ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!"
-  },
-  {
-    "objectID": "mitmachen.html#news-typen",
-    "href": "mitmachen.html#news-typen",
-    "title": "Mitmachen",
-    "section": "News-Typen",
-    "text": "News-Typen\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
-  },
-  {
-    "objectID": "mitmachen.html#verbesserung-der-webseite",
-    "href": "mitmachen.html#verbesserung-der-webseite",
-    "title": "Mitmachen",
-    "section": "Verbesserung der Webseite",
-    "text": "Verbesserung der Webseite\nHinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der entsprechenden Githubseite des Projektes.\n\n\n\n\n\n\nMitmachmöglichkeit 1\n\n\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll!\nWer eine andere Idee hat - auch gern vorschlagen :-)\nAktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre!\n\n\n\n\n\n\n\n\nMitmachmöglichkeit 2\n\n\n\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
-  },
-  {
-    "objectID": "mitmachen.html#newsbeiträge",
-    "href": "mitmachen.html#newsbeiträge",
-    "title": "Mitmachen",
-    "section": "Newsbeiträge",
-    "text": "Newsbeiträge\nNewsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
   }
 ]
