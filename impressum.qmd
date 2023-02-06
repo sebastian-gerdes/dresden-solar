@@ -4,7 +4,8 @@ title: "Impressum"
 
 ## Angaben gemäß § 5 TMG
 * Quelle: [Telemediengesetz (TMG)](https://www.gesetze-im-internet.de/tmg/BJNR017910007.html)
-* Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)
+* Es handelt sich bei dieser Webpräsenz um die Seite einer Privatperson
+* Betreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)
 * Elektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de
 * Redaktionell verantwortlich: Sebastian Gerdes
 
