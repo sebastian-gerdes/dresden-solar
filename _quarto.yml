@@ -19,6 +19,7 @@ website:
       - impressum.qmd
   open-graph: true
   cookie-consent: false
+  page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus'" 
 format:
   html:
     theme: cosmo

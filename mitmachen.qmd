@@ -5,20 +5,23 @@ title: "Mitmachen"
 
 ::: {.callout-note}
 ## Mitmachmöglichkeit
-Ich suche noch nach einem schönen Bild für die Seite ["Über das Projekt"](index.qmd). Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. 
-
-Aktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre! Vom Copyright könnte eine geschickte Möglichkeit sein, Bilder von wikipedia als Startmaterial zu nehmen (z. B. von [hier](https://en.wikipedia.org/wiki/Frauenkirche,_Dresden), [hier](https://en.wikipedia.org/wiki/Photovoltaic_system) und [hier](https://de.wikipedia.org/wiki/Photovoltaikanlage) - oder auch von woanders). 
+Ich suche noch nach einem schönen Bild für die Seite ["Über das Projekt"](index.qmd). Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll!
 
 Wer eine andere Idee hat - auch gern vorschlagen :-)
+
+Aktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre! 
+
 :::
 
 
+## Startphase
 Das Projekt "Dresden Solar" ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
 
 Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
 
 Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.
 
+## News-Typen
 Insbesondere kommen dabei die folgenden News-Typen in Betracht:
 
 * Eine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt
@@ -28,3 +31,5 @@ Insbesondere kommen dabei die folgenden News-Typen in Betracht:
 * Allgemeine News zum Thema Solarenergie in Dresden
 * Gastbeiträge aus anderen Städten
 
+## Verbesserung der Webseite
+Hinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der [entsprechenden Githubseite des Projektes](https://github.com/sebastian-gerdes/pv-dd/issues).

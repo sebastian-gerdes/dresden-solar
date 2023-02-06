@@ -81,7 +81,7 @@
     "href": "mitmachen.html",
     "title": "Mitmachen",
     "section": "",
-    "text": "Mitmachmöglichkeit\n\n\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche.\nAktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre! Vom Copyright könnte eine geschickte Möglichkeit sein, Bilder von wikipedia als Startmaterial zu nehmen (z. B. von hier, hier und hier - oder auch von woanders).\nWer eine andere Idee hat - auch gern vorschlagen :-)\n\n\nDas Projekt “Dresden Solar” ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!\nNewsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
+    "text": "Mitmachmöglichkeit\n\n\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll!\nWer eine andere Idee hat - auch gern vorschlagen :-)\nAktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wenn es ein Bild mit Dresden-Bezug wäre!"
   },
   {
     "objectID": "mitmachen.html#variante-2-anschieber",
@@ -236,5 +236,26 @@
     "title": "Links",
     "section": "Carus Green",
     "text": "Carus Green\n\nBisher keine gute Webpräsenz gefunden"
+  },
+  {
+    "objectID": "mitmachen.html#startphase",
+    "href": "mitmachen.html#startphase",
+    "title": "Mitmachen",
+    "section": "Startphase",
+    "text": "Startphase\nDas Projekt “Dresden Solar” ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!\nNewsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de."
+  },
+  {
+    "objectID": "mitmachen.html#news-typen",
+    "href": "mitmachen.html#news-typen",
+    "title": "Mitmachen",
+    "section": "News-Typen",
+    "text": "News-Typen\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
+  },
+  {
+    "objectID": "mitmachen.html#verbesserung-der-webseite",
+    "href": "mitmachen.html#verbesserung-der-webseite",
+    "title": "Mitmachen",
+    "section": "Verbesserung der Webseite",
+    "text": "Verbesserung der Webseite\nHinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der entsprechenden Githubseite des Projektes."
   }
 ]
