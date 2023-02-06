@@ -9,6 +9,9 @@ website:
   #   hypothesis:
   #     theme: clean
   #     openSidebar: false
+  comments: 
+    utterances:
+      repo: sebastian-gerdes/pv-dd-utterances
   navbar:
     left:
       - news.qmd
