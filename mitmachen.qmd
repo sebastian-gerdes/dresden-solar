@@ -31,5 +31,5 @@ Aktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wen
 
 ::: {.callout-note}
 ## Mitmachmöglichkeit 2
-Die Webseite könnte noch ein gute Adresse gebrauchen. [www.dresden-solar.de](www.dresden-solar.de) und [www.dresdensolar.de](www.dresdensolar.de) scheinen schon reserviert. [www.dresden-solar.net](www.dresden-solar.net) erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!
+Die Webseite könnte noch ein gute Adresse gebrauchen. [www.dresden-solar.de](http://www.dresden-solar.de/) und [www.dresdensolar.de](http://www.dresden-solar.de/) scheinen schon reserviert. [www.dresden-solar.net](http://www.dresden-solar.net/) erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!
 :::
