@@ -4,12 +4,13 @@ project:
 
 website:
   favicon: pv_dd_logo.png
-  title: "Photovoltaik in Dresden"
+  title: "Dresden Solar"
   # comments: 
   #   hypothesis:
   #     theme: clean
   #     openSidebar: false
   navbar:
+    # background: orange
     left:
       - news.qmd
       - mitmachen.qmd

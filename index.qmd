@@ -9,7 +9,7 @@ about:
   #     href: https://twitter.com
 
 ---
-
+ 
 Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
 
 Dies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.
