@@ -12,6 +12,7 @@ website:
   navbar:
     # background: orange
     left:
+      - index.qmd
       - news.qmd
       - mitmachen.qmd
       - links.qmd
