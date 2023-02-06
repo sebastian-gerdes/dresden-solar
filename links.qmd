@@ -27,6 +27,9 @@ Auf dieser Seite findet sich eine (mehr oder weniger) kommentierte Sammlung von 
 ## egNEOS
 [Link](https://egneos.de/)
 
-## Sachsenenergie
-* [Link](https://www.sachsenenergie.de/)
-* Für mich auf den ersten Blick keine aussagekräftigen Informationen zum Thema Energiewende etc. ersichtlich
+<!-- ## Sachsenenergie -->
+<!-- * [Link](https://www.sachsenenergie.de/) -->
+<!-- * Für mich auf den ersten Blick keine aussagekräftigen Informationen zum Thema Energiewende etc. ersichtlich -->
+
+## Carus Green
+* Bisher keine gute Webpräsenz gefunden
