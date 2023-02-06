@@ -46,7 +46,7 @@
     "href": "impressum.html",
     "title": "Impressum",
     "section": "",
-    "text": "Die ist eine private Webseite von:\nSebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de"
+    "text": "Quelle: Telemediengesetz (TMG)\nSebastian Gerdes Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
   },
   {
     "objectID": "notes.html",
@@ -222,5 +222,12 @@
     "title": "Erster Eintrag",
     "section": "Mitmachen",
     "text": "Mitmachen"
+  },
+  {
+    "objectID": "impressum.html#datenschutz",
+    "href": "impressum.html#datenschutz",
+    "title": "Impressum",
+    "section": "Datenschutz",
+    "text": "Datenschutz\n\nAuf dieser Seite erfolgt kein Tracking, keine Werbung, es werden keine Cookies gesetzt\nÜber die Kommentarfunktion ist über Github utterances realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der Projektwebseite"
   }
 ]

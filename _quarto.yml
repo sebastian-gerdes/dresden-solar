@@ -17,6 +17,8 @@ website:
       - mitmachen.qmd
       - links.qmd
       - impressum.qmd
+  open-graph: true
+  cookie-consent: false
 format:
   html:
     theme: cosmo
