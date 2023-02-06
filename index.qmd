@@ -3,7 +3,6 @@ title: "Über das Projekt"
 image: profile.jpg
 about:
   template: jolla
-
 # links:
 #   - icon: twitter
 #     text: Twitter
@@ -11,19 +10,15 @@ about:
 
 ---
 
-## Solarenergie für Dresden!  
-Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann! 
-  
-Auf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen!
-  
-Der Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann! Auch könnten über diese Seite perspektivisch Kontaktmöglichkeiten zwischen Menschen, die gern den Photovoltaikanlagenausbau voranbringen möchten, geschaffen werden. 
+Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
+
+Dieser Überblick soll Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jeder kann Beiträge beisteuern!
 
 
-## Projektstatus: Noch nicht in den Kinderschuhen
-Das Projekt "Dresden Solar" ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
+<!-- Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!  -->
 
-Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
+<!-- Auf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen! -->
 
-Ggf. könnte die Webseite auch an einen bestehenden oder neu zu gründenden Verein angegliedert werden. Das wäre mit tatsächlich ganz lieb! 
+<!-- Der Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann! Auch könnten über diese Seite perspektivisch Kontaktmöglichkeiten zwischen Menschen, die gern den Photovoltaikanlagenausbau voranbringen möchten, geschaffen werden.  -->
 
 Copyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 ([Link](https://creativecommons.org/licenses/by-sa/3.0)), via Wikimedia Commons, [Link](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) zur Datei.

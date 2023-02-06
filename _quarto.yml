@@ -26,5 +26,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    strip-comments: true
 
 lang: de
