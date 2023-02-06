@@ -81,7 +81,11 @@
     "href": "mitmachen.html",
     "title": "Mitmachen",
     "section": "",
+<<<<<<< HEAD
     "text": "Das Projekt “Dresden Solar” ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!"
+=======
+    "text": "Das Projekt “Dresden Solar” ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!"
+>>>>>>> e79cf74efe87efb3c3f406b840170577ddaa5125
   },
   {
     "objectID": "mitmachen.html#variante-2-anschieber",
