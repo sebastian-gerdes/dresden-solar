@@ -2,15 +2,7 @@
 title: "Mitmachen"
 ---
 
-## Projektstatus: Noch nicht in den Kinderschuhen
-Das Projekt "Dresden Solar" ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
-
-Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
-
-Ggf. könnte die Webseite auch an einen bestehenden oder neu zu gründenden Verein angegliedert werden. Das wäre mit tatsächlich ganz lieb! 
-
-
-## Newsbeiträge
+## Beisteuern von Newsbeiträgen
 Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de. Perspektivisch wäre es bestimmt ein gute Idee eine besser Kontaktmöglichkeit zu schaffen!
 
 Insbesondere kommen dabei die folgenden News-Typen in Betracht:
@@ -21,6 +13,9 @@ Insbesondere kommen dabei die folgenden News-Typen in Betracht:
   + zum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen
 * Allgemeine News zum Thema Solarenergie in Dresden
 * Gastbeiträge aus anderen Städten
+
+## Vorschläge zum Konzept
+Vielleicht hat jemand Vorschläge, wie man dieses Projekt beflügeln kann? 
 
 ## Verbesserung der Webseite
 Hinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der [entsprechenden Githubseite des Projektes](https://github.com/sebastian-gerdes/pv-dd/issues).
