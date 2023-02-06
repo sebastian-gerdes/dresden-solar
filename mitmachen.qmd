@@ -2,6 +2,26 @@
 title: "Mitmachen"
 ---
 
+## Startphase
+Das Projekt "Dresden Solar" ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
+
+Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
+
+
+## Newsbeiträge
+Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.
+
+Insbesondere kommen dabei die folgenden News-Typen in Betracht:
+
+* Eine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt
+  + zum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes
+* Eine Person möchte von Motivationsbestrebungen berichten
+  + zum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen
+* Allgemeine News zum Thema Solarenergie in Dresden
+* Gastbeiträge aus anderen Städten
+
+## Verbesserung der Webseite
+Hinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der [entsprechenden Githubseite des Projektes](https://github.com/sebastian-gerdes/pv-dd/issues).
 
 ::: {.callout-note}
 ## Mitmachmöglichkeit 1
@@ -16,24 +36,3 @@ Aktuell ist auf der Seite ein Bild aus Freiburg - es wäre natürlich schon, wen
 ## Mitmachmöglichkeit 2
 Die Webseite könnte noch ein gute Adresse gebrauchen. [www.dresden-solar.de](www.dresden-solar.de) und [www.dresdensolar.de](www.dresdensolar.de) scheinen schon reserviert. [www.dresden-solar.net](www.dresden-solar.net) erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!
 :::
-
-
-## Startphase
-Das Projekt "Dresden Solar" ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
-
-Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
-
-Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.
-
-## News-Typen
-Insbesondere kommen dabei die folgenden News-Typen in Betracht:
-
-* Eine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt
-  + zum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes
-* Eine Person möchte von Motivationsbestrebungen berichten
-  + zum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen
-* Allgemeine News zum Thema Solarenergie in Dresden
-* Gastbeiträge aus anderen Städten
-
-## Verbesserung der Webseite
-Hinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der [entsprechenden Githubseite des Projektes](https://github.com/sebastian-gerdes/pv-dd/issues).
