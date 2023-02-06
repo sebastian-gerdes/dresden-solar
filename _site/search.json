@@ -4,7 +4,11 @@
     "href": "index.html",
     "title": "Über das Projekt",
     "section": "",
+<<<<<<< HEAD
     "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDieser Überblick soll Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jeder kann Beiträge beisteuern!\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei."
+=======
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jeder kann Beiträge beisteuern!\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei."
+>>>>>>> 75ad226eb124b1c7a10a82198206f9173e55a3c6
   },
   {
     "objectID": "mitmachen.html",
