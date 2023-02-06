@@ -2,10 +2,18 @@
 title: "Mitmachen"
 ---
 
-Diese Seite ist gedacht als eine Seite, zu der viele Menschen beitragen können.
+Das Projekt "Dresden Solar" ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!
 
-## Variante 1: Betreiber
-Für Personen / Institutionen, die selbst PV-Anlagen installieren und betreiben wollen. Sie können hier vom Projektfortschritt berichten.
+Das Projekt ist offen gedacht und soll vielen Menschen offenstehen!
 
-## Variante 2: Anschieber
-Für Menschen, die versuchen ein PV-Projekt zu initieren, aber dieses Projekt eher anschieben und nicht selbst durchführen.
+Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.
+
+Insbesondere kommen dabei die folgenden News-Typen in Betracht:
+
+* Eine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt
+  + zum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes
+* Eine Person möchte von Motivationsbestrebungen berichten
+  + zum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen
+* Allgemeine News zum Thema Solarenergie in Dresden
+* Gastbeiträge aus anderen Städten
+

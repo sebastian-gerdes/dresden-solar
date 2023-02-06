@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist.\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei"
+    "text": "Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!\nAuf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen!\nDer Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann!\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist.\nCopyright des Bildes auf dieser Seite: Andrewglaser at English Wikipedia, CC BY-SA 3.0 (Link), via Wikimedia Commons, Link zur Datei"
   },
   {
     "objectID": "posts/2023-01-05-erster-eintrag/Index.html",
@@ -60,7 +60,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Information\n\n\n\nAuf dieser Seite werden Nachrichten angezeigt, die den Fortschritt des Photovoltaikausbaus in Dresden dokumentieren.\n\n\n\n\n\n\n\n\n\n\n\n\nErster Eintrag\n\n\n\n\n\n\n\n\n\n\n\n\n05.02.2023\n\n\n\n\n\n\n\n\nZweiter Eintrag\n\n\n\n\n\n\n\n\n\n\n\n\n05.02.2023\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Information\n\n\n\nAuf dieser Seite werden Nachrichten angezeigt, die den Fortschritt des Photovoltaikausbaus in Dresden dokumentieren.\n\n\n\n\n\n\n\n\n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\nGrønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\n\n\n\n\n\n\nZweiter Eintrag\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n05.02.2023\n\n\n\n\n\n\n\n\nErster Eintrag\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n04.02.2023\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "posts/2023-01-05-zweiter-eintrag/index.html",
@@ -81,7 +81,7 @@
     "href": "mitmachen.html",
     "title": "Mitmachen",
     "section": "",
-    "text": "Diese Seite ist gedacht als eine Seite, zu der viele Menschen beitragen können."
+    "text": "Das Projekt “Dresden Solar” ist noch in der Startphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nDas Projekt ist offen gedacht und soll vielen Menschen offenstehen!\nNewsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
   },
   {
     "objectID": "mitmachen.html#variante-2-anschieber",
@@ -102,14 +102,14 @@
     "href": "links.html",
     "title": "Links",
     "section": "",
-    "text": "Hier sollen informative Links kommen."
+    "text": "Auf dieser Seite findet sich eine (mehr oder weniger) kommentierte Sammlung von Links zum Thema Solarenergie in Dresden sowie auch einige allgemeinere Links zum Thema Energie und Energiewende in Dresden."
   },
   {
     "objectID": "links.html#seiten-der-stadt-dresden",
     "href": "links.html#seiten-der-stadt-dresden",
     "title": "Links",
     "section": "Seiten der Stadt Dresden",
-    "text": "Seiten der Stadt Dresden\nKlimaziele der Stadt Dresden"
+    "text": "Seiten der Stadt Dresden\n\nAllgemeine Seite zum Thema Klima: Link\nKlimaschutz\nIntegriertes Energie- und Klimaschutzkonzept"
   },
   {
     "objectID": "links.html#pv-verein-dresden",
@@ -124,5 +124,103 @@
     "title": "Links",
     "section": "Umweltschutzorganisationen",
     "text": "Umweltschutzorganisationen\nda gibt es sicher viele"
+  },
+  {
+    "objectID": "links.html#vee-sachsen",
+    "href": "links.html#vee-sachsen",
+    "title": "Links",
+    "section": "VEE Sachsen",
+    "text": "VEE Sachsen\nVereinigung zur Förderung der Nutzung Erneuerbarer Energien"
+  },
+  {
+    "objectID": "links.html#netzwerk-eurosolar",
+    "href": "links.html#netzwerk-eurosolar",
+    "title": "Links",
+    "section": "Netzwerk Eurosolar",
+    "text": "Netzwerk Eurosolar\nLink"
+  },
+  {
+    "objectID": "links.html#solarpotenzialkataster-sächsische-energieagentur",
+    "href": "links.html#solarpotenzialkataster-sächsische-energieagentur",
+    "title": "Links",
+    "section": "Solarpotenzialkataster Sächsische Energieagentur",
+    "text": "Solarpotenzialkataster Sächsische Energieagentur\nLink"
+  },
+  {
+    "objectID": "links.html#regionaler-solarverein-dresden-e.-v.-rsd",
+    "href": "links.html#regionaler-solarverein-dresden-e.-v.-rsd",
+    "title": "Links",
+    "section": "Regionaler Solarverein Dresden e. V. RSD",
+    "text": "Regionaler Solarverein Dresden e. V. RSD\nLink"
+  },
+  {
+    "objectID": "links.html#egneos",
+    "href": "links.html#egneos",
+    "title": "Links",
+    "section": "egNEOS",
+    "text": "egNEOS\nLink"
+  },
+  {
+    "objectID": "links.html#sachsenenergie",
+    "href": "links.html#sachsenenergie",
+    "title": "Links",
+    "section": "Sachsenenergie",
+    "text": "Sachsenenergie\n\nLink\nFür mich auf den ersten Blick keine aussagekräftigen Informationen zum Thema Energiewende etc. ersichtlich"
+  },
+  {
+    "objectID": "posts/2023-02-05-erster-eintrag/index.html",
+    "href": "posts/2023-02-05-erster-eintrag/index.html",
+    "title": "Erster Eintrag",
+    "section": "",
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist."
+  },
+  {
+    "objectID": "posts/2023-02-05-erster-eintrag/index.html#mitmachen",
+    "href": "posts/2023-02-05-erster-eintrag/index.html#mitmachen",
+    "title": "Erster Eintrag",
+    "section": "Mitmachen",
+    "text": "Mitmachen"
+  },
+  {
+    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
+    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
+    "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak Grønnköpingkið University Hospital Dresden",
+    "section": "",
+    "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
+  },
+  {
+    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html#konkrete-todos",
+    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html#konkrete-todos",
+    "title": "Zweiter Eintrag",
+    "section": "Konkrete ToDos:",
+    "text": "Konkrete ToDos:\n\nGeeignetes favicon finden\nGuten Text für Startseite schreiben\nFeedback einholen\nNach guter Kommentarfunktion Ausschau halten"
+  },
+  {
+    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html",
+    "href": "posts/2023-02-05-zweiter-eintrag/index.html",
+    "title": "Zweiter Eintrag",
+    "section": "",
+    "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch Inhalte und ich möchte noch eine gute Einführung für die Startseite schreiben, was das Ziel der Seite ist!"
+  },
+  {
+    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html#konkrete-todos",
+    "href": "posts/2023-02-05-zweiter-eintrag/index.html#konkrete-todos",
+    "title": "Zweiter Eintrag",
+    "section": "Konkrete ToDos:",
+    "text": "Konkrete ToDos:\n\nGeeignetes favicon finden\nGuten Text für Startseite schreiben\nFeedback einholen\nNach guter Kommentarfunktion Ausschau halten"
+  },
+  {
+    "objectID": "posts/2023-02-04-erster-eintrag/index.html",
+    "href": "posts/2023-02-04-erster-eintrag/index.html",
+    "title": "Erster Eintrag",
+    "section": "",
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher ist es eine rein private Webseite, die nicht für andere gedacht ist."
+  },
+  {
+    "objectID": "posts/2023-02-04-erster-eintrag/index.html#mitmachen",
+    "href": "posts/2023-02-04-erster-eintrag/index.html#mitmachen",
+    "title": "Erster Eintrag",
+    "section": "Mitmachen",
+    "text": "Mitmachen"
   }
 ]
