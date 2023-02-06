@@ -4,10 +4,11 @@ title: "Impressum"
 
 ## Angaben gemäß § 5 TMG
 * Quelle: [Telemediengesetz (TMG)](https://www.gesetze-im-internet.de/tmg/BJNR017910007.html)
-* Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)
+* Es handelt sich bei dieser Webpräsenz um die Seite einer Privatperson
+* Betreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)
 * Elektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de
 * Redaktionell verantwortlich: Sebastian Gerdes
 
 ## Datenschutz
 * Auf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.
-* Über die Kommentarfunktion ist über [Github utterances](https://github.com/utterance/utterances) realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der [Projektwebseite](https://github.com/utterance/utterances).
+* Die Kommentarfunktion ist über [Github utterances](https://github.com/utterance/utterances) realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der [Projektwebseite](https://github.com/utterance/utterances).
