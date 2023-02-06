@@ -15,6 +15,7 @@ website:
       - index.qmd
       - news.qmd
       - mitmachen.qmd
+      - next_steps.qmd
       - links.qmd
       - impressum.qmd
   open-graph: true
