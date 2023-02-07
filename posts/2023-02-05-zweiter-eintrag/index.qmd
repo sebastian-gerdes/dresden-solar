@@ -6,10 +6,4 @@ categories: [Allgemein]
 ---
 
 ## Aktueller Stand
-Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch Inhalte und ich möchte noch eine gute Einführung für die Startseite schreiben, was das Ziel der Seite ist!
-
-## Konkrete ToDos:
-* Geeignetes `favicon` finden
-* Guten Text für Startseite schreiben
-* Feedback einholen
-* Nach guter Kommentarfunktion Ausschau halten
+Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!

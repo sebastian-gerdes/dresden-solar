@@ -10,4 +10,4 @@ Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fo
 
 Dies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.
 
-Bisher ist es eine rein private Webseite, die nicht für andere gedacht ist.
+Bisher (Stand 4.2.2023) ist es eine rein private Webseite, die noch nicht für die Öffentlichkeit gedacht ist.

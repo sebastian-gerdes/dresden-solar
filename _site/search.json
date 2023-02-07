@@ -109,7 +109,7 @@
     "href": "next_steps.html#geplante-nächste-schritte",
     "title": "Next Steps",
     "section": "Geplante nächste Schritte:",
-    "text": "Geplante nächste Schritte:\n\nFeedback einholen\nInstitutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob Sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen\nAuf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten\nNewsletter-Funktion ergänzen, z. B. über:\n\nMailjet - wird auch von Health for Future genutzt\nMailchimp\n\nRSS-Feeds anbieten\nRechtliche Aspekte klären\n\nInsbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet?\nWelche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?\nImpressum: Hinweise zur Verarbeitung von Daten etc. so passend?\n\nBesseren Webseitennamen / Domäne organisieren\nBesseres Bild für Startseite"
+    "text": "Geplante nächste Schritte:\n\nFeedback einholen\nInstitutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen\nAuf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten\nNewsletter-Funktion ergänzen, z. B. über:\n\nMailjet - wird auch von Health for Future genutzt\nMailchimp\n\nRSS-Feeds anbieten\nRechtliche Aspekte klären\n\nInsbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet?\nWelche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?\nImpressum: Hinweise zur Verarbeitung von Daten etc. so passend?\n\nBesseren Webseitennamen / Domäne organisieren\nBesseres Bild für Startseite"
   },
   {
     "objectID": "posts/2023-02-06-aktueller-projektstatus/index.html",
@@ -123,7 +123,7 @@
     "href": "index.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jeder kann Beiträge beisteuern!\nBildquelle - Lizenz"
+    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nBildquelle - Lizenz"
   },
   {
     "objectID": "links.html#infos-zum-thema-energie-des-landes-sachsen",
@@ -173,5 +173,19 @@
     "title": "Links",
     "section": "Fridays For Future Dresden",
     "text": "Fridays For Future Dresden\n\nLink\nLink zu sehr interessantem Blogpost"
+  },
+  {
+    "objectID": "posts/2023-02-04-erster-eintrag/index.html",
+    "href": "posts/2023-02-04-erster-eintrag/index.html",
+    "title": "Erster Eintrag",
+    "section": "",
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher (Stand 4.2.2023) ist es eine rein private Webseite, die noch nicht für die Öffentlichkeit gedacht ist."
+  },
+  {
+    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html",
+    "href": "posts/2023-02-05-zweiter-eintrag/index.html",
+    "title": "Zweiter Eintrag",
+    "section": "",
+    "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!"
   }
 ]
