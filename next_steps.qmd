@@ -11,7 +11,11 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
 ## Geplante nächste Schritte:
 * Feedback einholen
 * Institutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob Sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen
-* Um Verlinkungen auf anderen Seiten bitten
+* Auf anderen Seiten um Verlinkung bitten
+* Newsletter-Funktion ergänzen, z. B. über:
+  * [Mailjet](https://www.mailjet.com/pricing/) - wird auch von Health for Future genutzt
+  * [Mailchimp](https://mailchimp.com/de/?currency=EUR)
+* RSS-Feeds anbieten
 * Rechtliche Aspekte klären
   * Insbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet? 
   * Welche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?
