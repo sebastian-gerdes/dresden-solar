@@ -15,4 +15,4 @@ title: "Impressum"
 * Die Kommentarfunktion ist über [Github utterances](https://github.com/utterance/utterances) realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der [Projektwebseite](https://github.com/utterance/utterances).
 
 ## Quellcode der Webseite
-* Der Quellcode der Webseite befindet sich [hier](https://github.com/sebastian-gerdes/pv-dd) in einem öffentlichen Repository bei [GitHub](https://github.com/).
+* Der Quellcode der Webseite befindet sich [hier](https://github.com/sebastian-gerdes/pv-dd) in einem öffentlichen Repository bei [GitHub](https://github.com/) und kann bei Interesse für andere Seiten gern verwendet werden!

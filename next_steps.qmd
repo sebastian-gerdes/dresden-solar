@@ -11,7 +11,7 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
 ## Geplante nächste Schritte:
 * Feedback einholen
 * Institutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob Sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen
-* Auf anderen Seiten um Verlinkung bitten
+* Auf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten
 * Newsletter-Funktion ergänzen, z. B. über:
   * [Mailjet](https://www.mailjet.com/pricing/) - wird auch von Health for Future genutzt
   * [Mailchimp](https://mailchimp.com/de/?currency=EUR)

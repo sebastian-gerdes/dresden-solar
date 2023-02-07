@@ -3,19 +3,20 @@ title: "Mitmachen"
 ---
 
 ## Beisteuern von Newsbeiträgen
-Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de. Perspektivisch wäre es bestimmt ein gute Idee eine besser Kontaktmöglichkeit zu schaffen!
+Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de. 
 
 Insbesondere kommen dabei die folgenden News-Typen in Betracht:
 
 * Eine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt
   + zum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes
+  + Berichte von Privatpersonen, die sich eine Solaranlage installieren wollen oder es schon getan haben
 * Eine Person möchte von Motivationsbestrebungen berichten
-  + zum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / ein anderes geeignetes Gebäude dazu zu motivieren, ein Solarprojekt zu beginnen
+  + zum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / eine andere Institution zu einem Solarprojekt zu motivieren
 * Allgemeine News zum Thema Solarenergie in Dresden
 * Gastbeiträge aus anderen Städten
 
 ## Verbesserungsvorschläge für die Website / das Projekt
-Hinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der [entsprechenden Githubseite des Projektes](https://github.com/sebastian-gerdes/pv-dd/issues).
+Hinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden.
 
 Zwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:
 
