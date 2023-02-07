@@ -20,5 +20,5 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
   * Insbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet? 
   * Welche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?
   * Impressum: Hinweise zur Verarbeitung von Daten etc. so passend?
-* Besseren Webseitennamen / Domäne organisieren
+* Besseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)
 * Besseres Bild für Startseite
