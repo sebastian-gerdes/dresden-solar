@@ -137,7 +137,7 @@
     "href": "mitmachen.html#verbesserungsvorschläge-für-die-website-das-projekt",
     "title": "Mitmachen",
     "section": "Verbesserungsvorschläge für die Website / das Projekt",
-    "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der entsprechenden Githubseite des Projektes.\nZwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! Wer eine andere Idee hat - auch gern vorschlagen :-)\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
+    "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden oder auf der entsprechenden Githubseite des Projektes.\nZwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! (Oder auf Grundlage dieses Bildes von Dresden Zero?) Wer eine andere Idee hat - auch gern vorschlagen :-)\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
   },
   {
     "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
@@ -145,5 +145,33 @@
     "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden",
     "section": "",
     "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
+  },
+  {
+    "objectID": "impressum.html#quellcode-der-webseite",
+    "href": "impressum.html#quellcode-der-webseite",
+    "title": "Impressum",
+    "section": "Quellcode der Webseite",
+    "text": "Quellcode der Webseite\n\nDer Quellcode der Webseite befindet sich hier in einem öffentlichen Repository bei GitHub."
+  },
+  {
+    "objectID": "links.html#health-for-future",
+    "href": "links.html#health-for-future",
+    "title": "Links",
+    "section": "Health for Future",
+    "text": "Health for Future\n\nAllgemeiner Link\nKontaktdaten zur Ortsgruppe Dresden"
+  },
+  {
+    "objectID": "links.html#dresden-zero",
+    "href": "links.html#dresden-zero",
+    "title": "Links",
+    "section": "Dresden Zero",
+    "text": "Dresden Zero\nLink"
+  },
+  {
+    "objectID": "links.html#fridays-for-future-dresden",
+    "href": "links.html#fridays-for-future-dresden",
+    "title": "Links",
+    "section": "Fridays For Future Dresden",
+    "text": "Fridays For Future Dresden\n\nLink\nLink zu sehr interessantem Blogpost"
   }
 ]
