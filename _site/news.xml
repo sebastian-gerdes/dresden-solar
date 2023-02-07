@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Dresden Solar</title>
+<link>https://pv-dd.netlify.app/news.html</link>
+<atom:link href="https://pv-dd.netlify.app/news.xml" rel="self" type="application/rss+xml"/>
+<description>Dokumentation des Photovoltaik-Ausbaus in Dresden</description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Sun, 05 Feb 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden</title>
+  <link>https://pv-dd.netlify.app/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an <a href="https://worldsgreenesthospital.org/">dieses</a> hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!</p>
+
+
+
+ ]]></description>
+  <category>Grønnköpingkið University Hospital Dresden</category>
+  <guid>https://pv-dd.netlify.app/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</guid>
+  <pubDate>Sun, 05 Feb 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Aktueller Projektstatus</title>
+  <link>https://pv-dd.netlify.app/posts/2023-02-06-aktueller-projektstatus/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="projektstatus-noch-nicht-in-den-kinderschuhen" class="level2">
+<h2 class="anchored" data-anchor-id="projektstatus-noch-nicht-in-den-kinderschuhen">Projektstatus: Noch nicht in den Kinderschuhen</h2>
+<p>Das Projekt “Dresden Solar” ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!</p>
+<p>Ggf. könnte die Webseite auch an einen bestehenden oder neu zu gründenden Verein angegliedert werden. Das wäre mit tatsächlich ganz lieb!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://pv-dd.netlify.app/posts/2023-02-06-aktueller-projektstatus/index.html</guid>
+  <pubDate>Sun, 05 Feb 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Zweiter Eintrag</title>
+  <link>https://pv-dd.netlify.app/posts/2023-02-05-zweiter-eintrag/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="aktueller-stand" class="level2">
+<h2 class="anchored" data-anchor-id="aktueller-stand">Aktueller Stand</h2>
+<p>Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://pv-dd.netlify.app/posts/2023-02-05-zweiter-eintrag/index.html</guid>
+  <pubDate>Sat, 04 Feb 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Erster Eintrag</title>
+  <link>https://pv-dd.netlify.app/posts/2023-02-04-erster-eintrag/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="motivation" class="level2">
+<h2 class="anchored" data-anchor-id="motivation">Motivation</h2>
+<p>Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.</p>
+<p>Dies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.</p>
+<p>Bisher (Stand 4.2.2023) ist es eine rein private Webseite, die noch nicht für die Öffentlichkeit gedacht ist.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://pv-dd.netlify.app/posts/2023-02-04-erster-eintrag/index.html</guid>
+  <pubDate>Fri, 03 Feb 2023 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -4,14 +4,14 @@
     "href": "impressum.html",
     "title": "Impressum",
     "section": "",
-    "text": "Quelle: Telemediengesetz (TMG)\nEs handelt sich bei dieser Webpräsenz um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
+    "text": "Es handelt sich bei dieser Webseite um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
   },
   {
     "objectID": "impressum.html#datenschutz",
     "href": "impressum.html#datenschutz",
     "title": "Impressum",
     "section": "Datenschutz",
-    "text": "Datenschutz\n\nAuf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.\nDie Seite ist auf Netlify gehosted. Hier sind Informationen zum Datenschutz bei Netlify zu finden.\nDie Kommentarfunktion ist über Github utterances realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der Projektwebseite."
+    "text": "Datenschutz\n\nAuf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.\nDie Seite ist auf Netlify gehosted. Hier sind Informationen zum Datenschutz bei Netlify zu finden.\nDie Kommentarfunktion ist über eine Einbettung von Github utterances realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der Projektwebseite."
   },
   {
     "objectID": "mitmachen.html",
@@ -109,7 +109,7 @@
     "href": "next_steps.html#geplante-nächste-schritte",
     "title": "Next Steps",
     "section": "Geplante nächste Schritte:",
-    "text": "Geplante nächste Schritte:\n\nFeedback einholen\nInstitutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen\nAuf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten\nNewsletter-Funktion ergänzen, z. B. über:\n\nMailjet - wird auch von Health for Future genutzt\nMailchimp\n\nRSS-Feeds anbieten\nRechtliche Aspekte klären\n\nInsbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet?\nWelche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?\nImpressum: Hinweise zur Verarbeitung von Daten etc. so passend?\n\nBesseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)\nBesseres Bild für Startseite"
+    "text": "Geplante nächste Schritte:\n\nFeedback einholen\nInstitutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen\nAuf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten\nNewsletter-Funktion ergänzen (Howto), z. B. über:\n\nMailjet - wird auch von Health for Future genutzt\nMailchimp\n\nRSS-Feeds anbieten - HowTo\nRechtliche Aspekte klären\n\nInsbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet?\nWelche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?\nImpressum: Hinweise zur Verarbeitung von Daten etc. so passend?\n\nBesseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)\nBesseres Bild für Startseite"
   },
   {
     "objectID": "posts/2023-02-06-aktueller-projektstatus/index.html",

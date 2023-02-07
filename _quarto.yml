@@ -1,10 +1,11 @@
 project:
   type: website
   
-
 website:
-  favicon: pv_dd_logo.png
   title: "Dresden Solar"
+  site-url: https://pv-dd.netlify.app/
+  description: "Dokumentation des Photovoltaik-Ausbaus in Dresden"
+  favicon: pv_dd_logo.png
   # comments: 
   #   hypothesis:
   #     theme: clean
@@ -18,6 +19,9 @@ website:
       - next_steps.qmd
       - links.qmd
       - impressum.qmd
+    right:
+      - icon: rss
+        href: news.xml
   open-graph: true
   cookie-consent: false
   page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus'" 
