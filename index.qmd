@@ -12,7 +12,7 @@ about:
 
 Photovoltaik ist super. Auf diesem Blog werden [Nachrichten](news.qmd) gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
 
-Diese Seite soll einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jeder kann Beiträge beisteuern!
+Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jeder kann Beiträge beisteuern!
 
 
 <!-- Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!  -->
