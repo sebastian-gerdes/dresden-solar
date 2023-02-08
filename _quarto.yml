@@ -25,7 +25,7 @@ website:
         href: news.xml
   open-graph: true
   cookie-consent: false
-  page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus' - [ToDos](https://etherpad.wikimedia.org/p/dresdensolar)" 
+  page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus' - [ToDos](https://github.com/sebastian-gerdes/pv-dd/edit/main/next_steps.qmd)" 
 format:
   html:
     theme: cosmo
