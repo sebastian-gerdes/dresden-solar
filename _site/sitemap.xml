@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pv-dd.netlify.app/next_steps.html</loc>
-    <lastmod>2023-02-08T10:04:19.655Z</lastmod>
+    <lastmod>2023-02-08T10:10:18.857Z</lastmod>
   </url>
   <url>
     <loc>https://pv-dd.netlify.app/index.html</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://pv-dd.netlify.app/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</loc>
     <lastmod>2023-02-08T00:07:22.399Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pv-dd.netlify.app/posts/2023-02-06-aktueller-projektstatus/index.html</loc>
+    <lastmod>2023-02-08T10:06:46.368Z</lastmod>
   </url>
 </urlset>

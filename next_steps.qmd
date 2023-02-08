@@ -28,3 +28,4 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
   + www.dresdensolar.net oder www.dresden-solar.de?
 * Besseres Bild für Startseite
 * Soll es eine explizite "Über das Projekt"-Seite geben?
+* Kommentare über [Disqus](https://help.disqus.com/en/articles/1717112-universal-embed-code) statt über utterances, da Disqus weiter verbreitet? Nachteil: mehr Tracking, weniger Schutz der Privatsphäre
