@@ -27,3 +27,4 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
 * Besseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)
   + www.dresdensolar.net oder www.dresden-solar.de?
 * Besseres Bild für Startseite
+* Soll es eine explizite "Über das Projekt"-Seite geben?
