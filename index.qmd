@@ -14,9 +14,7 @@ Photovoltaik ist super. Auf dieser Webseite werden [Nachrichten](news.qmd) gesam
 
 Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!
 
-<iframe data-w-token="f8b4bf51ed06ab7255bb" data-w-type="pop-in" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://0jxo1.mjt.lu/wgt/0jxo1/1kr/form?c=a40f3057" width="50%"></iframe>
-<iframe data-w-token="f8b4bf51ed06ab7255bb" data-w-type="trigger" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://0jxo1.mjt.lu/wgt/0jxo1/1kr/trigger?c=d37cb2d2" width="50%"></iframe>
-<script type="text/javascript" src="https://app.mailjet.com/pas-nc-pop-in-v1.js"></script>
+Um auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar bei posteo.de) oder aboniere den [RSS-Feed](news.xml) der Seite!
 
 <!-- Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!  -->
 

@@ -8,42 +8,49 @@ Auf dieser Seite findet sich eine noch eher wenig bis gar nicht kommentierte (Ko
 
 
 ## Seiten der Stadt Dresden
-* Allgemeine Seite zum Thema Klima: [Link](https://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie.php?pk_campaign=Shortcut&pk_kwd=klima)
-* [Klimaschutz](https://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/Klimaschutz.php)
-* [Integriertes Energie- und Klimaschutzkonzept](https://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/klimaschutz/klimaschutzkonzept.php)
-
-## VEE Sachsen
-[Vereinigung zur Förderung der Nutzung Erneuerbarer Energien](https://www.vee-sachsen.de/node/)
-
-## Netzwerk Eurosolar
-[Link](https://www.eurosolar.de)
+* [Allgemeines zum Thema Klima](https://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie.php?pk_campaign=Shortcut&pk_kwd=klima)
+* [Klimaschutzseite der Stadt Dresden](https://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/Klimaschutz.php)
+* [Integriertes Energie- und Klimaschutzkonzept der Stadt Dresden](https://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/klimaschutz/klimaschutzkonzept.php) - ein neues ist in Arbeit - hier wäre wichtig, sinnvolle Ziele zu setzen!
 
 ## Solarpotenzialkataster Sächsische Energieagentur
-[Link](https://solarkataster-sachsen.de/)
+* Enthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi alle Gebäude in Sachsen
+* [Link](https://solarkataster-sachsen.de/)
 
-## Regionaler Solarverein Dresden e. V. RSD 
-[Link](https://branchenbuch.meinestadt.de/dresden/company/11997431/)
+## Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
+* Energiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte
+* [Link](https://egneos.de/)
 
-## egNEOS
-[Link](https://egneos.de/)
+## Carus Green
+* Nachhaltigkeitsinitiative des Universitätsklinikums Dresden
+* Bisher keine gute Webpräsenz gefunden
+
+## Fridays For Future Dresden
+* Initiative, die Klimaschutz voranbringen möchte
+* [Link](https://fffdd.de/)
+* [Link zu sehr interessantem Blogpost](https://fffdd.de/blog/treibhausgasbilanz/) von Fridays For Future Dresden
+
+## Health for Future Dresden
+* [Kontaktdaten zur Ortsgruppe Dresden](https://healthforfuture.de/health-for-future-ortsgruppen/)
+
+## Dresden Zero
+* Initiative Dresden bis zum Jahr 2035 klimaneutral zu machen
+* [Link](https://dresdenzero.de/)
+
+
+<!-- ## VEE Sachsen -->
+<!-- [Vereinigung zur Förderung der Nutzung Erneuerbarer Energien](https://www.vee-sachsen.de/node/) -->
+
+
 
 <!-- ## Sachsenenergie -->
 <!-- * [Link](https://www.sachsenenergie.de/) -->
 <!-- * Für mich auf den ersten Blick keine aussagekräftigen Informationen zum Thema Energiewende etc. ersichtlich -->
 
-## Carus Green
-* Bisher keine gute Webpräsenz gefunden
+<!-- ## Regionaler Solarverein Dresden e. V. RSD  -->
+<!-- * [Link](https://branchenbuch.meinestadt.de/dresden/company/11997431/) -->
 
-## Infos zum Thema Energie des Landes Sachsen
-[Link](https://www.energie.sachsen.de/index.html)
+<!-- ## Infos zum Thema Energie des Landes Sachsen -->
+<!-- [Link](https://www.energie.sachsen.de/index.html) -->
 
-## Fridays For Future Dresden
-* [Link](https://fffdd.de/)
-* [Link zu sehr interessantem Blogpost](https://fffdd.de/blog/treibhausgasbilanz/)
-
-## Health for Future
-* [Allgemeiner Link](https://healthforfuture.de/)
-* [Kontaktdaten zur Ortsgruppe Dresden](https://healthforfuture.de/health-for-future-ortsgruppen/)
-
-## Dresden Zero
-[Link](https://dresdenzero.de/)
+<!-- ## Netzwerk Eurosolar -->
+<!-- * Überregionaler Verein zur Förderung erneuerbarer Energien: [Link](https://www.eurosolar.de) -->

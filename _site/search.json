@@ -4,7 +4,7 @@
     "href": "impressum.html",
     "title": "Impressum",
     "section": "",
-    "text": "Es handelt sich bei dieser Webseite um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: sebastian.gerdes bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
+    "text": "Es handelt sich bei dieser Webseite um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: dresden-solar bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
   },
   {
     "objectID": "impressum.html#datenschutz",
@@ -18,7 +18,7 @@
     "href": "mitmachen.html",
     "title": "Mitmachen",
     "section": "",
-    "text": "Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an sebastian.gerdes bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\nBerichte von Privatpersonen, die sich eine Solaranlage installieren wollen oder es schon getan haben\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / eine andere Institution zu einem Solarprojekt zu motivieren\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
+    "text": "Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\nBerichte von Privatpersonen, die sich eine Solaranlage installieren wollen oder es schon getan haben\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / eine andere Institution zu einem Solarprojekt zu motivieren\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
   },
   {
     "objectID": "mitmachen.html#vorschläge-zum-konzept",
@@ -53,7 +53,7 @@
     "href": "links.html#seiten-der-stadt-dresden",
     "title": "Links",
     "section": "Seiten der Stadt Dresden",
-    "text": "Seiten der Stadt Dresden\n\nAllgemeine Seite zum Thema Klima: Link\nKlimaschutz\nIntegriertes Energie- und Klimaschutzkonzept"
+    "text": "Seiten der Stadt Dresden\n\nAllgemeines zum Thema Klima\nKlimaschutzseite der Stadt Dresden\nIntegriertes Energie- und Klimaschutzkonzept der Stadt Dresden - ein neues ist in Arbeit - hier wäre wichtig, sinnvolle Ziele zu setzen!"
   },
   {
     "objectID": "links.html#vee-sachsen",
@@ -67,14 +67,14 @@
     "href": "links.html#netzwerk-eurosolar",
     "title": "Links",
     "section": "Netzwerk Eurosolar",
-    "text": "Netzwerk Eurosolar\nLink"
+    "text": "Netzwerk Eurosolar\n\nÜberregionaler Verein zur Förderung erneuerbarer Energien: Link"
   },
   {
     "objectID": "links.html#solarpotenzialkataster-sächsische-energieagentur",
     "href": "links.html#solarpotenzialkataster-sächsische-energieagentur",
     "title": "Links",
     "section": "Solarpotenzialkataster Sächsische Energieagentur",
-    "text": "Solarpotenzialkataster Sächsische Energieagentur\nLink"
+    "text": "Solarpotenzialkataster Sächsische Energieagentur\n\nEnthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi alle Gebäude in Sachsen\nLink"
   },
   {
     "objectID": "links.html#regionaler-solarverein-dresden-e.-v.-rsd",
@@ -95,7 +95,7 @@
     "href": "links.html#carus-green",
     "title": "Links",
     "section": "Carus Green",
-    "text": "Carus Green\n\nBisher keine gute Webpräsenz gefunden"
+    "text": "Carus Green\n\nNachhaltigkeitsinitiative des Universitätsklinikums Dresden\nBisher keine gute Webpräsenz gefunden"
   },
   {
     "objectID": "next_steps.html",
@@ -109,7 +109,7 @@
     "href": "next_steps.html#geplante-nächste-schritte",
     "title": "Next Steps",
     "section": "Geplante nächste Schritte:",
-    "text": "Geplante nächste Schritte:\n\nFeedback einholen\nInstitutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen\nAuf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten\nNewsletter-Funktion ergänzen (Howto), z. B. über:\n\nMailjet - wird auch von Health for Future genutzt\nMailchimp\n\nRSS-Feeds anbieten - HowTo\nRechtliche Aspekte klären\n\nInsbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet?\nWelche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?\nImpressum: Hinweise zur Verarbeitung von Daten etc. so passend?\n\nBesseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)\nBesseres Bild für Startseite"
+    "text": "Geplante nächste Schritte:\n\nFeedback einholen\nInstitutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen\nAuf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten\nNewsletter-Funktion ergänzen (Howto), z. B. über:\n\nMailjet - wird auch von Health for Future genutzt\nMailchimp\nAktueller Stand:\n\nMailjet-Lösung ausprobiert, funktioniert, erscheint mir jedoch ‘overpowered’, deswegen wieder rausgenommen\nGooglegroups zwingt einen immer wieder zur Verwendung einer gmail-Adresse - nicht so schön\naktuell manuelle Mailingliste über Postfach dresden-solar bei posteo.de favorisiert\nschön wäre so etwas wie eine mailman-Mailingliste denke (schlicht, nichtkommerziell, kein Tracking, komfortabel)\n\n\nRechtliche Aspekte klären\n\nInsbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet?\nWelche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?\nImpressum: Hinweise zur Verarbeitung von Daten etc. so passend?\n\nBesseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)\n\nwww.dresdensolar.net oder www.dresden-solar.de?\n\nBesseres Bild für Startseite"
   },
   {
     "objectID": "posts/2023-02-06-aktueller-projektstatus/index.html",
@@ -123,7 +123,7 @@
     "href": "index.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\n\n\n\n\n\nBildquelle - Lizenz"
+    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nUm auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar bei posteo.de) oder aboniere den RSS-Feed der Seite!\nBildquelle - Lizenz"
   },
   {
     "objectID": "links.html#infos-zum-thema-energie-des-landes-sachsen",
@@ -137,7 +137,7 @@
     "href": "mitmachen.html#verbesserungsvorschläge-für-die-website-das-projekt",
     "title": "Mitmachen",
     "section": "Verbesserungsvorschläge für die Website / das Projekt",
-    "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an sebastian.gerdes bei posteo.de geschickt werden.\nZwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! (Oder auf Grundlage dieses Bildes von Dresden Zero?) Wer eine andere Idee hat - auch gern vorschlagen :-)\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
+    "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an dresden-solar bei posteo.de geschickt werden.\nZwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:\n\nIch suche noch nach einem schönen Bild für die Seite “Über das Projekt”. Mir schwebt eine Photoshopmontage vor: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! (Oder auf Grundlage dieses Bildes von Dresden Zero?) Wer eine andere Idee hat - auch gern vorschlagen :-)\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
   },
   {
     "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
@@ -165,14 +165,14 @@
     "href": "links.html#dresden-zero",
     "title": "Links",
     "section": "Dresden Zero",
-    "text": "Dresden Zero\nLink"
+    "text": "Dresden Zero\n\nInitiative Dresden bis zum Jahr 2035 klimaneutral zu machen\nLink"
   },
   {
     "objectID": "links.html#fridays-for-future-dresden",
     "href": "links.html#fridays-for-future-dresden",
     "title": "Links",
     "section": "Fridays For Future Dresden",
-    "text": "Fridays For Future Dresden\n\nLink\nLink zu sehr interessantem Blogpost"
+    "text": "Fridays For Future Dresden\n\nInitiative, die Klimaschutz voranbringen möchte\nLink\nLink zu sehr interessantem Blogpost von Fridays For Future Dresden"
   },
   {
     "objectID": "posts/2023-02-04-erster-eintrag/index.html",
@@ -187,5 +187,26 @@
     "title": "Zweiter Eintrag",
     "section": "",
     "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!"
+  },
+  {
+    "objectID": "links.html#energiegenossenschaft-neue-energien-ostsachsen-eg",
+    "href": "links.html#energiegenossenschaft-neue-energien-ostsachsen-eg",
+    "title": "Links",
+    "section": "Energiegenossenschaft Neue Energien Ostsachsen eG",
+    "text": "Energiegenossenschaft Neue Energien Ostsachsen eG\n\nEnergiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte\nLink"
+  },
+  {
+    "objectID": "links.html#energiegenossenschaft-neue-energien-ostsachsen-eg-egneos",
+    "href": "links.html#energiegenossenschaft-neue-energien-ostsachsen-eg-egneos",
+    "title": "Links",
+    "section": "Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)",
+    "text": "Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\n\nEnergiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte\nLink"
+  },
+  {
+    "objectID": "links.html#health-for-future-dresden",
+    "href": "links.html#health-for-future-dresden",
+    "title": "Links",
+    "section": "Health for Future Dresden",
+    "text": "Health for Future Dresden\n\nKontaktdaten zur Ortsgruppe Dresden"
   }
 ]
