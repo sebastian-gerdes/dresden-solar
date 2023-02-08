@@ -22,10 +22,11 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
     - schön wäre so etwas wie eine [mailman](http://www.list.org/)-Mailingliste denke (schlicht, nichtkommerziell, kein Tracking, komfortabel)
 * Rechtliche Aspekte klären
   + Insbesondere: Inweiweit dürfen Menschen, die versuchen eine Institution zur Installation einer Photovoltaikanlage zu motivieren davon berichten? Macht es einen Unterschied, ob man bei der Organisation arbeitet? 
+  + Wer tritt als Autor eines Posts auf? Wer ist Redakteur? Was bedeutet das jeweils?
   + Welche rechtlichen Risiken sind mit diesem Projekt (Presserecht etc.) verbunden? Wie kann gegen diese Risiken abgesichert werden?
   + Impressum: Hinweise zur Verarbeitung von Daten etc. so passend?
 * Besseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)
-  + www.dresdensolar.net oder www.dresden-solar.de?
+  + www.dresdensolar.net oder www.dresden-solar.net?
 * Besseres Bild für Startseite
 * Soll es eine explizite "Über das Projekt"-Seite geben?
 * Kommentare über [Disqus](https://help.disqus.com/en/articles/1717112-universal-embed-code) statt über utterances, da Disqus weiter verbreitet? Nachteil: mehr Tracking, weniger Schutz der Privatsphäre
