@@ -26,6 +26,7 @@ website:
   open-graph: true
   cookie-consent: false
   page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus' - [ToDos](next_steps.qmd)" 
+  page-navigation: true
 format:
   html:
     theme: cosmo

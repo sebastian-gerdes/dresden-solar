@@ -16,9 +16,15 @@ title: "Links"
 * Enthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi alle Gebäude in Sachsen
 * [Link](https://solarkataster-sachsen.de/)
 
+## Geothermische Karte der Entzugsleistung (für Wärmepumpen)
+* [Link](https://www.umwelt.sachsen.de/umwelt/infosysteme/ida/p/gtk50?)
+
 ## Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
 * Energiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte
 * [Link](https://egneos.de/)
+
+## Ökostromrechner
+* [Link](https://wirklich-gruen.de/)
 
 ## Carus Green
 * Nachhaltigkeitsinitiative des Universitätsklinikums Dresden
@@ -31,6 +37,9 @@ title: "Links"
 
 ## Health for Future Dresden
 * [Kontaktdaten zur Ortsgruppe Dresden](https://healthforfuture.de/health-for-future-ortsgruppen/)
+
+## Parents for Future Dresden
+* [Link](https://www.parentsforfuture.de/de/dresden)
 
 ## Dresden Zero
 * Initiative Dresden bis zum Jahr 2035 klimaneutral zu machen
