@@ -27,6 +27,8 @@ Diese Seite sollte dann irgendwann in den internen Bereich verschwinden.
   + Impressum: Hinweise zur Verarbeitung von Daten etc. so passend?
 * Besseren Webseitennamen / Domäne organisieren (derzeit: https://pv-dd.netlify.app/)
   + www.dresdensolar.net oder www.dresden-solar.net?
+  + Aktuell favorisiert: www.dresden-solar.net
+    - [kaufen](https://domains.google.com/registrar/search?searchTerm=dresden-solar.net&hl=en&tab=1)
 * Besseres Bild für Startseite
-* Soll es eine explizite "Über das Projekt"-Seite geben?
+* Soll es eine explizite "Über das Projekt"-Seite geben? Evtl. eher eine FAQ-Seite einfügen?
 * Kommentare über [Disqus](https://help.disqus.com/en/articles/1717112-universal-embed-code) statt über utterances, da Disqus weiter verbreitet? Nachteil: mehr Tracking, weniger Schutz der Privatsphäre
