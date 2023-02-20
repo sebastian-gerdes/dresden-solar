@@ -19,6 +19,10 @@ title: "Links"
 ## Geothermische Karte der Entzugsleistung (für Wärmepumpen)
 * [Link](https://www.umwelt.sachsen.de/umwelt/infosysteme/ida/p/gtk50?)
 
+## Wattbewerb
+* Verein, der eine Art "Photovoltaik"-Ralley gestartet hat
+* [Link](https://wattbewerb.de/)
+
 ## Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
 * Energiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte
 * [Link](https://egneos.de/)
