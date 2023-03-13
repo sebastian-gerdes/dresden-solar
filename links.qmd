@@ -14,7 +14,8 @@ title: "Links"
 
 ## Solarpotenzialkataster Sächsische Energieagentur
 * Enthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi alle Gebäude in Sachsen
-* [Link](https://solarkataster-sachsen.de/)
+* [Link](https://solarkataster-sachsen.de/) - Seite Stand 13.03.2023 nicht erreichbar
+* Neue vergleichbare Seite mit wohl detaillierteren Angaben: [Link](https://arcg.is/1Obb1X0)
 
 ## Geothermische Karte der Entzugsleistung (für Wärmepumpen)
 * [Link](https://www.umwelt.sachsen.de/umwelt/infosysteme/ida/p/gtk50?)
@@ -49,9 +50,8 @@ title: "Links"
 * Initiative Dresden bis zum Jahr 2035 klimaneutral zu machen
 * [Link](https://dresdenzero.de/)
 
-
-<!-- ## VEE Sachsen -->
-<!-- [Vereinigung zur Förderung der Nutzung Erneuerbarer Energien](https://www.vee-sachsen.de/node/) -->
+## VEE Sachsen
+[Vereinigung zur Förderung der Nutzung Erneuerbarer Energien](https://www.vee-sachsen.de/node/)
 
 
 

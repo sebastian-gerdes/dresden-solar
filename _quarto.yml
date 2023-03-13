@@ -1,5 +1,8 @@
 project:
   type: website
+  render: 
+    - "*"
+    - "!additional/"
   
 website:
   title: "Dresden Solar"
@@ -25,7 +28,7 @@ website:
         href: news.xml
   open-graph: true
   cookie-consent: false
-  page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus' - [ToDos](next_steps.qmd)" 
+  page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus'"
   page-navigation: true
 format:
   html:
