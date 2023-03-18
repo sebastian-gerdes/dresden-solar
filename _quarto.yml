@@ -1,14 +1,11 @@
 project:
   type: website
-  render: 
-    - "*"
-    - "!additional/"
-  
+
 website:
   title: "Dresden Solar"
   site-url: https://pv-dd.netlify.app/
   description: "Dokumentation des Photovoltaik-Ausbaus in Dresden"
-  favicon: pv_dd_logo.png
+  favicon: images/pv_dd_logo.png
   # margin-header: subscribe.html
   # comments: 
   #   hypothesis:
@@ -20,15 +17,13 @@ website:
       # - index.qmd
       - news.qmd
       - mitmachen.qmd
-      # - next_steps.qmd
       - links.qmd
-      - impressum.qmd
     right:
       - icon: rss
         href: news.xml
   open-graph: true
   cookie-consent: false
-  page-footer: "Aktuell ist diese Webseite im Entwurfsstadium und noch nicht im 'Aktivmodus'"
+  page-footer: "[Impressum](/impressum.qmd) - [Datenschutzerklärung](/datenschutzerklaerung.qmd)"
   page-navigation: true
 format:
   html:
@@ -36,5 +31,4 @@ format:
     css: styles.css
     toc: false
     strip-comments: true
-
 lang: de

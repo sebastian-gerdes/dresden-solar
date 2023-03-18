@@ -1,13 +1,8 @@
 ---
 title: "Über das Projekt"
-image: profile.jpg
+image: images/profile.jpg
 about:
   template: jolla
-# links:
-#   - icon: twitter
-#     text: Twitter
-#     href: https://twitter.com
-
 ---
 
 Photovoltaik ist super. Auf dieser Webseite werden [Nachrichten](news.qmd) gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
@@ -15,11 +10,5 @@ Photovoltaik ist super. Auf dieser Webseite werden [Nachrichten](news.qmd) gesam
 Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!
 
 Um auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar bei posteo.de) oder aboniere den [RSS-Feed](news.xml) der Seite!
-
-<!-- Die Sonne liefert tagtäglich viel Energie, die nutzbar gemacht werden kann!  -->
-
-<!-- Auf dieser Seite werden Nachrichten gesammelt, die den Fortschritt des Solarenergieanlagenausbaus in Dresden thematisieren. Jeder kann Beiträge vorschlagen! -->
-
-<!-- Der Gedanke ist, dass die Sichtbarmachung dieses Transformationsprozesses diesen Prozess beflügeln kann! Auch könnten über diese Seite perspektivisch Kontaktmöglichkeiten zwischen Menschen, die gern den Photovoltaikanlagenausbau voranbringen möchten, geschaffen werden.  -->
 
 [Bildquelle](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) - [Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)

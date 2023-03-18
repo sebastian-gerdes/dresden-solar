@@ -1,24 +1,52 @@
 [
   {
-    "objectID": "impressum.html",
-    "href": "impressum.html",
-    "title": "Impressum",
+    "objectID": "mitmachen.html",
+    "href": "mitmachen.html",
+    "title": "Mitmachen",
     "section": "",
-    "text": "Es handelt sich bei dieser Webseite um die Seite einer Privatperson\nBetreiber: Sebastian Gerdes, Talstr. 7, 01099 Dresden, Deutschland (Germany)\nElektronische Kontaktmöglichkeit: dresden-solar bei posteo.de\nRedaktionell verantwortlich: Sebastian Gerdes"
+    "text": "Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\nBerichte von Privatpersonen, die sich eine Solaranlage installieren wollen oder es schon getan haben\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / eine andere Institution zu einem Solarprojekt zu motivieren\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
   },
   {
-    "objectID": "impressum.html#datenschutz",
-    "href": "impressum.html#datenschutz",
-    "title": "Impressum",
-    "section": "Datenschutz",
-    "text": "Datenschutz\n\nAuf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.\nDie Seite ist auf Netlify gehosted. Hier sind Informationen zum Datenschutz bei Netlify zu finden.\nDie Kommentarfunktion ist über eine Einbettung von Github utterances realisiert. Inwieweit dort personenbezogene Daten erhoben werden entnehmen Sie bitte der Projektwebseite."
+    "objectID": "mitmachen.html#verbesserungsvorschläge-für-die-website-das-projekt",
+    "href": "mitmachen.html#verbesserungsvorschläge-für-die-website-das-projekt",
+    "title": "Mitmachen",
+    "section": "Verbesserungsvorschläge für die Website / das Projekt",
+    "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an dresden-solar bei posteo.de geschickt werden.\nZwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:\n\nEin schönes Startseitenbild wäre toll! Eine Idee wäre eine Photoshopmontage: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! Wer eine andere Idee hat - auch gern vorschlagen :-)\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
   },
   {
-    "objectID": "impressum.html#quellcode-der-webseite",
-    "href": "impressum.html#quellcode-der-webseite",
-    "title": "Impressum",
-    "section": "Quellcode der Webseite",
-    "text": "Quellcode der Webseite\n\nDer Quellcode der Webseite befindet sich hier in einem öffentlichen Repository bei GitHub. Kontaktiere mich gern, falls Du etwas vom Quellcode verwenden möchtest, das sollte kein Problem sein!"
+    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
+    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
+    "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden",
+    "section": "",
+    "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
+  },
+  {
+    "objectID": "posts/2023-02-04-erster-eintrag/index.html",
+    "href": "posts/2023-02-04-erster-eintrag/index.html",
+    "title": "Erster Eintrag",
+    "section": "",
+    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher (Stand 4.2.2023) ist es eine rein private Webseite, die noch nicht für die Öffentlichkeit gedacht ist."
+  },
+  {
+    "objectID": "posts/2023-02-06-aktueller-projektstatus/index.html",
+    "href": "posts/2023-02-06-aktueller-projektstatus/index.html",
+    "title": "Aktueller Projektstatus",
+    "section": "",
+    "text": "Das Projekt “Dresden Solar” ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nGgf. könnte die Webseite auch an einen bestehenden oder neu zu gründenden Verein angegliedert werden. Das wäre mit tatsächlich ganz lieb!"
+  },
+  {
+    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html",
+    "href": "posts/2023-02-05-zweiter-eintrag/index.html",
+    "title": "Zweiter Eintrag",
+    "section": "",
+    "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n\n\nAktueller Projektstatus\n\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n\n\nZweiter Eintrag\n\n\n\n\n\n\n\n\n\n\n\n\n05.02.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n\n\nErster Eintrag\n\n\n\n\n\n\n\n\n\n\n\n\n04.02.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "index.html",
@@ -26,6 +54,20 @@
     "title": "Über das Projekt",
     "section": "",
     "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nUm auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar bei posteo.de) oder aboniere den RSS-Feed der Seite!\nBildquelle - Lizenz"
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\nSchützengasse 16, 01067 Dresden\nVorstand: Susanne Koschker, Thomas Nikol, Jan Stoye\nRedakteur dieser Webseite (www.dresden-solar.net): Sebastian Gerdes\nE-Mail:\n\negNEOS: vorstand(at)egneos.de\nProjektadresse für diese Webseite: dresden-solar(at)posteo.de\n\nHomepage: www.egneos.de, www.dresden-solar.net\nRegistergericht: Dresden, GnR 507\nAufsichtsratsvorsitzender: Klaus Gaber\nAufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)"
+  },
+  {
+    "objectID": "impressum.html#quellcode-der-webseite",
+    "href": "impressum.html#quellcode-der-webseite",
+    "title": "Impressum",
+    "section": "Quellcode der Webseite",
+    "text": "Quellcode der Webseite\n\nDer Quellcode der Webseite befindet sich hier in einem öffentlichen Repository bei GitHub. Kontaktiere mich (Sebastian Gerdes) gern unter dresden-solar(at)posteo.de, falls Du etwas vom Quellcode verwenden möchtest, das sollte kein Problem sein!"
   },
   {
     "objectID": "links.html",
@@ -112,52 +154,10 @@
     "text": "VEE Sachsen\nVereinigung zur Förderung der Nutzung Erneuerbarer Energien"
   },
   {
-    "objectID": "mitmachen.html",
-    "href": "mitmachen.html",
-    "title": "Mitmachen",
+    "objectID": "datenschutzerklaerung.html",
+    "href": "datenschutzerklaerung.html",
+    "title": "Datenschutzerklärung",
     "section": "",
-    "text": "Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar bei posteo.de.\nInsbesondere kommen dabei die folgenden News-Typen in Betracht:\n\nEine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt\n\nzum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes\nBerichte von Privatpersonen, die sich eine Solaranlage installieren wollen oder es schon getan haben\n\nEine Person möchte von Motivationsbestrebungen berichten\n\nzum Beispiel berichtet jemand von seinen Bestrebungen, einen Kindergarten / eine andere Institution zu einem Solarprojekt zu motivieren\n\nAllgemeine News zum Thema Solarenergie in Dresden\nGastbeiträge aus anderen Städten"
-  },
-  {
-    "objectID": "mitmachen.html#verbesserungsvorschläge-für-die-website-das-projekt",
-    "href": "mitmachen.html#verbesserungsvorschläge-für-die-website-das-projekt",
-    "title": "Mitmachen",
-    "section": "Verbesserungsvorschläge für die Website / das Projekt",
-    "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an dresden-solar bei posteo.de geschickt werden.\nZwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:\n\nEin schönes Startseitenbild wäre toll! Eine Idee wäre eine Photoshopmontage: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! Wer eine andere Idee hat - auch gern vorschlagen :-)\nDie Webseite könnte noch ein gute Adresse gebrauchen. www.dresden-solar.de und www.dresdensolar.de scheinen schon reserviert. www.dresden-solar.net erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\nGrønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\n\n\n\n\n\n\nAktueller Projektstatus\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\n\n\n\n\n\n\nZweiter Eintrag\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n05.02.2023\n\n\n\n\n\n\n\n\nErster Eintrag\n\n\n\n\n\n\n\nAllgemein\n\n\n\n\n\n\n\n\n\n\n\n04.02.2023\n\n\n\n\n\n\nKeine Treffer"
-  },
-  {
-    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
-    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
-    "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden",
-    "section": "",
-    "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
-  },
-  {
-    "objectID": "posts/2023-02-04-erster-eintrag/index.html",
-    "href": "posts/2023-02-04-erster-eintrag/index.html",
-    "title": "Erster Eintrag",
-    "section": "",
-    "text": "Photovoltaik ist super. Auf diesem Blog werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDies soll einen Überblick verschaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln.\nBisher (Stand 4.2.2023) ist es eine rein private Webseite, die noch nicht für die Öffentlichkeit gedacht ist."
-  },
-  {
-    "objectID": "posts/2023-02-06-aktueller-projektstatus/index.html",
-    "href": "posts/2023-02-06-aktueller-projektstatus/index.html",
-    "title": "Aktueller Projektstatus",
-    "section": "",
-    "text": "Das Projekt “Dresden Solar” ist noch in der Vorbereitungsphase. Insofern sind Hinweise zum Projekt allgemein und auch Verbesserungsvorschläge für die Webseite sehr willkommen!\nGgf. könnte die Webseite auch an einen bestehenden oder neu zu gründenden Verein angegliedert werden. Das wäre mit tatsächlich ganz lieb!"
-  },
-  {
-    "objectID": "posts/2023-02-05-zweiter-eintrag/index.html",
-    "href": "posts/2023-02-05-zweiter-eintrag/index.html",
-    "title": "Zweiter Eintrag",
-    "section": "",
-    "text": "Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!"
+    "text": "Auf dieser Seite erfolgt kein Tracking und keine Werbung. Es werden keine Cookies gesetzt.\nDie Seite ist auf Netlify gehosted. Hier sind Informationen zum Datenschutz bei Netlify zu finden."
   }
 ]

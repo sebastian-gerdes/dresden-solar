@@ -5,6 +5,4 @@
 /.quarto/
 pv-dd.Rproj
 .DS_Store
-.~lock.konzept.odt#
-konzept.odt
-additional
+_konzept_todos.html
