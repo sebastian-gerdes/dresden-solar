@@ -1,9 +1,0 @@
----
-title: "Zweiter Eintrag"
-format: html
-date: "2/05/2023"
-categories: [Allgemein]
----
-
-## Aktueller Stand
-Ein grobes Gerüst für die Webseite steht. Allerdings fehlen noch einige Inhalte!

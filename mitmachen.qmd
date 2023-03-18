@@ -3,7 +3,7 @@ title: "Mitmachen"
 ---
 
 ## Beisteuern von News
-Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar bei posteo.de. 
+Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar(at)posteo.de. 
 
 Insbesondere kommen dabei die folgenden News-Typen in Betracht:
 
@@ -18,9 +18,6 @@ Insbesondere kommen dabei die folgenden News-Typen in Betracht:
 ## Verbesserungsvorschläge für die Website / das Projekt
 Hinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an dresden-solar bei posteo.de geschickt werden.
 
-Zwei konkrete Mitmachmöglichkeiten in Bezug auf die Webseite:
+Falls jemand sich mit Bildbearbeitung auskennt: Ein schönes [Startseitenbild](index.qmd) wäre toll! Eine Idee wäre eine Photoshopmontage: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! Wer eine andere Idee hat - auch gern vorschlagen :-)
 
-(@) Ein schönes [Startseitenbild](index.qmd) wäre toll! Eine Idee wäre eine Photoshopmontage: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! Wer eine andere Idee hat - auch gern vorschlagen :-)
-
-(@) Die Webseite könnte noch ein gute Adresse gebrauchen. [www.dresden-solar.de](http://www.dresden-solar.de/) und [www.dresdensolar.de](http://www.dresden-solar.de/) scheinen schon reserviert. [www.dresden-solar.net](http://www.dresden-solar.net/) erscheint noch verfügbar. Hat jemand noch einen guten Vorschlag? Mag sich jemand um eine gute Domäne kümmern? Das wäre toll!
 

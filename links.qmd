@@ -9,45 +9,48 @@ title: "Links"
 
 ## Solarpotenzialkataster Sächsische Energieagentur
 * Enthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi alle Gebäude in Sachsen
-* [Link](https://solarkataster-sachsen.de/) - Seite Stand 13.03.2023 nicht erreichbar
-* Neue vergleichbare Seite mit wohl detaillierteren Angaben: [Link](https://arcg.is/1Obb1X0)
+* [Link zum Kataster](https://solarkataster-sachsen.de/)
 
-## Geothermische Karte der Entzugsleistung (für Wärmepumpen)
-* [Link](https://www.umwelt.sachsen.de/umwelt/infosysteme/ida/p/gtk50?)
+## Solarpotentiale nach Berechnung Leibniz-Institut für ökologische Raumentwicklung Dresden
+* Enthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi aller Gebäude in Dresden
+* [Bericht der Stadt Dresden](https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2023/03/pm_031.php?mtm_kwd=Stadtentwicklung+und+Umwelt&mtm_campaign=newsletter)
+* [Link zu Berechnungsmöglichkeit](https://arcg.is/1Obb1X0)
+
+<!-- ## Geothermische Karte des Landes Sachsen der möglichen Entzugsleistung für Wärmepumpen) -->
+<!-- * [Link zur Webseite](https://www.umwelt.sachsen.de/umwelt/infosysteme/ida/p/gtk50?) -->
 
 ## Wattbewerb
 * Verein, der eine Art "Photovoltaik"-Ralley gestartet hat
-* [Link](https://wattbewerb.de/)
+* [Link zur Webseite](https://wattbewerb.de/)
 
 ## Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
-* Energiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte
-* [Link](https://egneos.de/)
+* Energiegenossenschaft, die Bürgerbeteiligung beim Ausbau erneuerbarer Energien fördern möchte und auch hinter dieser (www.dresden-solar.de) Webseite steht
+* [Link zur Webseite](https://egneos.de/)
 
-## Ökostromrechner
-* [Link](https://wirklich-gruen.de/)
+<!-- ## Ökostromrechner -->
+<!-- * [Link](https://wirklich-gruen.de/) -->
 
-## Carus Green
-* Nachhaltigkeitsinitiative des Universitätsklinikums Dresden
-* Bisher keine gute Webpräsenz gefunden
+<!-- ## Carus Green -->
+<!-- * Nachhaltigkeitsinitiative des Universitätsklinikums Dresden -->
+<!-- * Bisher keine gute Webpräsenz gefunden -->
 
-## Fridays For Future Dresden
-* Initiative, die Klimaschutz voranbringen möchte
-* [Link](https://fffdd.de/)
-* [Link zu sehr interessantem Blogpost](https://fffdd.de/blog/treibhausgasbilanz/) von Fridays For Future Dresden
+<!-- ## Fridays For Future Dresden -->
+<!-- * Initiative, die Klimaschutz voranbringen möchte -->
+<!-- * [Link](https://fffdd.de/) -->
+<!-- * [Link zu sehr interessantem Blogpost](https://fffdd.de/blog/treibhausgasbilanz/) von Fridays For Future Dresden -->
 
-## Health for Future Dresden
-* [Kontaktdaten zur Ortsgruppe Dresden](https://healthforfuture.de/health-for-future-ortsgruppen/)
+<!-- ## Health for Future Dresden -->
+<!-- * [Kontaktdaten zur Ortsgruppe Dresden](https://healthforfuture.de/health-for-future-ortsgruppen/) -->
 
-## Parents for Future Dresden
-* [Link](https://www.parentsforfuture.de/de/dresden)
+<!-- ## Parents for Future Dresden -->
+<!-- * [Link](https://www.parentsforfuture.de/de/dresden) -->
 
 ## Dresden Zero
 * Initiative Dresden bis zum Jahr 2035 klimaneutral zu machen
-* [Link](https://dresdenzero.de/)
+* [Link zur Webseite](https://dresdenzero.de/)
 
-## VEE Sachsen
-[Vereinigung zur Förderung der Nutzung Erneuerbarer Energien](https://www.vee-sachsen.de/node/)
-
+## Vereinigung zur Förderung der Nutzung Erneuerbarer Energien Sachsen
+* [Link zur Webseite](https://www.vee-sachsen.de/node/)
 
 
 <!-- ## Sachsenenergie -->

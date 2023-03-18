@@ -3,17 +3,27 @@ title: "Impressum"
 ---
   
 ## Angaben gemäß § 5 [Telemediengesetz](https://www.gesetze-im-internet.de/tmg/BJNR017910007.html)
-* Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
-* Schützengasse 16, 01067 Dresden
-* Vorstand: Susanne Koschker, Thomas Nikol, Jan Stoye
-* Redakteur dieser Webseite ([www.dresden-solar.net](www.dresden-solar.net)): Sebastian Gerdes
-* E-Mail: 
-  * egNEOS: vorstand(at)egneos.de
-  * Projektadresse für diese Webseite: dresden-solar(at)posteo.de
-* Homepage: [www.egneos.de](www.egneos.de), [www.dresden-solar.net](www.dresden-solar.net)
-* Registergericht: Dresden, GnR 507
-* Aufsichtsratsvorsitzender: Klaus Gaber
-* Aufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)
+* Betreiber dieser Webseite:
+  * Sebastian Gerdes (Privatperson)
+    * Adresse: Talstraße 7, 01099 Dresden
+    * E-Mail: dresden-solar(at)posteo.de
+
+## Angestrebtes Impressum (aktuell fiktiv!!!)
+* Betreiber dieser Webseite ([www.dresden-solar.net](www.dresden-solar.net)): 
+  * Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
+  * Schützengasse 16, 01067 Dresden
+  * Vorstand egNEOS: Susanne Koschker, Thomas Nikol, Jan Stoye
+  * E-Mail: vorstand(at)egneos.de
+  * Homepage: [www.egneos.de](www.egneos.de) 
+  * Registergericht: Dresden, GnR 507
+  * Aufsichtsratsvorsitzender: Klaus Gaber
+  * Aufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)
+* Redaktionelles Team dieser Seite ([www.dresden-solar.net](www.dresden-solar.net)): 
+  * Sebastian Gerdes und Bernhard Mossner
+  * E-Mail: dresden-solar(at)posteo.de
+
+## Bilder/Fotos:
+* Wenn nicht anders bezeichnet: © Sebastian Gerdes / egNEOS
 
 ## Quellcode der Webseite
 * Der Quellcode der Webseite befindet sich [hier](https://github.com/sebastian-gerdes/pv-dd) in einem öffentlichen Repository bei [GitHub](https://github.com/). Kontaktiere mich (Sebastian Gerdes) gern unter dresden-solar(at)posteo.de, falls Du etwas vom Quellcode verwenden möchtest, das sollte kein Problem sein!
