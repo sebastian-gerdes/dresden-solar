@@ -21,18 +21,60 @@
     "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
   },
   {
+    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html",
+    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html",
+    "title": "Wieviel Energie liefert die Sonne?",
+    "section": "",
+    "text": "Um einordnen zu können, wie viel Energie die Sonne tagtäglich auf die Erde schickt, habe ich ein paar Zahlen zusammengetragen und versucht diese in sinnvoller Weise miteinander zu verknüpfen."
+  },
+  {
+    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-viel-energie-liefert-die-sonne",
+    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-viel-energie-liefert-die-sonne",
+    "title": "Wieviel Energie liefert die Sonne?",
+    "section": "Wie viel Energie liefert die Sonne?",
+    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen wieviel Energie (\\(E\\)) im physikalischen Sinne (Joules oder kWh) die Sonne pro Tag / Jahr auf die Erde schickt.\nDazu habe ich hier die Angabe gefunden, dass die Sonne auf das Jahr und die Erdoberfläche gemittelt mit einer Leistung von 1340 Watt pro Quadratmeter auf die Erde strahlt. In den weiteren Überlegungen wenden wir die grobe Näherung an, dass dieser Mittelwert 1340 Watt pro Quadratmeter pro Jahr für alle Fleckchen auf der Erde gilt.\nDie Oberfläche der Erde beträgt laut Wikipedia ca. 510 Millionen Quadratkilometer.\nDaraus ergibt sich eine Gesamtenergie pro Jahr von 2.16e+25 Joules."
+  },
+  {
+    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wieviel-energie-verbrauchen-die-menschen",
+    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wieviel-energie-verbrauchen-die-menschen",
+    "title": "Wieviel Energie liefert die Sonne?",
+    "section": "Wieviel Energie verbrauchen die Menschen?",
+    "text": "Wieviel Energie verbrauchen die Menschen?\nLaut Wikipedia beträgt der menschliche Weltenergiebedarf 574 Exajoule = 5.74e20 J.\nDie Welt liefert also ca. 3.76e+04 mal, also knapp 40000 mal, so viel Energie wie von den Menschen verbraucht wird.\nBei einem Photovoltaik-Wirkungsgrad von 10% müssten grob genähert mithin xx% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht der (für mich überraschend kleinen) Fläche von ca xx m^2 pro Mensch."
+  },
+  {
+    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-ist-die-situation-in-deutschland",
+    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-ist-die-situation-in-deutschland",
+    "title": "Wieviel Energie liefert die Sonne?",
+    "section": "Wie ist die Situation in Deutschland",
+    "text": "Wie ist die Situation in Deutschland\nDer Energiebedarf Deutschlands betrug laut Wikipedia im Jahr 2020 ca. 1.19e+19 Joules.\nDamit müssten in Deutschland pro Person x qm mit Photovoltaikanlagen bedeckt sein, um den Primärenergiebedarf zu decken."
+  },
+  {
+    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#fazit",
+    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#fazit",
+    "title": "Wieviel Energie liefert die Sonne?",
+    "section": "Fazit",
+    "text": "Fazit\nEs handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:\n\nSonnenstrahlung überall gleich\nWirkungsgrad\nSpeicherung von Energie vernachlässigt"
+  },
+  {
+    "objectID": "posts/2023-03-18-dresden-solar-hintergrund/index.html",
+    "href": "posts/2023-03-18-dresden-solar-hintergrund/index.html",
+    "title": "Dresden Solar - Hintergrund des Projektes",
+    "section": "",
+    "text": "Hier soll ein Post entstehen, der etwas mehr Hintergrundinformationen zum Projekt gibt."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n06.02.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n05.04.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n\n\nWieviel Energie liefert die Sonne?\n\n\n\n\n\n\n\n\n\n\n\n\n19.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n\n\nDresden Solar - Hintergrund des Projektes\n\n\n\n\n\n\n\n\n\n\n\n\n18.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Über das Projekt",
     "section": "",
-    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nUm auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar bei posteo.de) oder aboniere den RSS-Feed der Seite!\nBildquelle - Lizenz"
+    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nMehr zum Hintergrund des Projektes findest Du hier!\nUm auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar(at) posteo.de) oder aboniere den RSS-Feed der Seite!\nBildquelle - Lizenz"
   },
   {
     "objectID": "impressum.html",
@@ -46,7 +88,7 @@
     "href": "impressum.html#angestrebtes-impressum-aktuell-fiktiv",
     "title": "Impressum",
     "section": "Angestrebtes Impressum (aktuell fiktiv!!!)",
-    "text": "Angestrebtes Impressum (aktuell fiktiv!!!)\n\nBetreiber dieser Webseite (www.dresden-solar.net):\n\nEnergiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\nSchützengasse 16, 01067 Dresden\nVorstand egNEOS: Susanne Koschker, Thomas Nikol, Jan Stoye\nE-Mail: vorstand(at)egneos.de\nHomepage: www.egneos.de\nRegistergericht: Dresden, GnR 507\nAufsichtsratsvorsitzender: Klaus Gaber\nAufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)\n\nRedaktionelles Team dieser Seite (www.dresden-solar.net):\n\nSebastian Gerdes und Bernhard Mossner\nE-Mail: dresden-solar(at)posteo.de"
+    "text": "Angestrebtes Impressum (aktuell fiktiv!!!)\n\nBetreiberin dieser Webseite (www.dresden-solar.net):\n\nEnergiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\n\nSchützengasse 16, 01067 Dresden\nVorstand egNEOS: Susanne Koschker, Thomas Nikol, Jan Stoye\nE-Mail: vorstand(at)egneos.de\nHomepage: www.egneos.de\nRegistergericht: Dresden, GnR 507\nAufsichtsratsvorsitzender: Klaus Gaber\nAufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)\n\n\nRedaktionelles Team dieser Seite (www.dresden-solar.net) - alphabetisch:\n\nMax Mustermann, Sebastian Gerdes und Victoria Beispielperson\nE-Mail: dresden-solar(at)posteo.de"
   },
   {
     "objectID": "impressum.html#bilderfotos",

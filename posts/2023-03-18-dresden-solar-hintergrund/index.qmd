@@ -1,0 +1,8 @@
+---
+title: "Dresden Solar - Hintergrund des Projektes"
+format: html
+date: "2023/03/18"
+categories: [Allgemeines]
+---
+
+Hier soll ein Post entstehen, der etwas mehr Hintergrundinformationen zum Projekt gibt.

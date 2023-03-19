@@ -9,17 +9,17 @@ title: "Impressum"
     * E-Mail: dresden-solar(at)posteo.de
 
 ## Angestrebtes Impressum (aktuell fiktiv!!!)
-* Betreiber dieser Webseite ([www.dresden-solar.net](www.dresden-solar.net)): 
+* Betreiberin dieser Webseite ([www.dresden-solar.net](www.dresden-solar.net)): 
   * Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)
-  * Schützengasse 16, 01067 Dresden
-  * Vorstand egNEOS: Susanne Koschker, Thomas Nikol, Jan Stoye
-  * E-Mail: vorstand(at)egneos.de
-  * Homepage: [www.egneos.de](www.egneos.de) 
-  * Registergericht: Dresden, GnR 507
-  * Aufsichtsratsvorsitzender: Klaus Gaber
-  * Aufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)
-* Redaktionelles Team dieser Seite ([www.dresden-solar.net](www.dresden-solar.net)): 
-  * Sebastian Gerdes und Bernhard Mossner
+    * Schützengasse 16, 01067 Dresden
+    * Vorstand egNEOS: Susanne Koschker, Thomas Nikol, Jan Stoye
+    * E-Mail: vorstand(at)egneos.de
+    * Homepage: [www.egneos.de](www.egneos.de) 
+    * Registergericht: Dresden, GnR 507
+    * Aufsichtsratsvorsitzender: Klaus Gaber
+    * Aufsicht: Prüfungsverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. (PdK e.V. Berlin)
+* Redaktionelles Team dieser Seite ([www.dresden-solar.net](www.dresden-solar.net)) - alphabetisch: 
+  * Max Mustermann, Sebastian Gerdes und Victoria Beispielperson
   * E-Mail: dresden-solar(at)posteo.de
 
 ## Bilder/Fotos:
