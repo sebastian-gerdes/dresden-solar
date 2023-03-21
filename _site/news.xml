@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Dresden Solar</title>
-<link>https://pv-dd.netlify.app/news.html</link>
-<atom:link href="https://pv-dd.netlify.app/news.xml" rel="self" type="application/rss+xml"/>
+<link>https://dresden-solar.net/news.html</link>
+<atom:link href="https://dresden-solar.net/news.xml" rel="self" type="application/rss+xml"/>
 <description>Dokumentation des Photovoltaik-Ausbaus in Dresden</description>
 <generator>quarto-1.2.269</generator>
 <lastBuildDate>Tue, 04 Apr 2023 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden</title>
   <dc:creator>Sebastian Gerdes</dc:creator>
-  <link>https://pv-dd.netlify.app/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</link>
+  <link>https://dresden-solar.net/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</link>
   <description><![CDATA[ 
 
 
@@ -26,13 +26,38 @@
 
  ]]></description>
   <category>Grønnköpingkið University Hospital Dresden</category>
-  <guid>https://pv-dd.netlify.app/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</guid>
+  <guid>https://dresden-solar.net/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</guid>
   <pubDate>Tue, 04 Apr 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Wieviel Strom liefern Solaranlagen?</title>
+  <dc:creator>Sebastian Gerdes</dc:creator>
+  <link>https://dresden-solar.net/posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="wie-viel-strom-liefert-ein-photovoltaikmodul" class="level2">
+<h2 class="anchored" data-anchor-id="wie-viel-strom-liefert-ein-photovoltaikmodul">Wie viel Strom liefert ein Photovoltaikmodul?</h2>
+</section>
+<section id="was-kostet-ein-photovoltaikmodul" class="level2">
+<h2 class="anchored" data-anchor-id="was-kostet-ein-photovoltaikmodul">Was kostet ein Photovoltaikmodul?</h2>
+</section>
+<section id="wie-viel-geld-bekommt-man-für-den-strom" class="level2">
+<h2 class="anchored" data-anchor-id="wie-viel-geld-bekommt-man-für-den-strom">Wie viel Geld bekommt man für den Strom?</h2>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://dresden-solar.net/posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html</guid>
+  <pubDate>Sun, 19 Mar 2023 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Wieviel Energie liefert die Sonne?</title>
   <dc:creator>Sebastian Gerdes</dc:creator>
-  <link>https://pv-dd.netlify.app/posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html</link>
+  <link>https://dresden-solar.net/posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html</link>
   <description><![CDATA[ 
 
 
@@ -70,13 +95,13 @@
 </section>
 
  ]]></description>
-  <guid>https://pv-dd.netlify.app/posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html</guid>
+  <guid>https://dresden-solar.net/posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html</guid>
   <pubDate>Sat, 18 Mar 2023 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Dresden Solar - Hintergrund des Projektes</title>
   <dc:creator>Sebastian Gerdes</dc:creator>
-  <link>https://pv-dd.netlify.app/posts/2023-03-18-dresden-solar-hintergrund/index.html</link>
+  <link>https://dresden-solar.net/posts/2023-03-18-dresden-solar-hintergrund/index.html</link>
   <description><![CDATA[ 
 
 
@@ -88,7 +113,7 @@
 
  ]]></description>
   <category>Allgemeines</category>
-  <guid>https://pv-dd.netlify.app/posts/2023-03-18-dresden-solar-hintergrund/index.html</guid>
+  <guid>https://dresden-solar.net/posts/2023-03-18-dresden-solar-hintergrund/index.html</guid>
   <pubDate>Fri, 17 Mar 2023 23:00:00 GMT</pubDate>
 </item>
 </channel>

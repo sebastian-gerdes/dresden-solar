@@ -1,0 +1,13 @@
+---
+title: "Wieviel Strom liefern Solaranlagen?"
+format: html
+date: "2023-03-20"
+toc: true
+# categories: [Allgemeines]
+---
+
+## Wie viel Strom liefert ein Photovoltaikmodul?
+
+## Was kostet ein Photovoltaikmodul?
+
+## Wie viel Geld bekommt man für den Strom?

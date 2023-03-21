@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pv-dd.netlify.app/mitmachen.html</loc>
-    <lastmod>2023-03-19T14:50:23.611Z</lastmod>
+    <loc>https://dresden-solar.net/mitmachen.html</loc>
+    <lastmod>2023-03-21T06:26:43.939Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</loc>
-    <lastmod>2023-03-19T14:50:23.963Z</lastmod>
+    <loc>https://dresden-solar.net/posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html</loc>
+    <lastmod>2023-03-21T06:26:44.286Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html</loc>
-    <lastmod>2023-03-19T14:50:24.296Z</lastmod>
+    <loc>https://dresden-solar.net/posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html</loc>
+    <lastmod>2023-03-21T06:26:44.629Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/posts/2023-03-18-dresden-solar-hintergrund/index.html</loc>
-    <lastmod>2023-03-19T14:50:24.620Z</lastmod>
+    <loc>https://dresden-solar.net/posts/2023-03-18-dresden-solar-hintergrund/index.html</loc>
+    <lastmod>2023-03-21T06:26:44.942Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/news.html</loc>
-    <lastmod>2023-03-19T14:50:24.961Z</lastmod>
+    <loc>https://dresden-solar.net/posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html</loc>
+    <lastmod>2023-03-21T06:26:45.234Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/index.html</loc>
-    <lastmod>2023-03-19T14:50:25.258Z</lastmod>
+    <loc>https://dresden-solar.net/news.html</loc>
+    <lastmod>2023-03-21T06:26:45.569Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/impressum.html</loc>
-    <lastmod>2023-03-19T14:50:25.562Z</lastmod>
+    <loc>https://dresden-solar.net/index.html</loc>
+    <lastmod>2023-03-21T06:26:45.860Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/links.html</loc>
-    <lastmod>2023-03-19T14:50:25.860Z</lastmod>
+    <loc>https://dresden-solar.net/impressum.html</loc>
+    <lastmod>2023-03-21T06:26:46.157Z</lastmod>
   </url>
   <url>
-    <loc>https://pv-dd.netlify.app/datenschutzerklaerung.html</loc>
-    <lastmod>2023-03-19T14:50:26.161Z</lastmod>
+    <loc>https://dresden-solar.net/links.html</loc>
+    <lastmod>2023-03-21T06:26:46.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dresden-solar.net/datenschutzerklaerung.html</loc>
+    <lastmod>2023-03-21T06:26:46.745Z</lastmod>
   </url>
 </urlset>
