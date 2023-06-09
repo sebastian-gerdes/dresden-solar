@@ -21,81 +21,95 @@
     "text": "Verbesserungsvorschläge für die Website / das Projekt\nHinweise zur Verbesserung der Webseite oder allgemeine Vorschläge zum Projekt können ebenfalls per E-Mail an dresden-solar bei posteo.de geschickt werden.\nFalls jemand sich mit Bildbearbeitung auskennt: Ein schönes Startseitenbild wäre toll! Eine Idee wäre eine Photoshopmontage: Photovoltaikmodule auf dem Dach der Frauenkirche. Wenn jemand so etwas beisteuern könnte - zum Beispiel mit Bildmaterial von Wikipedia - das wäre toll! Wer eine andere Idee hat - auch gern vorschlagen :-)"
   },
   {
-    "objectID": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
-    "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
+    "objectID": "posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html",
+    "href": "posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html",
+    "title": "Wie kann ich ein Solarprojekt starten?",
+    "section": "",
+    "text": "Denke darüber nach, zu welchen Gebäuden Du eine Beziehung hast\n\nwo wohne ich\nwo arbeite ich\nwo gehen meine Kinder tagsüber hin\nwo gehe ich zum Sport\netc.\n\nSchau Dir die Dachfläche an - könnte sie für Photovoltaik-Module geeignet sein?\n\nOnline-Möglichkeiten um das Solarenergie-Potential eines Gebäudes grob abzuschätzen findest Du zum Beispiel im Solarpotenzialkataster der Sächsischen Energieagentur und im Themenstadtplan der Stadt Dresden\n\nSprich den Eigentümer des Gebäudes an und versuche ihn für die Idee eines Solarprojektes zu gewinnen\nWenn Du ein chancenreiches Gebäude ausgemacht hast, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:\n\nEnergiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\n(…Weitere Möglichkeiten…)\n\nSuche Dir Gleichgesinnte zur Unterstützung, tausche Dich über das Unterfangen aus und mache Werbung dafür!\nDu hast weitere Tipps? Leite Sie gern an uns weiter :-)"
+  },
+  {
+    "objectID": "posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
+    "href": "posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
     "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden",
     "section": "",
     "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!\n(Bei diesem Post handelt es sich bisher nur um eine fiktive Nachricht - tatsächliche Nachrichten über Solarprojekte in Dresden folgen hoffentlich bald :-))"
   },
   {
-    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html",
-    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html",
-    "title": "Wieviel Energie liefert die Sonne?",
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html",
+    "title": "Das kleine Einmaleins der Solarenergie",
     "section": "",
-    "text": "Um einordnen zu können, wie viel Energie die Sonne tagtäglich auf die Erde schickt, habe ich ein paar Zahlen zusammengetragen und versucht diese in sinnvoller Weise miteinander zu verknüpfen."
+    "text": "In diesem Artikel möchte meinem Faible für Zahlen etwas nachgehen und ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kostet.\nUm die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen wissenschaftliche Zahlennotation. Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als 3,2 \\(\\cdot\\) 107 geschrieben werden.\nBei den Einheiten strebe ich überwiegend das Internationale Einheitensystem = SI-System an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffen und dann in das Internationale Einheitensystem umgerechnet."
   },
   {
-    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-viel-energie-liefert-die-sonne",
-    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-viel-energie-liefert-die-sonne",
-    "title": "Wieviel Energie liefert die Sonne?",
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
+    "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wie viel Energie liefert die Sonne?",
-    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen wieviel Energie (\\(E\\)) im physikalischen Sinne (Joules oder kWh) die Sonne pro Tag / Jahr auf die Erde schickt.\nDazu habe ich hier die Angabe gefunden, dass die Sonne auf das Jahr und die Erdoberfläche gemittelt mit einer Leistung von 1340 Watt pro Quadratmeter auf die Erde strahlt. In den weiteren Überlegungen wenden wir die grobe Näherung an, dass dieser Mittelwert 1340 Watt pro Quadratmeter pro Jahr für alle Fleckchen auf der Erde gilt.\nDie Oberfläche der Erde beträgt laut Wikipedia ca. 510 Millionen Quadratkilometer.\nDaraus ergibt sich eine Gesamtenergie pro Jahr von 2.16e+25 Joules."
+    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen wieviel Energie im physikalischen Sinne (Wikipedia) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (Wikipedia) ergibt sich als Energie pro Zeit mit der Einheit Joule pro Sekunde (J / s), im SI-System Watt (W).\nOftmals wird elektrische Energie auch in Kilowattstunden angegeben, also die Energie die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=3,6 \\(\\cdot\\) 103 s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen Joule, also 1 kWh = 3,6 \\(\\cdot\\) 106 J.\nDazu habe ich hier die Angabe gefunden, dass die Sonne auf das Jahr und die Erdoberfläche gemittelt mit einer Leistung von 1340 Watt pro Quadratmeter auf die Erde strahlt. In den weiteren Überlegungen wenden wir die grobe Näherung an, dass dieser Mittelwert 1,33 \\(\\cdot\\) 103 Watt pro Quadratmeter pro Jahr für alle Fleckchen auf der Erde gilt. Dabei ist zu beachten, dass ein großer Teil davon in der Atmosphäre der Erde “hängenbleibt”. Auf der Erdoberfläche kommen davon im Mittel ca. 5 \\(\\cdot\\) 100% (stimmt das?!?) an.\nDie Oberfläche der Erde beträgt laut Wikipedia 5,1 \\(\\cdot\\) 1014 m2.\nDaraus ergibt sich eine Gesamtenergie auf der Jahr von 2,16 \\(\\cdot\\) 1025 Joule."
   },
   {
-    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wieviel-energie-verbrauchen-die-menschen",
-    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wieviel-energie-verbrauchen-die-menschen",
-    "title": "Wieviel Energie liefert die Sonne?",
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-verbrauchen-die-menschen",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-verbrauchen-die-menschen",
+    "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wieviel Energie verbrauchen die Menschen?",
-    "text": "Wieviel Energie verbrauchen die Menschen?\nLaut Wikipedia beträgt der menschliche Weltenergiebedarf 574 Exajoule = 5.74e20 J.\nDie Welt liefert also ca. 3.76e+04 mal, also knapp 40000 mal, so viel Energie wie von den Menschen verbraucht wird.\nBei einem Photovoltaik-Wirkungsgrad von 10% müssten grob genähert mithin xx% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht der (für mich überraschend kleinen) Fläche von ca xx m^2 pro Mensch."
+    "text": "Wieviel Energie verbrauchen die Menschen?\nLaut Wikipedia beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = 5,74 \\(\\cdot\\) 1020 J.\nDie Welt liefert also ca. 3,76 \\(\\cdot\\) 104 mal so viel Energie wie von der Menschheit Menschen verbraucht wird."
   },
   {
-    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-ist-die-situation-in-deutschland",
-    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#wie-ist-die-situation-in-deutschland",
-    "title": "Wieviel Energie liefert die Sonne?",
-    "section": "Wie ist die Situation in Deutschland",
-    "text": "Wie ist die Situation in Deutschland\nDer Energiebedarf Deutschlands betrug laut Wikipedia im Jahr 2020 ca. 1.19e+19 Joules.\nDamit müssten in Deutschland pro Person x qm mit Photovoltaikanlagen bedeckt sein, um den Primärenergiebedarf zu decken."
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-kann-mittels-photovoltaik-erzeugt-werden",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-kann-mittels-photovoltaik-erzeugt-werden",
+    "title": "Das kleine Einmaleins der Solarenergie",
+    "section": "Wieviel Energie kann mittels Photovoltaik erzeugt werden?",
+    "text": "Wieviel Energie kann mittels Photovoltaik erzeugt werden?\nBei einem Photovoltaik-Wirkungsgrad von 10% müssten grob genähert mithin 2,66 \\(\\cdot\\) 10-3% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht der (für mich überraschend kleinen) Fläche von ca xx m^2 pro Mensch."
   },
   {
-    "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#fazit",
-    "href": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html#fazit",
-    "title": "Wieviel Energie liefert die Sonne?",
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-ist-die-situation-in-deutschland",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-ist-die-situation-in-deutschland",
+    "title": "Das kleine Einmaleins der Solarenergie",
+    "section": "Wie ist die Situation in Deutschland?",
+    "text": "Wie ist die Situation in Deutschland?\nDer Energiebedarf Deutschlands betrug laut Wikipedia im Jahr 2020 ca. 1,19 \\(\\cdot\\) 1019 Joule.\nDie Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=3 \\(\\cdot\\) 1011 Quadratmer).\nPro Quadratmeter können in Deutschland pro Jahr ca. 200 kWh = 7,2 \\(\\cdot\\) 108 Joule mittels einer PV-Anlage erzeugt werden.\nSomit müssten in Deutschland 1,65 \\(\\cdot\\) 1010 Quadrateter PV-Anlage installiert werden um den Primärenergiebedarf in Deutschland zu decken. Dies entspricht ca. 2,06 \\(\\cdot\\) 102 Quadratmeter pro Person oder 5,5 \\(\\cdot\\) 100% der Fläche Deutschlands."
+  },
+  {
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#fazit",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#fazit",
+    "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Fazit",
     "text": "Fazit\nEs handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:\n\nSonnenstrahlung überall gleich\nWirkungsgrad\nSpeicherung von Energie vernachlässigt"
   },
   {
-    "objectID": "posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html#was-kostet-ein-photovoltaikmodul",
-    "href": "posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html#was-kostet-ein-photovoltaikmodul",
-    "title": "Wieviel Strom liefern Solaranlagen?",
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-strom-liefert-ein-photovoltaikmodul",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-strom-liefert-ein-photovoltaikmodul",
+    "title": "Das kleine Einmaleins der Solarenergie",
+    "section": "Wie viel Strom liefert ein Photovoltaikmodul?",
+    "text": "Wie viel Strom liefert ein Photovoltaikmodul?\n\nca. 0.2 kWp pro qm\npro Jahr ca. 1000 kWh pro kWp\npro Jahr ca. 200 kWh pro qm\n1 Liter Heizöl entspricht ca. 10 kWh"
+  },
+  {
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#was-kostet-ein-photovoltaikmodul",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#was-kostet-ein-photovoltaikmodul",
+    "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Was kostet ein Photovoltaikmodul?",
     "text": "Was kostet ein Photovoltaikmodul?"
   },
   {
-    "objectID": "posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html#wie-viel-geld-bekommt-man-für-den-strom",
-    "href": "posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html#wie-viel-geld-bekommt-man-für-den-strom",
-    "title": "Wieviel Strom liefern Solaranlagen?",
+    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-geld-bekommt-man-für-den-strom",
+    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-geld-bekommt-man-für-den-strom",
+    "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wie viel Geld bekommt man für den Strom?",
     "text": "Wie viel Geld bekommt man für den Strom?"
   },
   {
     "objectID": "posts/2023-06-09-solarfest-dresden/index.html",
     "href": "posts/2023-06-09-solarfest-dresden/index.html",
-    "title": "Solarfest Dresden",
+    "title": "Solarfest Dresden am 23.7.2023!",
     "section": "",
-    "text": "Am 23.7.2023 um 18:00 Uhr findet (Ort noch ausstehend) ein Solarfest statt!\nZiele des Festes sind unter Anderem:\nToll wäre, wenn nach dem Fest, möglichst viele Leute Solarprojekte in ihrem Umfeld beginnen!"
-  },
-  {
-    "objectID": "posts/2023-06-09-solarfest-dresden/index.html#wie-kann-ich-ein-solarprojekt-starten",
-    "href": "posts/2023-06-09-solarfest-dresden/index.html#wie-kann-ich-ein-solarprojekt-starten",
-    "title": "Solarfest Dresden",
-    "section": "Wie kann ich ein Solarprojekt starten?",
-    "text": "Wie kann ich ein Solarprojekt starten?\n\nDenke darüber nach, zu welchen Gebäuden Du eine Beziehung hast\n\nwo wohne ich\nwo arbeite ich\nwo gehen meine Kinder tagsüber hin\nwo gehe ich zum Sport\netc.\n\nSchau Dir die Dachfläche an - könnte sie für Photovoltaik-Module geeignet sein?\n\nOnline-Möglichkeiten um das Solarenergie-Potential grob abzuschätzen findest Du zum Beispiel im Solarpotenzialkataster Sächsische Energieagentur und im Themenstadtplan der Stadt Dresden\n\nSprich den Eigentümer des Gebäudes an\nWenn Du ein chancenreiches Gebäude ausgemacht hast, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:\n\nEnergiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\n(…Weitere Möglichkeiten…)\n\nSuche Dir Gleichgesinnte zur Unterstützung, tausche Dich über das Unterfangen aus und mache Werbung dafür!"
+    "text": "Am 23.7.2023 um 18:00 Uhr findet (Ort noch ausstehend) ein Solarfest statt!\nZiele des Festes sind unter Anderem:\n\nein gemütliches Beisammensein mit Musik, Kuchen und Getränken\n\nVernetzung\n\nAustausch darüber, wie Solarprojekte angeschoben werden können\n\nWer mag kann auch Kuchen oder andere Leckerein mitbringen und vielleicht wird es auch etwas Live-Musik geben!\nToll wäre, wenn nach dem Fest, möglichst viele Leute Solarprojekte in ihrem Umfeld beginnen!\nEinen kleinen Leitfaden zum Starten eines Solarprojektes findest Du hier!"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Solarfest Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n05.04.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nWieviel Strom liefern Solaranlagen?\n\n\n\n\n\n\n\n\n\n\n\n\n20.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nWieviel Energie liefert die Sonne?\n\n\n\n\n\n\n\n\n\n\n\n\n19.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Wie kann ich ein Solarprojekt starten?\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nSolarfest Dresden am 23.7.2023!\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nDas kleine Einmaleins der Solarenergie\n\n\n\n\n\n\n\n\n\n\n\n\n03.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n01.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "index.html",

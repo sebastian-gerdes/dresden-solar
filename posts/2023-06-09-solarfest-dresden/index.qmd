@@ -1,5 +1,5 @@
 ---
-title: "Solarfest Dresden"
+title: "Solarfest Dresden am 23.7.2023!"
 format: html
 date: "2023-06-09"
 toc: false
@@ -13,20 +13,8 @@ Ziele des Festes sind unter Anderem:
 * Vernetzung  
 * Austausch darüber, wie Solarprojekte angeschoben werden können
 
+Wer mag kann auch Kuchen oder andere Leckerein mitbringen und vielleicht wird es auch etwas Live-Musik geben!
+
 Toll wäre, wenn nach dem Fest, möglichst viele Leute Solarprojekte in ihrem Umfeld beginnen!
 
-## Wie kann ich ein Solarprojekt starten?
-
-* Denke darüber nach, zu welchen Gebäuden Du eine Beziehung hast
-  * wo wohne ich
-  * wo arbeite ich
-  * wo gehen meine Kinder tagsüber hin
-  * wo gehe ich zum Sport
-  * etc.
-* Schau Dir die Dachfläche an - könnte sie für Photovoltaik-Module geeignet sein?
-  * Online-Möglichkeiten um das Solarenergie-Potential grob abzuschätzen findest Du zum Beispiel im [Solarpotenzialkataster Sächsische Energieagentur](https://solarkataster-sachsen.de/) und im [Themenstadtplan der Stadt Dresden](https://stadtplan.dresden.de/?permalink=2HSP4RWx) 
-* Sprich den Eigentümer des Gebäudes an
-* Wenn Du ein chancenreiches Gebäude ausgemacht hast, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:
-  * [Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)](https://egneos.de/)
-  * (...Weitere Möglichkeiten...)
-* Suche Dir Gleichgesinnte zur Unterstützung, tausche Dich über das Unterfangen aus und mache Werbung dafür!
+Einen kleinen Leitfaden zum Starten eines Solarprojektes findest Du [hier](/posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.qmd)!
