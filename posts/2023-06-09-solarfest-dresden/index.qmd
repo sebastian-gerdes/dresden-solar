@@ -2,10 +2,10 @@
 title: "Solarfest Dresden"
 format: html
 date: "2023-06-09"
-toc: true
+toc: false
 # categories: [Allgemeines]
 ---
-Am 23.7.2023 findet (Ort noch ausstehend) ein Solarfest statt! 
+Am 23.7.2023 um 18:00 Uhr findet (Ort noch ausstehend) ein Solarfest statt! 
 
 Ziele des Festes sind unter Anderem:
 
@@ -23,11 +23,10 @@ Toll wäre, wenn nach dem Fest, möglichst viele Leute Solarprojekte in ihrem Um
   * wo gehen meine Kinder tagsüber hin
   * wo gehe ich zum Sport
   * etc.
-* Schau Dir die Dachfläche an - könntet Sie für Photovoltaik-Module geeignet sein?
+* Schau Dir die Dachfläche an - könnte sie für Photovoltaik-Module geeignet sein?
   * Online-Möglichkeiten um das Solarenergie-Potential grob abzuschätzen findest Du zum Beispiel im [Solarpotenzialkataster Sächsische Energieagentur](https://solarkataster-sachsen.de/) und im [Themenstadtplan der Stadt Dresden](https://stadtplan.dresden.de/?permalink=2HSP4RWx) 
 * Sprich den Eigentümer des Gebäudes an
-* Falls ein Solarprojekt Chancen haben könnte, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:
+* Wenn Du ein chancenreiches Gebäude ausgemacht hast, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:
   * [Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)](https://egneos.de/)
   * (...Weitere Möglichkeiten...)
-* Suche Dir Gleichgesinnte zur Unterstützung und tausche Dich über das Unterfangen aus!
-* Mache Werbung für das Projekt!
+* Suche Dir Gleichgesinnte zur Unterstützung, tausche Dich über das Unterfangen aus und mache Werbung dafür!
