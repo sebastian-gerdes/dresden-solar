@@ -25,7 +25,7 @@
     "href": "posts/2023-02-06-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html",
     "title": "Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden",
     "section": "",
-    "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!"
+    "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!\n(Bei diesem Post handelt es sich bisher nur um eine fiktive Nachricht - tatsächliche Nachrichten über Solarprojekte in Dresden folgen hoffentlich bald :-))"
   },
   {
     "objectID": "posts/2023-03-18-wieviel-energie-liefert-die-sonne/index.html",
@@ -63,13 +63,6 @@
     "text": "Fazit\nEs handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:\n\nSonnenstrahlung überall gleich\nWirkungsgrad\nSpeicherung von Energie vernachlässigt"
   },
   {
-    "objectID": "posts/2023-03-18-dresden-solar-hintergrund/index.html",
-    "href": "posts/2023-03-18-dresden-solar-hintergrund/index.html",
-    "title": "Dresden Solar - Hintergrund des Projektes",
-    "section": "",
-    "text": "Hier soll ein Post entstehen, der etwas mehr Hintergrundinformationen zum Projekt gibt."
-  },
-  {
     "objectID": "posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html#was-kostet-ein-photovoltaikmodul",
     "href": "posts/2023-03-20-wieviel-strom-liefern-pv-anlagen/index.html#was-kostet-ein-photovoltaikmodul",
     "title": "Wieviel Strom liefern Solaranlagen?",
@@ -84,18 +77,32 @@
     "text": "Wie viel Geld bekommt man für den Strom?"
   },
   {
+    "objectID": "posts/2023-06-09-solarfest-dresden/index.html",
+    "href": "posts/2023-06-09-solarfest-dresden/index.html",
+    "title": "Solarfest Dresden",
+    "section": "",
+    "text": "Am 23.7.2023 findet (Ort noch ausstehend) ein Solarfest statt!\nZiele des Festes sind unter Anderem:\nToll wäre, wenn nach dem Fest, möglichst viele Leute Solarprojekte in ihrem Umfeld beginnen!"
+  },
+  {
+    "objectID": "posts/2023-06-09-solarfest-dresden/index.html#wie-kann-ich-ein-solarprojekt-starten",
+    "href": "posts/2023-06-09-solarfest-dresden/index.html#wie-kann-ich-ein-solarprojekt-starten",
+    "title": "Solarfest Dresden",
+    "section": "Wie kann ich ein Solarprojekt starten?",
+    "text": "Wie kann ich ein Solarprojekt starten?\n\nDenke darüber nach, zu welchen Gebäuden Du eine Beziehung hast\n\nwo wohne ich\nwo arbeite ich\nwo gehen meine Kinder tagsüber hin\nwo gehe ich zum Sport\netc.\n\nSchau Dir die Dachfläche an - könntet Sie für Photovoltaik-Module geeignet sein?\n\nOnline-Möglichkeiten um das Solarenergie-Potential grob abzuschätzen findest Du zum Beispiel im Solarpotenzialkataster Sächsische Energieagentur und im Themenstadtplan der Stadt Dresden\n\nSprich den Eigentümer des Gebäudes an\nFalls ein Solarprojekt Chancen haben könnte, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:\n\nEnergiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)\n(…Weitere Möglichkeiten…)\n\nSuche Dir Gleichgesinnte zur Unterstützung und tausche Dich über das Unterfangen aus!\nMache Werbung für das Projekt!"
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Solarfest Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n05.04.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nWieviel Strom liefern Solaranlagen?\n\n\n\n\n\n\n\n\n\n\n\n\n20.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nWieviel Energie liefert die Sonne?\n\n\n\n\n\n\n\n\n\n\n\n\n19.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nDresden Solar - Hintergrund des Projektes\n\n\n\n\n\n\n\n\n\n\n\n\n18.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Solarfest Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n05.04.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nWieviel Strom liefern Solaranlagen?\n\n\n\n\n\n\n\n\n\n\n\n\n20.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nWieviel Energie liefert die Sonne?\n\n\n\n\n\n\n\n\n\n\n\n\n19.03.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Über das Projekt",
+    "title": "Aktuell: Solarfest Dresden am 23.7.2023 - mehr dazu hier",
     "section": "",
-    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nMehr zum Hintergrund des Projektes findest Du hier!\nUm auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar(at) posteo.de) oder aboniere den RSS-Feed der Seite!\nBildquelle - Lizenz"
+    "text": "Photovoltaik ist super. Auf dieser Webseite werden Nachrichten gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.\nDiese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!\nUm auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar(at) posteo.de) oder aboniere den RSS-Feed der Seite!\nOder tritt der Dresden-Solar-Signal-Gruppe mit diesem Link bei!\nBildquelle - Lizenz"
   },
   {
     "objectID": "impressum.html",
@@ -158,7 +165,7 @@
     "href": "links.html#solarpotentiale-nach-berechnung-leibniz-institut-für-ökologische-raumentwicklung-dresden",
     "title": "Links",
     "section": "Solarpotentiale nach Berechnung Leibniz-Institut für ökologische Raumentwicklung Dresden",
-    "text": "Solarpotentiale nach Berechnung Leibniz-Institut für ökologische Raumentwicklung Dresden\n\nEnthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi aller Gebäude in Dresden\nBericht der Stadt Dresden\nLink zu Berechnungsmöglichkeit"
+    "text": "Solarpotentiale nach Berechnung Leibniz-Institut für ökologische Raumentwicklung Dresden\n\nEnthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi aller Gebäude in Dresden\nBericht der Stadt Dresden\nLink zu Berechnungsmöglichkeit im Themenstadtplan - recht freundliche Benutzeroberfläche\nLink zum 3D-Modell - etwas langsam in der Bedienung"
   },
   {
     "objectID": "links.html#wattbewerb",

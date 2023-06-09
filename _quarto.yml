@@ -11,6 +11,7 @@ website:
   #   hypothesis:
   #     theme: clean
   #     openSidebar: false
+  
   navbar:
     # background: orange
     left:
@@ -31,4 +32,5 @@ format:
     css: styles.css
     toc: false
     strip-comments: true
+    title-block-banner: false
 lang: de

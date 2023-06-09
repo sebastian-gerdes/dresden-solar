@@ -6,3 +6,5 @@ categories: [Grønnköpingkið University Hospital Dresden]
 ---
 
 Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an [dieses](https://worldsgreenesthospital.org/) hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!
+
+(Bei diesem Post handelt es sich bisher nur um eine fiktive Nachricht - tatsächliche Nachrichten über Solarprojekte in Dresden folgen hoffentlich bald :-))

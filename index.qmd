@@ -1,5 +1,6 @@
 ---
-title: "Über das Projekt"
+# title: "Über das Projekt"
+title: "Aktuell: Solarfest Dresden am 23.7.2023 - mehr dazu [hier](posts/2023-06-09-solarfest-dresden/index.qmd)"
 image: images/profile.jpg
 about:
   template: jolla
@@ -9,8 +10,10 @@ Photovoltaik ist super. Auf dieser Webseite werden [Nachrichten](news.qmd) gesam
 
 Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!
 
-Mehr zum Hintergrund des Projektes findest Du [hier](/posts/2023-03-18-dresden-solar-hintergrund/)!
+<!-- Mehr zum Hintergrund des Projektes findest Du [hier](/posts/2023-03-18-dresden-solar-hintergrund/)! -->
 
 Um auf dem Laufenden zu bleiben lass Dich auf unserem Mailverteiler eintragen (per Mail an dresden-solar(at) posteo.de) oder aboniere den [RSS-Feed](news.xml) der Seite!
+
+Oder tritt der Dresden-Solar-[Signal](https://signal.org/)-Gruppe mit diesem [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef) bei!
 
 [Bildquelle](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) - [Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)

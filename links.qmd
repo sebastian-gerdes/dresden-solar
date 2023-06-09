@@ -14,7 +14,8 @@ title: "Links"
 ## Solarpotentiale nach Berechnung Leibniz-Institut für ökologische Raumentwicklung Dresden
 * Enthält Schätzungen zu möglicher Leistung und Wirtschaftlichkeit von Photovoltaikanlagen für quasi aller Gebäude in Dresden
 * [Bericht der Stadt Dresden](https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2023/03/pm_031.php?mtm_kwd=Stadtentwicklung+und+Umwelt&mtm_campaign=newsletter)
-* [Link zu Berechnungsmöglichkeit](https://arcg.is/1Obb1X0)
+* [Link zu Berechnungsmöglichkeit im Themenstadtplan](https://stadtplan.dresden.de/?permalink=2HSP4RWx) - recht freundliche Benutzeroberfläche
+* [Link zum 3D-Modell](https://arcg.is/1Obb1X0) - etwas langsam in der Bedienung
 
 <!-- ## Geothermische Karte des Landes Sachsen der möglichen Entzugsleistung für Wärmepumpen) -->
 <!-- * [Link zur Webseite](https://www.umwelt.sachsen.de/umwelt/infosysteme/ida/p/gtk50?) -->
