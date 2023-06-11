@@ -1,0 +1,136 @@
+---
+title: "Das kleine Einmaleins der Solarenergie"
+format: html
+date: "2023-06-06"
+toc: true
+# categories: [Allgemeines]
+---
+
+```{r}
+#| label: Init
+#| include: false
+
+library('tidyverse')
+ff <- function(x) {
+  ee <- function(x) {
+    floor(log10(x))
+  }
+  
+  lead <- function(x) {
+    x / 10^ee(x)
+  }
+  
+  x |> 
+    lead() |> 
+    signif(digits = 3) |> 
+    str_replace(pattern = '\\.', ',') |> 
+    str_c(' $\\cdot$ 10^', ee(x), '^')
+}
+
+pp <- function(x) {
+  return(signif(x, digits = 2))
+}
+```
+
+
+```{r}
+#| label: Berechnungen
+#| include: false
+seconds_per_year <- 365.25 * 24 * 60 * 60
+
+surface_earth_m2 <- 5.1e14
+surface_germany_m2 <- 3e5 * 1e6
+
+intensity_sun_raw_W_per_m2 <- 1334
+intensity_sun_surface_W_per_m2 <- 100
+power_sun_surface_W <- surface_earth_m2 * intensity_sun_raw_W_per_m2
+
+energy_sun_to_earth_per_year_surface_J <- 
+  surface_earth_m2 * seconds_per_year * intensity_sun_surface_W_per_m2
+energy_sun_to_germany_per_year_surface_J <- 
+  surface_germany_m2 * seconds_per_year * intensity_sun_surface_W_per_m2
+
+
+consumption_world_per_year_J <- 5.74e20
+consumption_world_per_year_kWh <- consumption_world_per_year_J / 3.6e6
+
+consumption_germany_per_year_J <- 1.19e19
+consumption_germany_per_year_kWh <- consumption_germany_per_year_J / 3.6e6
+
+population_world <- 8e9
+population_germany <- 8.5e7
+
+pv_efficiency <- 0.2
+fraction_earth_needed <- 
+  consumption_world_per_year_J / 
+  (pv_efficiency * energy_sun_to_earth_per_year_surface_J)
+fraction_germany_needed <- 
+  consumption_germany_per_year_J /
+  (pv_efficiency * energy_sun_to_germany_per_year_surface_J)
+          
+area_needed_per_person_earth_m2 <- 
+  fraction_earth_needed * surface_earth_m2 / population_world
+area_needed_per_person_germany_m2 <-
+  fraction_germany_needed * surface_germany_m2 / population_germany
+
+kosten_pv_modul_pro_m2 <- c(200, 300)
+kosten_deutschland_pro_person <- 
+  area_needed_per_person_germany_m2 * kosten_pv_modul_pro_m2
+kosten_deutschland_gesamt <- 
+  kosten_deutschland_pro_person * population_germany
+
+```
+
+In diesem Artikel möchte meinem Faible für Zahlen etwas nachgehen und ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kostet.
+
+Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen [wissenschaftliche Zahlennotation](https://de.wikipedia.org/wiki/Wissenschaftliche_Notation). Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als `r ff(3.2e7)` geschrieben werden.
+
+Bei den Einheiten strebe ich überwiegend das [Internationale Einheitensystem = SI-System](https://de.wikipedia.org/wiki/Internationales_Einheitensystem) an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffen und dann in das Internationale Einheitensystem umgerechnet.
+
+
+## Wie viel Energie liefert die Sonne?
+Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung [(Wikipedia)](https://de.wikipedia.org/wiki/Leistung_(Physik)) ergibt sich als Energie pro Zeit mit der Einheit Joule pro Sekunde (J / s), auch genannt Watt (W im SI-System).
+
+Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/) folgende Angabe: "Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an."
+
+Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre "hängen", auf einer Hälfte der Erde ist jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
+
+Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung eine Leistung pro Quadratmeter von 100 W/m^2^ an (hier wäre eine Quelle schön - wenn jemand eine weiß gern Bescheid sagen!). In den weiteren Überlegungen nehmen wir an, dass diese grobe Näherung zu allen Zeiten für alle Flecken dieser Erde gilt. 
+
+Die Oberfläche der Erde beträgt laut [Wikipedia](https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che) `r ff(surface_earth_m2)` m^2^. Damit kommt im Jahr eine Energie von ca. `r ff(energy_sun_to_earth_per_year_surface_J)` J auf der Erdoberfläche an.
+
+## Wieviel Energie verbrauchen die Menschen?
+Laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = `r ff(consumption_world_per_year_J)` J.
+
+Die Sonne liefert also bis zur Erdoberfläche ca. `r pp(energy_sun_to_earth_per_year_surface_J / consumption_world_per_year_J)` mal so viel Energie wie von der Menschheit verbraucht wird.
+
+Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) im Jahr 2020 ca. `r ff(consumption_germany_per_year_J)` J. 
+
+Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r ff(surface_germany_m2)` Quadratmer). Damit kommt in Deutschland ca. `r pp(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
+
+
+## Wieviel Energie kann mittels Photovoltaik erzeugt werden?
+Bei einem Photovoltaik-Wirkungsgrad von `r pp(pv_efficiency)`% müssten grob genähert `r pp(fraction_earth_needed * 100)`% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca `r pp(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
+
+Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches eine benötigte Fläche pro Person von ca. `r pp(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r pp(fraction_germany_needed * 100)`% der Fläche Deutschlands.
+
+## Was kostet Photovoltaik?
+Eine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend das entspricht `r ff(200 * 3.6e6)` J) pro Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche. 
+
+Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland und zwischen ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro investiert werden, um genug PV-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
+
+Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass PV-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf abgedeckt wäre.
+
+## Fazit
+Es handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:
+
+* Sonnenstrahlung überall gleich
+* Wirkungsgrad
+* Speicherung von Energie vernachlässigt
+
+
+## Zusätzliche Angaben
+* 1 Liter Heizöl / Benzin entspricht ca. 10kWh = `r ff(3.6e6 * 10)` J
+* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine PV-Anlage mit einer Fläche von ca. 1 / 20 m^2^.
+
+Oftmals wird elektrische Energie auch in Kilowattstunden angegeben, also die Energie die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r ff(3.6e3)` s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen J, also 1 kWh = `r ff(3.6e6)` J.

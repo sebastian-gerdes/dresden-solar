@@ -35,67 +35,53 @@
     "text": "Im fiktiven Grønnköpingkið University Hospital Dresden (angelehnt an dieses hervorragende Krankenhaus) wurde heute eine neue Photovoltaikanlage mit einer elektrischen Spitzenleistung von 10 000 Gigawatt-Peak in Betrieb genommen. Jippie!\n(Bei diesem Post handelt es sich bisher nur um eine fiktive Nachricht - tatsächliche Nachrichten über Solarprojekte in Dresden folgen hoffentlich bald :-))"
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "",
     "text": "In diesem Artikel möchte meinem Faible für Zahlen etwas nachgehen und ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kostet.\nUm die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen wissenschaftliche Zahlennotation. Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als 3,2 \\(\\cdot\\) 107 geschrieben werden.\nBei den Einheiten strebe ich überwiegend das Internationale Einheitensystem = SI-System an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffen und dann in das Internationale Einheitensystem umgerechnet."
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wie viel Energie liefert die Sonne?",
-    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen wieviel Energie im physikalischen Sinne (Wikipedia) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (Wikipedia) ergibt sich als Energie pro Zeit mit der Einheit Joule pro Sekunde (J / s), im SI-System Watt (W).\nOftmals wird elektrische Energie auch in Kilowattstunden angegeben, also die Energie die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=3,6 \\(\\cdot\\) 103 s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen Joule, also 1 kWh = 3,6 \\(\\cdot\\) 106 J.\nDazu habe ich hier die Angabe gefunden, dass die Sonne auf das Jahr und die Erdoberfläche gemittelt mit einer Leistung von 1340 Watt pro Quadratmeter auf die Erde strahlt. In den weiteren Überlegungen wenden wir die grobe Näherung an, dass dieser Mittelwert 1,33 \\(\\cdot\\) 103 Watt pro Quadratmeter pro Jahr für alle Fleckchen auf der Erde gilt. Dabei ist zu beachten, dass ein großer Teil davon in der Atmosphäre der Erde “hängenbleibt”. Auf der Erdoberfläche kommen davon im Mittel ca. 5 \\(\\cdot\\) 100% (stimmt das?!?) an.\nDie Oberfläche der Erde beträgt laut Wikipedia 5,1 \\(\\cdot\\) 1014 m2.\nDaraus ergibt sich eine Gesamtenergie auf der Jahr von 2,16 \\(\\cdot\\) 1025 Joule."
+    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne (Wikipedia) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (Wikipedia) ergibt sich als Energie pro Zeit mit der Einheit Joule pro Sekunde (J / s), auch genannt Watt (W im SI-System).\nDazu findet sich hier folgende Angabe: “Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an.”\nEin großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre “hängen”, auf einer Hälfte der Erde ist jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf.\nFür die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung eine Leistung pro Quadratmeter von 100 W/m2 an (hier wäre eine Quelle schön - wenn jemand eine weiß gern Bescheid sagen!). In den weiteren Überlegungen nehmen wir an, dass diese grobe Näherung zu allen Zeiten für alle Flecken dieser Erde gilt.\nDie Oberfläche der Erde beträgt laut Wikipedia 5,1 \\(\\cdot\\) 1014 m2. Damit kommt im Jahr eine Energie von ca. 1,61 \\(\\cdot\\) 1024 J auf der Erdoberfläche an."
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-verbrauchen-die-menschen",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-verbrauchen-die-menschen",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-verbrauchen-die-menschen",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-verbrauchen-die-menschen",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wieviel Energie verbrauchen die Menschen?",
-    "text": "Wieviel Energie verbrauchen die Menschen?\nLaut Wikipedia beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = 5,74 \\(\\cdot\\) 1020 J.\nDie Welt liefert also ca. 3,76 \\(\\cdot\\) 104 mal so viel Energie wie von der Menschheit Menschen verbraucht wird."
+    "text": "Wieviel Energie verbrauchen die Menschen?\nLaut Wikipedia beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = 5,74 \\(\\cdot\\) 1020 J.\nDie Sonne liefert also bis zur Erdoberfläche ca. 2800 mal so viel Energie wie von der Menschheit verbraucht wird.\nDer Energiebedarf Deutschlands betrug laut Wikipedia im Jahr 2020 ca. 1,19 \\(\\cdot\\) 1019 J.\nDie Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=3 \\(\\cdot\\) 1011 Quadratmer). Damit kommt in Deutschland ca. 80 mal so viel Energie wie benötigt an."
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-kann-mittels-photovoltaik-erzeugt-werden",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-kann-mittels-photovoltaik-erzeugt-werden",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-kann-mittels-photovoltaik-erzeugt-werden",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wieviel-energie-kann-mittels-photovoltaik-erzeugt-werden",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wieviel Energie kann mittels Photovoltaik erzeugt werden?",
-    "text": "Wieviel Energie kann mittels Photovoltaik erzeugt werden?\nBei einem Photovoltaik-Wirkungsgrad von 10% müssten grob genähert mithin 2,66 \\(\\cdot\\) 10-3% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht der (für mich überraschend kleinen) Fläche von ca xx m^2 pro Mensch."
+    "text": "Wieviel Energie kann mittels Photovoltaik erzeugt werden?\nBei einem Photovoltaik-Wirkungsgrad von 0.2% müssten grob genähert 0.18% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca 110 m2 pro Mensch.\nAuf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches eine benötigte Fläche pro Person von ca. 220 m2, ingesamt entsprechend 6.3% der Fläche Deutschlands."
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-ist-die-situation-in-deutschland",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-ist-die-situation-in-deutschland",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#was-kostet-photovoltaik",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#was-kostet-photovoltaik",
     "title": "Das kleine Einmaleins der Solarenergie",
-    "section": "Wie ist die Situation in Deutschland?",
-    "text": "Wie ist die Situation in Deutschland?\nDer Energiebedarf Deutschlands betrug laut Wikipedia im Jahr 2020 ca. 1,19 \\(\\cdot\\) 1019 Joule.\nDie Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=3 \\(\\cdot\\) 1011 Quadratmer).\nPro Quadratmeter können in Deutschland pro Jahr ca. 200 kWh = 7,2 \\(\\cdot\\) 108 Joule mittels einer PV-Anlage erzeugt werden.\nSomit müssten in Deutschland 1,65 \\(\\cdot\\) 1010 Quadrateter PV-Anlage installiert werden um den Primärenergiebedarf in Deutschland zu decken. Dies entspricht ca. 2,06 \\(\\cdot\\) 102 Quadratmeter pro Person oder 5,5 \\(\\cdot\\) 100% der Fläche Deutschlands."
+    "section": "Was kostet Photovoltaik?",
+    "text": "Was kostet Photovoltaik?\nEine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend das entspricht 7,2 \\(\\cdot\\) 108 J) pro Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche.\nMithin müssten ca. ein Geldbetrag zwischen ca. 3,77 \\(\\cdot\\) 1012 Euro und 5,66 \\(\\cdot\\) 1012 Euro für Gesamtdeutschland und zwischen ca. 4,44 \\(\\cdot\\) 104 Euro und 6,65 \\(\\cdot\\) 104 Euro investiert werden, um genug PV-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.\nDas ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass PV-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf abgedeckt wäre."
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#fazit",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#fazit",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#fazit",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#fazit",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Fazit",
     "text": "Fazit\nEs handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:\n\nSonnenstrahlung überall gleich\nWirkungsgrad\nSpeicherung von Energie vernachlässigt"
   },
   {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-strom-liefert-ein-photovoltaikmodul",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-strom-liefert-ein-photovoltaikmodul",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#zusätzliche-angaben",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#zusätzliche-angaben",
     "title": "Das kleine Einmaleins der Solarenergie",
-    "section": "Wie viel Strom liefert ein Photovoltaikmodul?",
-    "text": "Wie viel Strom liefert ein Photovoltaikmodul?\n\nca. 0.2 kWp pro qm\npro Jahr ca. 1000 kWh pro kWp\npro Jahr ca. 200 kWh pro qm\n1 Liter Heizöl entspricht ca. 10 kWh"
-  },
-  {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#was-kostet-ein-photovoltaikmodul",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#was-kostet-ein-photovoltaikmodul",
-    "title": "Das kleine Einmaleins der Solarenergie",
-    "section": "Was kostet ein Photovoltaikmodul?",
-    "text": "Was kostet ein Photovoltaikmodul?"
-  },
-  {
-    "objectID": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-geld-bekommt-man-für-den-strom",
-    "href": "posts/2023-06-03-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-geld-bekommt-man-für-den-strom",
-    "title": "Das kleine Einmaleins der Solarenergie",
-    "section": "Wie viel Geld bekommt man für den Strom?",
-    "text": "Wie viel Geld bekommt man für den Strom?"
+    "section": "Zusätzliche Angaben",
+    "text": "Zusätzliche Angaben\n\n1 Liter Heizöl / Benzin entspricht ca. 10kWh = 3,6 \\(\\cdot\\) 107 J\nUm in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine PV-Anlage mit einer Fläche von ca. 1 / 20 m2.\n\nOftmals wird elektrische Energie auch in Kilowattstunden angegeben, also die Energie die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=3,6 \\(\\cdot\\) 103 s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen J, also 1 kWh = 3,6 \\(\\cdot\\) 106 J."
   },
   {
     "objectID": "posts/2023-06-09-solarfest-dresden/index.html",
@@ -109,7 +95,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Wie kann ich ein Solarprojekt starten?\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nSolarfest Dresden am 23.7.2023!\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nDas kleine Einmaleins der Solarenergie\n\n\n\n\n\n\n\n\n\n\n\n\n03.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n01.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Wie kann ich ein Solarprojekt starten?\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nSolarfest Dresden am 23.7.2023!\n\n\n\n\n\n\n\n\n\n\n\n\n09.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nDas kleine Einmaleins der Solarenergie\n\n\n\n\n\n\n\n\n\n\n\n\n06.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\n \n\n\n\n\nPhotovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden\n\n\n\n\n\n\n\n\n\n\n\n\n01.06.2023\n\n\nSebastian Gerdes\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "index.html",
