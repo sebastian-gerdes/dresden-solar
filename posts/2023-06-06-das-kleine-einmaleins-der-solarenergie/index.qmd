@@ -106,7 +106,7 @@ Die Sonne liefert also bis zur Erdoberfläche ca. `r pp(energy_sun_to_earth_per_
 
 Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) im Jahr 2020 ca. `r ff(consumption_germany_per_year_J)` J. 
 
-Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r ff(surface_germany_m2)` Quadratmer). Damit kommt in Deutschland ca. `r pp(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
+Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r ff(surface_germany_m2)` Quadratmeter). Damit kommt in Deutschland ca. `r pp(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
 
 
 ## Wieviel Energie kann mittels Photovoltaik erzeugt werden?
@@ -117,9 +117,9 @@ Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches e
 ## Was kostet Photovoltaik?
 Eine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend das entspricht `r ff(200 * 3.6e6)` J) pro Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche. 
 
-Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland und zwischen ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro investiert werden, um genug PV-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
+Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genug PV-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
 
-Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass PV-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf abgedeckt wäre.
+Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass PV-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf (aktuell Gas, Benzin, Kohle etc.) abgedeckt wäre.
 
 ## Fazit
 Es handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:
