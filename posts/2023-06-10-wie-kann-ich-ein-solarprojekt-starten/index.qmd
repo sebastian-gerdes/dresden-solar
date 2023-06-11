@@ -13,10 +13,12 @@ toc: false
   * wo gehe ich zum Sport
   * etc.
 * Schau Dir die Dachfläche an - könnte sie für Photovoltaik-Module geeignet sein?
-  * Online-Möglichkeiten um das Solarenergie-Potential eines Gebäudes grob abzuschätzen findest Du zum Beispiel im [Solarpotenzialkataster der Sächsischen Energieagentur](https://solarkataster-sachsen.de/) und im [Themenstadtplan der Stadt Dresden](https://stadtplan.dresden.de/?permalink=2HSP4RWx) 
+* Mache Dir mit Online-Recherchemöglichkeiten eine grobe Vorstellung vom Solarpotential des Gebäudes, zum Beispiel hier:
+  * [Solarpotenzialkataster der Sächsischen Energieagentur](https://solarkataster-sachsen.de/)
+  * [Themenstadtplan der Stadt Dresden](https://stadtplan.dresden.de/?permalink=2HSP4RWx) 
 * Sprich den Eigentümer des Gebäudes an und versuche ihn für die Idee eines Solarprojektes zu gewinnen
 * Wenn Du ein chancenreiches Gebäude ausgemacht hast, nimm Kontakt zu Menschen auf, die bei der Umsetzung helfen können:
   * [Energiegenossenschaft Neue Energien Ostsachsen eG (egNEOS)](https://egneos.de/)
   * (...Weitere Möglichkeiten...)
 * Suche Dir Gleichgesinnte zur Unterstützung, tausche Dich über das Unterfangen aus und mache Werbung dafür!
-* Du hast weitere Tipps? Leite Sie gern an uns weiter :-)
+* Du hast weitere Tipps? Leite sie gern an uns weiter :-)
