@@ -122,7 +122,11 @@ Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[
 Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von bis zu 40 Jahren haben und tatsächlich der gesamte Primärenergiebedarf abgedeckt wäre.
 
 ## Fazit
-Die hier gemachten Abschätzungen sind wirklich "$\pi$ mal Daumen". 
+Die hier gemachten Abschätzungen sind wirklich ausgeprägt "$\pi$ mal Daumen". Auch die praktische Umsetzbarkeit eines großflächigten Photovoltaikausbaus würde natürlich enorme Herausforderungen mit sich bringen und eine Abdeckung des gesamten Primärenergiebedarfs über Photovoltaik ist wahrscheinlich selbst langfristig wenig realistisch und wahrscheinlich.
+
+Aber es gibt ja auch noch andere regenerative Energiequellen (insbesondere Windenergie, Geothermie), die ebenfalls genutzt werden können. Und es gibt es auch erhebliche Einsparpotenziale um den Gesamtprimärenergiebedarf zu senken. 
+
+Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten die Prozess anzugehen!
 
 ## Zusätzliche Angaben
 * 1 Liter Heizöl / Benzin entspricht ca. 10kWh = `r ff(3.6e6 * 10)` J
