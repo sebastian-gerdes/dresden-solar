@@ -81,7 +81,7 @@ kosten_deutschland_gesamt <-
 
 ```
 
-In diesem Artikel möchte meinem Faible für Zahlen etwas nachgehen und ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kostet.
+In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kosten würde.
 
 Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen [wissenschaftliche Zahlennotation](https://de.wikipedia.org/wiki/Wissenschaftliche_Notation). Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als `r ff(3.2e7)` geschrieben werden.
 
@@ -110,16 +110,16 @@ Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r ff(surface_g
 
 
 ## Wieviel Energie kann mittels Photovoltaik erzeugt werden?
-Bei einem Photovoltaik-Wirkungsgrad von `r pp(pv_efficiency)`% müssten grob genähert `r pp(fraction_earth_needed * 100)`% der Erde mit PV-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca `r pp(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
+Bei einem Photovoltaik-Wirkungsgrad von `r pp(pv_efficiency)`% müssten grob genähert `r pp(fraction_earth_needed * 100)`% der Erde mit Photovoltaik-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca `r pp(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
 
 Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches eine benötigte Fläche pro Person von ca. `r pp(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r pp(fraction_germany_needed * 100)`% der Fläche Deutschlands.
 
 ## Was kostet Photovoltaik?
-Eine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend das entspricht `r ff(200 * 3.6e6)` J) pro Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche. 
+Eine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend `r ff(200 * 3.6e6)` J) pro Quadratmeter Modulfläche und Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche. 
 
-Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genug PV-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
+Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genug Photovoltaik-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
 
-Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass PV-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf (aktuell Gas, Benzin, Kohle etc.) abgedeckt wäre.
+Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf (aktuell Gas, Benzin, Kohle etc.) abgedeckt wäre.
 
 ## Fazit
 Es handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:
@@ -131,6 +131,6 @@ Es handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden
 
 ## Zusätzliche Angaben
 * 1 Liter Heizöl / Benzin entspricht ca. 10kWh = `r ff(3.6e6 * 10)` J
-* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine PV-Anlage mit einer Fläche von ca. 1 / 20 m^2^.
+* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^.
 
 Oftmals wird elektrische Energie auch in Kilowattstunden angegeben, also die Energie die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r ff(3.6e3)` s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen J, also 1 kWh = `r ff(3.6e6)` J.

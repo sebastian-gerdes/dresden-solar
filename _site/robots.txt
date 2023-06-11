@@ -1,1 +1,1 @@
-Sitemap: https://dresden-solar.net/sitemap.xml
+Sitemap: https://dresden-solar.netlify.app/sitemap.xml

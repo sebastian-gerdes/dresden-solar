@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Dresden Solar"
-  site-url: "https://dresden-solar.net/"
+  site-url: "https://dresden-solar.netlify.app/"
   description: "Dokumentation des Photovoltaik-Ausbaus in Dresden"
   favicon: images/pv_dd_logo.png
   # margin-header: subscribe.html
