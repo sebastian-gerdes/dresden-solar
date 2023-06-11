@@ -119,15 +119,10 @@ Eine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend `r ff(2
 
 Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genug Photovoltaik-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
 
-Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten bis zu 20 bis 40 Jahre haben und tatsächlich der gesamte Primärenergiebedarf (aktuell Gas, Benzin, Kohle etc.) abgedeckt wäre.
+Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von bis zu 40 Jahren haben und tatsächlich der gesamte Primärenergiebedarf abgedeckt wäre.
 
 ## Fazit
-Es handelt sich hierbei um eine wirklich sehr grobe Berechnung. In den folgenden Punkten Näherungen:
-
-* Sonnenstrahlung überall gleich
-* Wirkungsgrad
-* Speicherung von Energie vernachlässigt
-
+Die hier gemachten Abschätzungen sind wirklich "$\pi$ mal Daumen". 
 
 ## Zusätzliche Angaben
 * 1 Liter Heizöl / Benzin entspricht ca. 10kWh = `r ff(3.6e6 * 10)` J
