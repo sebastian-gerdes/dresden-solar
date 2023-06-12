@@ -1,7 +1,7 @@
 ---
 title: "Das kleine Einmaleins der Solarenergie"
 format: html
-date: "2023-06-06"
+date: 2023-06-06
 toc: true
 # categories: [Allgemeines]
 ---
@@ -11,25 +11,24 @@ toc: true
 #| include: false
 
 library('tidyverse')
-ff <- function(x) {
-  ee <- function(x) {
-    floor(log10(x))
+str_format <- function(number, digits = 1) {
+  exponent <- floor(log10(number))
+  mantisse <- round(number / 10^exponent, digits = digits)
+  if(abs(exponent) > 5) {
+    return(
+      str_c(format(mantisse, decimal.mark = ','),
+            ' $\\cdot$ 10^', 
+            exponent, '^')) 
+  } else {
+    return(
+      str_c(format(mantisse * 10^exponent, 
+                   decimal.mark = ',', 
+                   big.mark = '.'))
+    )
   }
-  
-  lead <- function(x) {
-    x / 10^ee(x)
-  }
-  
-  x |> 
-    lead() |> 
-    signif(digits = 3) |> 
-    str_replace(pattern = '\\.', ',') |> 
-    str_c(' $\\cdot$ 10^', ee(x), '^')
 }
 
-pp <- function(x) {
-  return(signif(x, digits = 2))
-}
+
 ```
 
 
@@ -83,53 +82,66 @@ kosten_deutschland_gesamt <-
 
 In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kosten würde.
 
-Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen [wissenschaftliche Zahlennotation](https://de.wikipedia.org/wiki/Wissenschaftliche_Notation). Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als `r ff(3.2e7)` geschrieben werden.
+Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen [wissenschaftliche Zahlennotation](https://de.wikipedia.org/wiki/Wissenschaftliche_Notation). Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als `r str_format(3.2e7)` geschrieben werden.
 
-Bei den Einheiten strebe ich überwiegend das [Internationale Einheitensystem = SI-System](https://de.wikipedia.org/wiki/Internationales_Einheitensystem) an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffen und dann in das Internationale Einheitensystem umgerechnet.
+Bei den Einheiten strebe ich überwiegend das [Internationale Einheitensystem = SI-System](https://de.wikipedia.org/wiki/Internationales_Einheitensystem) an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffenen und dann in das Internationale Einheitensystem umgerechnet.
 
 
 ## Wie viel Energie liefert die Sonne?
-Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung [(Wikipedia)](https://de.wikipedia.org/wiki/Leistung_(Physik)) ergibt sich als Energie pro Zeit mit der Einheit Joule pro Sekunde (J / s), auch genannt Watt (W im SI-System).
+Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung [(Wikipedia)](https://de.wikipedia.org/wiki/Leistung_(Physik)) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).
 
-Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/) folgende Angabe: "Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an."
+Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/) folgende Angabe: &bdquo;Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an&ldquo;.
 
-Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre "hängen", auf einer Hälfte der Erde ist jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
+Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre &bdquo;hängen&ldquo;. Zudem ist auf einer Hälfte der Erde ist jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
 
-Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung eine Leistung pro Quadratmeter von 100 W/m^2^ an (hier wäre eine Quelle schön - wenn jemand eine weiß gern Bescheid sagen!). In den weiteren Überlegungen nehmen wir an, dass diese grobe Näherung zu allen Zeiten für alle Flecken dieser Erde gilt. 
+Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m^2^ an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung.
 
-Die Oberfläche der Erde beträgt laut [Wikipedia](https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che) `r ff(surface_earth_m2)` m^2^. Damit kommt im Jahr eine Energie von ca. `r ff(energy_sun_to_earth_per_year_surface_J)` J auf der Erdoberfläche an.
+Die Oberfläche der Erde beträgt laut [Wikipedia](https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che) `r str_format(surface_earth_m2)` m^2^. Damit kommt im Jahr eine Energie von ca. `r str_format(energy_sun_to_earth_per_year_surface_J)` J auf der Erdoberfläche an.
 
 ## Wieviel Energie verbrauchen die Menschen?
-Laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = `r ff(consumption_world_per_year_J)` J.
+Laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = `r str_format(consumption_world_per_year_J)` J.
 
-Die Sonne liefert also bis zur Erdoberfläche ca. `r pp(energy_sun_to_earth_per_year_surface_J / consumption_world_per_year_J)` mal so viel Energie wie von der Menschheit verbraucht wird.
+Die Sonne liefert also bis zur Erdoberfläche ca. `r str_format(energy_sun_to_earth_per_year_surface_J / consumption_world_per_year_J)` mal so viel Energie wie von der Menschheit verbraucht wird.
 
-Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) im Jahr 2020 ca. `r ff(consumption_germany_per_year_J)` J. 
+Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) im Jahr 2020 ca. `r str_format(consumption_germany_per_year_J)` J. 
 
-Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r ff(surface_germany_m2)` Quadratmeter). Damit kommt in Deutschland ca. `r pp(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
+Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r str_format(surface_germany_m2)` Quadratmeter). Damit kommt in Deutschland ca. `r str_format(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
 
 
 ## Wieviel Energie kann mittels Photovoltaik erzeugt werden?
-Bei einem Photovoltaik-Wirkungsgrad von `r pp(pv_efficiency)`% müssten grob genähert `r pp(fraction_earth_needed * 100)`% der Erde mit Photovoltaik-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca `r pp(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
+Bei einem Photovoltaik-Wirkungsgrad von `r str_format(pv_efficiency * 100)` % müssten grob genähert `r str_format(fraction_earth_needed * 100)` % der Erde mit Photovoltaik-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca. `r str_format(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
 
-Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches eine benötigte Fläche pro Person von ca. `r pp(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r pp(fraction_germany_needed * 100)`% der Fläche Deutschlands.
+Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches eine benötigte Fläche pro Person von ca. `r str_format(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r str_format(fraction_germany_needed * 100)` % der Fläche Deutschlands. Zur Einordnung: aktuell sind laut [Umweltbundesamt](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#ermittlung-der-bodenversiegelung) 6,53 % der Bodenfläche in Deutschland versiegelt.
 
 ## Was kostet Photovoltaik?
-Eine Photovoltaikanlage liefert in Deutschland ca. 200 kWh (entsprechend `r ff(200 * 3.6e6)` J) pro Quadratmeter Modulfläche und Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche. 
+Eine Photovoltaikanlage liefert in Deutschland eine Energiemenge von ca. 200 kWh (entsprechend `r str_format(200 * 3.6e6)` J) pro Quadratmeter Modulfläche und Jahr und kostet derzeit ca. `r kosten_pv_modul_pro_m2[1]` bis `r kosten_pv_modul_pro_m2[2]` Euro pro Quadratmeter Modulfläche. 
 
-Mithin müssten ca. ein Geldbetrag zwischen ca. `r ff(kosten_deutschland_gesamt[1])` Euro und `r ff(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r ff(kosten_deutschland_pro_person[1])` Euro und `r ff(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genug Photovoltaik-Module zu installieren, den gesamten Primärenergiebedarf Deutschlands abzudecken.
+Mithin müssten ca. ein Geldbetrag zwischen ca. `r str_format(kosten_deutschland_gesamt[1])` Euro und `r str_format(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r str_format(kosten_deutschland_pro_person[1])` Euro und `r str_format(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genügend Photovoltaik-Module für den Gesamtenergiebedarf Deutschlands zu installieren.
 
-Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von bis zu 40 Jahren haben und tatsächlich der gesamte Primärenergiebedarf abgedeckt wäre.
+Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von oftmals 20 bis 40 Jahren haben und tatsächlich der gesamte Energiebedarf abgedeckt wäre.
 
 ## Fazit
-Die hier gemachten Abschätzungen sind wirklich ausgeprägt "$\pi$ mal Daumen". Auch die praktische Umsetzbarkeit eines großflächigten Photovoltaikausbaus würde natürlich enorme Herausforderungen mit sich bringen und eine Abdeckung des gesamten Primärenergiebedarfs über Photovoltaik ist wahrscheinlich selbst langfristig wenig realistisch und wahrscheinlich.
+Die hier gemachten Abschätzungen sind wirklich ausgeprägt &bdquo;$\pi$ mal Daumen&ldquo; und aus einer Vogelperspektive. 
 
-Aber es gibt ja auch noch andere regenerative Energiequellen (insbesondere Windenergie, Geothermie), die ebenfalls genutzt werden können. Und es gibt es auch erhebliche Einsparpotenziale um den Gesamtprimärenergiebedarf zu senken. 
+Auch würde ein großflächiger Photovoltaikausbau natürlich enorme praktische Herausforderungen mit sich bringen und eine Abdeckung des gesamten Energiebedarfs über Photovoltaik ist wahrscheinlich selbst mittel- bis langfristig wenig realistisch, insbesondere da die verfügbare Leistung aufgrund von schwankender Sonneneinstrahlung stark schwankt!
+
+Aber es gibt ja auch noch andere regenerative Energiequellen (zum Beispiel Windenergie, Wasserenergie, Geothermie, Biogas), die ebenfalls genutzt werden können. Und es gibt es auch erhebliche Einsparpotenziale, sodass der Gesamtenergiebedarf deutlich gesenkt werden könnte.
 
 Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten die Prozess anzugehen!
 
-## Zusätzliche Angaben
-* 1 Liter Heizöl / Benzin entspricht ca. 10kWh = `r ff(3.6e6 * 10)` J
-* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^.
+## Zusätzliche Angaben und Links
+* 1 Liter Heizöl / Benzin entspricht ca. 10 kWh = `r str_format(3.6e6 * 10)` J
+* 1 kWp entspricht ca. 1000 kWh pro Jahr ([Quelle](https://www.eon.de/de/pk/solar/kwp-bedeutung-umrechnung.html))
+* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^
+* In der Regel wird elektrische Energie in Kilowattstunden angegeben, also die Energie, die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r str_format(3.6e3)` s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen Joule, also 1 kWh = `r str_format(3.6e6)` J. In diesem Artikel wird die elektrische Energie in Joule umgerechnet um eine bessere Vergleichbarkeit mit den anderen in Joule angegebenen Zahlengrößen herzustellen
+* Eine differenziertere und ausführlichere Betrachtung findet sich in [diesem](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf) Leitfaden der Fraunhofer-Gesellschaft
+* In [dieser](https://www.nature.com/articles/s41467-021-25720-2) Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen
+* Um Überlegungen für konkrete Anwendungsanfälle anzustellen, sind im Internet gute Ressourcen verfügbar - zum Beispiel [dieser Solarrechner](https://solarrechner.eturnity.io/example_energy/?lang=de-de) von [Eturnity](https://eturnity.com/)
+* (Interne Notiz):
+  * 1 Wp PV-Modul entspricht ca. 1kWh erzeugte Energie pro Jahr
+  * Mittlere nutzbare Leistung der Sonne pro m^2^ = (1 / Wirkungsgrad PV) * (P_Peak pro m2) * Leistung pro P_Peak
+\begin{align}
+\bar{p}^{sun} &= (1 / 0.2) * (0.180) * (1 / \text{seconds per year}) \\
+&= `r str_format((1 / 0.2) * (0.18) * (3.6e9 / seconds_per_year), digits = 3)` W / m^2
+\end{align}
 
-Oftmals wird elektrische Energie auch in Kilowattstunden angegeben, also die Energie die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r ff(3.6e3)` s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen J, also 1 kWh = `r ff(3.6e6)` J.
