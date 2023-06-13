@@ -120,7 +120,7 @@ Mithin müssten ca. ein Geldbetrag zwischen ca. `r str_format(kosten_deutschland
 
 Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von oftmals 20 bis 40 Jahren haben und tatsächlich der gesamte Energiebedarf abgedeckt wäre.
 
-Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung eines [Solarrechners](https://solarrechner.eturnity.io/example_energy/?lang=de-de) (alternative Solarrechner kommen zu ähnlichen Ergebnissen) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (~ 1e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=5e9 J) pro Jahr eine einmalige Investition von ca. 20.000 Euro und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren.
+Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung eines [Solarrechners](https://solarrechner.eturnity.io/example_energy/?lang=de-de) (kommerzieller Anbieter) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (~ 1e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=5e9 J) pro Jahr eine einmalige Investition von ca. 20.000 Euro und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren. Die damit jährlich erzeugte Energie von 5.000 kWh entspricht ca. `r str_format(5e3 * 3.6e6 * population_germany / consumption_germany_per_year_J * 100)` % des mittleren Gesamtjahresenergiebedarfs einer in Deutschland lebenden Person.
 
 ## Fazit
 Die hier gemachten Abschätzungen sind wirklich ausgeprägt &bdquo;$\pi$ mal Daumen&ldquo; und aus einer Vogelperspektive. 
@@ -147,4 +147,4 @@ Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gew
 ## Weiterführende Links
 * Eine differenziertere und ausführlichere Betrachtung findet sich in [diesem](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf) Leitfaden der Fraunhofer-Gesellschaft
 * In [dieser](https://www.nature.com/articles/s41467-021-25720-2) Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen
-* Um Überlegungen für konkrete Anwendungsanfälle anzustellen, sind im Internet gute Ressourcen verfügbar - zum Beispiel [dieser Solarrechner](https://solarrechner.eturnity.io/example_energy/?lang=de-de) von [Eturnity](https://eturnity.com/)
+* Um Überlegungen für konkrete Anwendungsanfälle anzustellen, sind im Internet gute Ressourcen verfügbar - zum Beispiel [dieser kommerzielle aber komfortable Solarrechner](https://solarrechner.eturnity.io/example_energy/?lang=de-de) von [Eturnity](https://eturnity.com/)
