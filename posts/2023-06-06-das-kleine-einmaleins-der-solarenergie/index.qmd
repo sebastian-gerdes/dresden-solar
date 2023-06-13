@@ -92,7 +92,7 @@ Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne ([Wikip
 
 Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/) folgende Angabe: &bdquo;Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an&ldquo;.
 
-Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre &bdquo;hängen&ldquo;. Zudem ist auf einer Hälfte der Erde ist jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
+Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre &bdquo;hängen&ldquo;. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
 
 Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m^2^ an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung.
 
