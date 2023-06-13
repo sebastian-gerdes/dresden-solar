@@ -80,7 +80,7 @@ kosten_deutschland_gesamt <-
 
 ```
 
-In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kosten würde.
+In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kosten würde. Es handelt sich dabei nicht um eine vollends realistische Machbarkeitsstudie.
 
 Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen [wissenschaftliche Zahlennotation](https://de.wikipedia.org/wiki/Wissenschaftliche_Notation). Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als `r str_format(3.2e7)` geschrieben werden.
 
@@ -120,6 +120,8 @@ Mithin müssten ca. ein Geldbetrag zwischen ca. `r str_format(kosten_deutschland
 
 Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von oftmals 20 bis 40 Jahren haben und tatsächlich der gesamte Energiebedarf abgedeckt wäre.
 
+Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung eines [Solarrechners](https://solarrechner.eturnity.io/example_energy/?lang=de-de) (alternative Solarrechner kommen zu ähnlichen Ergebnissen) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (~ 1e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=5e9 J) pro Jahr eine einmalige Investition von ca. 20.000 Euro und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren.
+
 ## Fazit
 Die hier gemachten Abschätzungen sind wirklich ausgeprägt &bdquo;$\pi$ mal Daumen&ldquo; und aus einer Vogelperspektive. 
 
@@ -127,21 +129,22 @@ Auch würde ein großflächiger Photovoltaikausbau natürlich enorme praktische 
 
 Aber es gibt ja auch noch andere regenerative Energiequellen (zum Beispiel Windenergie, Wasserenergie, Geothermie, Biogas), die ebenfalls genutzt werden können. Und es gibt es auch erhebliche Einsparpotenziale, sodass der Gesamtenergiebedarf deutlich gesenkt werden könnte.
 
-Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten die Prozess anzugehen!
+Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten, den Prozess anzugehen!
 
-## Zusätzliche Angaben und Links
+## Zusätzliche Angaben
 * 1 Liter Heizöl / Benzin entspricht ca. 10 kWh = `r str_format(3.6e6 * 10)` J
 * 1 kWp entspricht ca. 1000 kWh pro Jahr ([Quelle](https://www.eon.de/de/pk/solar/kwp-bedeutung-umrechnung.html))
-* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^
+* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man dementspreichend eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^
 * In der Regel wird elektrische Energie in Kilowattstunden angegeben, also die Energie, die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r str_format(3.6e3)` s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen Joule, also 1 kWh = `r str_format(3.6e6)` J. In diesem Artikel wird die elektrische Energie in Joule umgerechnet um eine bessere Vergleichbarkeit mit den anderen in Joule angegebenen Zahlengrößen herzustellen
+<!-- * (Interne Notiz): -->
+<!--   * 1 Wp PV-Modul entspricht ca. 1kWh erzeugte Energie pro Jahr -->
+<!--   * Mittlere nutzbare Leistung der Sonne pro m^2^ = (1 / Wirkungsgrad PV) * (P_Peak pro m2) * Leistung pro P_Peak -->
+<!-- \begin{align} -->
+<!-- \bar{p}^{sun} &= (1 / 0.2) * (0.180) * (1 / \text{seconds per year}) \\ -->
+<!-- &= `r str_format((1 / 0.2) * (0.18) * (3.6e9 / seconds_per_year), digits = 3)` W / m^2 -->
+<!-- \end{align} -->
+
+## Weiterführende Links
 * Eine differenziertere und ausführlichere Betrachtung findet sich in [diesem](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf) Leitfaden der Fraunhofer-Gesellschaft
 * In [dieser](https://www.nature.com/articles/s41467-021-25720-2) Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen
 * Um Überlegungen für konkrete Anwendungsanfälle anzustellen, sind im Internet gute Ressourcen verfügbar - zum Beispiel [dieser Solarrechner](https://solarrechner.eturnity.io/example_energy/?lang=de-de) von [Eturnity](https://eturnity.com/)
-* (Interne Notiz):
-  * 1 Wp PV-Modul entspricht ca. 1kWh erzeugte Energie pro Jahr
-  * Mittlere nutzbare Leistung der Sonne pro m^2^ = (1 / Wirkungsgrad PV) * (P_Peak pro m2) * Leistung pro P_Peak
-\begin{align}
-\bar{p}^{sun} &= (1 / 0.2) * (0.180) * (1 / \text{seconds per year}) \\
-&= `r str_format((1 / 0.2) * (0.18) * (3.6e9 / seconds_per_year), digits = 3)` W / m^2
-\end{align}
-
