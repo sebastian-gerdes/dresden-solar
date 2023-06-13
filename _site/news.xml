@@ -84,7 +84,7 @@
 
 
 
-<p>In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kosten würde. Es handelt sich dabei nicht um eine vollends realistische Machbarkeitsstudie.</p>
+<p>In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen sollen ein Gefühl dafür zu bekommen, wieviel Energie die Sonne auf die Erde schickt, wie diese mittels Photovoltaik-Anlagen in nutzbare elektrische Energie umgewandelt werden kann und was das ganze aktuell so ungefähr kosten würde. Dieser Artikel erhebt dabei jedoch nicht den Anspruch einer realistischen Machbarkeitsstudie, sondern es geht um eine grobe Abschätzung.</p>
 <p>Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen <a href="https://de.wikipedia.org/wiki/Wissenschaftliche_Notation">wissenschaftliche Zahlennotation</a>. Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als 3,2 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>7</sup> geschrieben werden.</p>
 <p>Bei den Einheiten strebe ich überwiegend das <a href="https://de.wikipedia.org/wiki/Internationales_Einheitensystem">Internationale Einheitensystem = SI-System</a> an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffenen und dann in das Internationale Einheitensystem umgerechnet.</p>
 <section id="wie-viel-energie-liefert-die-sonne" class="level2">
@@ -112,11 +112,11 @@
 <p>Eine Photovoltaikanlage liefert in Deutschland eine Energiemenge von ca. 200 kWh (entsprechend 7,2 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>8</sup> J) pro Quadratmeter Modulfläche und Jahr und kostet derzeit ca. 200 bis 300 Euro pro Quadratmeter Modulfläche.</p>
 <p>Mithin müssten ca. ein Geldbetrag zwischen ca. 3,8 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>12</sup> Euro und 5,7 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>12</sup> Euro für Gesamtdeutschland (entsprechend ca. 44.000 Euro und 67.000 Euro pro Person) investiert werden, um genügend Photovoltaik-Module für den Gesamtenergiebedarf Deutschlands zu installieren.</p>
 <p>Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von oftmals 20 bis 40 Jahren haben und tatsächlich der gesamte Energiebedarf abgedeckt wäre.</p>
-<p>Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung eines <a href="https://solarrechner.eturnity.io/example_energy/?lang=de-de">Solarrechners</a> (kommerzieller Anbieter) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (~ 1e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=5e9 J) pro Jahr eine einmalige Investition von ca. 20.000 Euro und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren. Die damit jährlich erzeugte Energie von 5.000 kWh entspricht ca. 13 % des mittleren Gesamtjahresenergiebedarfs einer in Deutschland lebenden Person.</p>
+<p>Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung des <a href="https://solarrechner.eturnity.io/example_energy/?lang=de-de">Solarrechners</a> von <a href="https://eturnity.com/">Eturnity</a> (kommerzieller Anbieter) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (~ 1e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=5e9 J) pro Jahr eine einmalige Investition von ca. 20.000 Euro und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren. Die damit jährlich erzeugte Energie von 5.000 kWh entspricht ca. 13 % des mittleren Gesamtjahresenergiebedarfs einer in Deutschland lebenden Person.</p>
 </section>
 <section id="fazit" class="level2">
 <h2 class="anchored" data-anchor-id="fazit">Fazit</h2>
-<p>Die hier gemachten Abschätzungen sind wirklich ausgeprägt „<img src="https://latex.codecogs.com/png.latex?%5Cpi"> mal Daumen“ und aus einer Vogelperspektive.</p>
+<p>Die hier gemachten Abschätzungen sind wirklich ausgeprägt „<img src="https://latex.codecogs.com/png.latex?%5Cpi"> mal Daumen“ und überwiegend aus einer Vogelperspektive.</p>
 <p>Auch würde ein großflächiger Photovoltaikausbau natürlich enorme praktische Herausforderungen mit sich bringen und eine Abdeckung des gesamten Energiebedarfs über Photovoltaik ist wahrscheinlich selbst mittel- bis langfristig wenig realistisch, insbesondere da die verfügbare Leistung aufgrund von schwankender Sonneneinstrahlung stark schwankt!</p>
 <p>Aber es gibt ja auch noch andere regenerative Energiequellen (zum Beispiel Windenergie, Wasserenergie, Geothermie, Biogas), die ebenfalls genutzt werden können. Und es gibt es auch erhebliche Einsparpotenziale, sodass der Gesamtenergiebedarf deutlich gesenkt werden könnte.</p>
 <p>Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten, den Prozess anzugehen!</p>
@@ -127,15 +127,14 @@
 <li>1 Liter Heizöl / Benzin entspricht ca. 10 kWh = 3,6 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>7</sup> J</li>
 <li>1 kWp entspricht ca. 1000 kWh pro Jahr (<a href="https://www.eon.de/de/pk/solar/kwp-bedeutung-umrechnung.html">Quelle</a>)</li>
 <li>Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man dementspreichend eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m<sup>2</sup></li>
-<li>In der Regel wird elektrische Energie in Kilowattstunden angegeben, also die Energie, die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=3.600 s) enthält. Dabei entspricht 1 Kilowattstunde 3,6 Millionen Joule, also 1 kWh = 3,6 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>6</sup> J. In diesem Artikel wird die elektrische Energie in Joule umgerechnet um eine bessere Vergleichbarkeit mit den anderen in Joule angegebenen Zahlengrößen herzustellen </li>
+<li>In der Regel wird elektrische Energie in Kilowattstunden (kWh) angegeben, also die Energie, die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=3.600 s) enthält. Dabei entspricht 1 kWh 3,6 Millionen Joule, also 1 kWh = 3,6 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>6</sup> J. In diesem Artikel werden Angaben in kWh überwiegend in Joule (J) umgerechnet, um eine bessere Vergleichbarkeit mit den anderen in J angegebenen Zahlengrößen herzustellen </li>
 </ul>
 </section>
 <section id="weiterführende-links" class="level2">
 <h2 class="anchored" data-anchor-id="weiterführende-links">Weiterführende Links</h2>
 <ul>
-<li>Eine differenziertere und ausführlichere Betrachtung findet sich in <a href="https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf">diesem</a> Leitfaden der Fraunhofer-Gesellschaft</li>
+<li>Eine differenziertere und ausführlichere Betrachtung zum Thema Solarenergie findet sich in <a href="https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf">diesem</a> Leitfaden der Fraunhofer-Gesellschaft</li>
 <li>In <a href="https://www.nature.com/articles/s41467-021-25720-2">dieser</a> Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen</li>
-<li>Um Überlegungen für konkrete Anwendungsanfälle anzustellen, sind im Internet gute Ressourcen verfügbar - zum Beispiel <a href="https://solarrechner.eturnity.io/example_energy/?lang=de-de">dieser kommerzielle aber komfortable Solarrechner</a> von <a href="https://eturnity.com/">Eturnity</a></li>
 </ul>
 
 
