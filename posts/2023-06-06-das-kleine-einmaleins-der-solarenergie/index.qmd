@@ -88,7 +88,7 @@ Bei den Einheiten strebe ich überwiegend das [Internationale Einheitensystem = 
 
 
 ## Wie viel Energie liefert die Sonne?
-Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung [(Wikipedia)](https://de.wikipedia.org/wiki/Leistung_(Physik)) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).
+Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung ([Wikipedia](https://de.wikipedia.org/wiki/Leistung_(Physik))) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).
 
 Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/) folgende Angabe: &bdquo;Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an&ldquo;.
 
@@ -98,44 +98,44 @@ Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im ör
 
 Die Oberfläche der Erde beträgt laut [Wikipedia](https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che) `r str_format(surface_earth_m2)` m^2^. Damit kommt im Jahr eine Energie von ca. `r str_format(energy_sun_to_earth_per_year_surface_J)` J auf der Erdoberfläche an.
 
-## Wieviel Energie verbrauchen die Menschen?
+## Wieviel Energie benötigt die Menschheit?
 Laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = `r str_format(consumption_world_per_year_J)` J.
 
-Die Sonne liefert also bis zur Erdoberfläche ca. `r str_format(energy_sun_to_earth_per_year_surface_J / consumption_world_per_year_J)` mal so viel Energie wie von der Menschheit verbraucht wird.
+Die Sonne liefert also bis zur Erdoberfläche ca. `r str_format(energy_sun_to_earth_per_year_surface_J / consumption_world_per_year_J)` mal so viel Energie wie von der Menschheit benötigt wird.
 
 Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) im Jahr 2020 ca. `r str_format(consumption_germany_per_year_J)` J. 
 
 Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r str_format(surface_germany_m2)` Quadratmeter). Damit kommt in Deutschland ca. `r str_format(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
 
 
-## Wieviel Energie kann mittels Photovoltaik erzeugt werden?
+## Wieviel nutzbare Energie kann mittels Photovoltaik gewonnen werden?
 Bei einem Photovoltaik-Wirkungsgrad von `r str_format(pv_efficiency * 100)` % müssten grob genähert `r str_format(fraction_earth_needed * 100)` % der Erde mit Photovoltaik-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca. `r str_format(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
 
-Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Verbrauches eine benötigte Fläche pro Person von ca. `r str_format(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r str_format(fraction_germany_needed * 100)` % der Fläche Deutschlands. Zur Einordnung: aktuell sind laut [Umweltbundesamt](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#ermittlung-der-bodenversiegelung) 6,53 % der Bodenfläche in Deutschland versiegelt.
+Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Bedarfs eine benötigte Fläche pro Person von ca. `r str_format(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r str_format(fraction_germany_needed * 100)` % der Fläche Deutschlands. Zur Einordnung: aktuell sind laut [Umweltbundesamt](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#ermittlung-der-bodenversiegelung) 6,53 % der Bodenfläche in Deutschland versiegelt.
 
 ## Was kostet Photovoltaik?
 Eine Photovoltaikanlage liefert in Deutschland eine Energiemenge von ca. 200 kWh (entsprechend `r str_format(200 * 3.6e6)` J) pro Quadratmeter Modulfläche und Jahr. Bei größere Anlagen kostet ein Quadratmeter Modulfläche derzeit ca. `r kosten_pv_modul_pro_m2[1]` bis `r kosten_pv_modul_pro_m2[2]` Euro.
 
 Mithin müssten ca. ein Geldbetrag zwischen ca. `r str_format(kosten_deutschland_gesamt[1])` Euro und `r str_format(kosten_deutschland_gesamt[2])` Euro für Gesamtdeutschland (entsprechend ca. `r str_format(kosten_deutschland_pro_person[1])` Euro und `r str_format(kosten_deutschland_pro_person[2])` Euro pro Person) investiert werden, um genügend Photovoltaik-Module für den Gesamtenergiebedarf Deutschlands zu installieren.
 
-Das ist natürlich erst einmal eine sehr große Summe. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von oftmals 20 bis 40 Jahren haben und tatsächlich der gesamte Energiebedarf abgedeckt wäre.
+Das sind natürlich erst einmal sehr große Summen. Dabei sollte man jedoch bedenken, dass Photovoltaik-Anlagen unter Umständen Laufzeiten von oftmals 20 bis 40 Jahren haben und tatsächlich der gesamte Energiebedarf abgedeckt wäre.
 
-Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung des [Solarrechners](https://solarrechner.eturnity.io/example_energy/?lang=de-de) von [Eturnity](https://eturnity.com/) (kommerzieller Anbieter) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (~ 1e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=5e9 J) pro Jahr eine einmalige Investition von ca. 15.000 Euro ohne Batteriespeicher und 20.000 Euro mit Batteriespeicher und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren. Die damit jährlich erzeugte Energie von 5.000 kWh entspricht ca. `r str_format(5e3 * 3.6e6 * population_germany / consumption_germany_per_year_J * 100)` % des mittleren Gesamtjahresenergiebedarfs einer in Deutschland lebenden Person. 
+Für ein Einfamilienhaus ergibt eine 06/2023 erstellte Abschätzung des [Solarrechners](https://solarrechner.eturnity.io/example_energy/?lang=de-de) von [Eturnity](https://eturnity.com/) (kommerzieller Anbieter) als Gesamtinvestition für eine Anlage mit ca. 10 kWp (also Leistungsertrag von ca. 10.000 W bei maximaler Sonneneinstrahlung) und einem abgeschätzten Energieertrag von ca. 10.000 kWh (ca. 3,6 e10 J) pro Jahr bei einem Eigenstromverbrauch von 5.000 kWh (=1.8e10 J) pro Jahr eine einmalige Investition von ca. 15.000 Euro ohne Batteriespeicher und 20.000 Euro mit Batteriespeicher und eine Ammortisationszeit mit und ohne Batteriespeicher von jeweils ca. 10 Jahren. Die damit jährlich erzeugte Energie von 5.000 kWh entspricht ca. `r str_format(5e3 * 3.6e6 * population_germany / consumption_germany_per_year_J * 100)` % des mittleren Gesamtjahresenergiebedarfs einer in Deutschland lebenden Person. 
 
 ## Fazit
 Die hier gemachten Abschätzungen sind wirklich ausgeprägt &bdquo;$\pi$ mal Daumen&ldquo; und überwiegend aus einer Vogelperspektive. 
 
-Auch würde ein großflächiger Photovoltaikausbau natürlich enorme praktische Herausforderungen mit sich bringen und eine Abdeckung des gesamten Energiebedarfs über Photovoltaik ist wahrscheinlich selbst mittel- bis langfristig wenig realistisch, insbesondere da die verfügbare Leistung aufgrund von schwankender Sonneneinstrahlung stark schwankt!
+Auch würde ein großflächiger Photovoltaikausbau natürlich enorme praktische Herausforderungen mit sich bringen und eine Abdeckung des gesamten Energiebedarfs über Photovoltaik ist wahrscheinlich selbst mittel- bis langfristig wenig realistisch, insbesondere da die verfügbare Leistung aufgrund von sich jahres- und tageszeitlich ändernder Sonneneinstrahlung stark schwankt.
 
 Aber es gibt ja auch noch andere regenerative Energiequellen (zum Beispiel Windenergie, Wasserenergie, Geothermie, Biogas), die ebenfalls genutzt werden können. Und es gibt es auch erhebliche Einsparpotenziale, sodass der Gesamtenergiebedarf deutlich gesenkt werden könnte.
 
-Eine vollständige Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten, den Prozess anzugehen!
+Eine weitgehende Dekarbonisierung der Energieerzeugung ist sicherlich eine gewaltige Aufgabe - dies sollte uns jedoch nicht davon abhalten, den Prozess anzugehen!
 
 ## Zusätzliche Angaben
-* 1 Liter Heizöl / Benzin entspricht ca. 10 kWh = `r str_format(3.6e6 * 10)` J
-* 1 kWp entspricht ca. 1000 kWh pro Jahr ([Quelle](https://www.eon.de/de/pk/solar/kwp-bedeutung-umrechnung.html))
-* Um in einem Jahr das Energieäquvivalent von ca. 1 Liter Heizöl / Benzin zu generieren, benötigt man dementspreichend eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^
-* In der Regel wird elektrische Energie in Kilowattstunden (kWh) angegeben, also die Energie, die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r str_format(3.6e3)` s) enthält. Dabei entspricht 1 kWh 3,6 Millionen Joule, also 1 kWh = `r str_format(3.6e6)` J. In diesem Artikel werden Angaben in kWh überwiegend in Joule (J) umgerechnet, um eine bessere Vergleichbarkeit mit den anderen in J angegebenen Zahlengrößen herzustellen
+* Die praktisch nutzbare Energiemenge in einem Liter Heizöl / Benzin beträgt ca. 10 kWh = `r str_format(3.6e6 * 10)` J
+* Eine Solaranlage mit 1 kWp entspricht generiert ca. 1000 kWh nutzbare elektrische Energie pro Jahr ([Quelle](https://www.eon.de/de/pk/solar/kwp-bedeutung-umrechnung.html))
+* Um in einem Jahr das Energieäquvivalent von einem Liter Heizöl / Benzin zu generieren, benötigt man dementsprechend eine Photovoltaik-Anlage mit einer Fläche von ca. 1 / 20 m^2^
+* In der Regel wird elektrische Energie in Kilowattstunden (kWh) angegeben, also die Energie, die eine Leistung von 1 Kilowatt über einen Zeitraum von einer Stunde (=`r str_format(3.6e3)` s) enthält. Dabei entspricht 1 kWh 3,6 Millionen Joule, also 1 kWh = `r str_format(3.6e6)` J. In diesem Artikel werden Angaben in kWh überwiegend in Joule (J) umgerechnet, um eine bessere Vergleichbarkeit mit den anderen in Joule angegebenen Zahlengrößen herzustellen
 <!-- * (Interne Notiz): -->
 <!--   * 1 Wp PV-Modul entspricht ca. 1kWh erzeugte Energie pro Jahr -->
 <!--   * Mittlere nutzbare Leistung der Sonne pro m^2^ = (1 / Wirkungsgrad PV) * (P_Peak pro m2) * Leistung pro P_Peak -->
