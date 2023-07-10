@@ -89,9 +89,9 @@
 <section id="wie-viel-energie-liefert-die-sonne" class="level2">
 <h2 class="anchored" data-anchor-id="wie-viel-energie-liefert-die-sonne">Wie viel Energie liefert die Sonne?</h2>
 <p>Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne (<a href="https://de.wikipedia.org/wiki/Energie">Wikipedia</a>) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (<a href="https://de.wikipedia.org/wiki/Leistung_(Physik)">Wikipedia</a>) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).</p>
-<p>Dazu findet sich <a href="https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/">hier</a> folgende Angabe: „Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an“.</p>
+<p>Dazu findet sich <a href="https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/">hier</a> folgende Angabe: “Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an“.</p>
 <p>Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre „hängen“. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf.</p>
-<p>Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m<sup>2</sup> an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung <sup>1</sup>.</p>
+<p>Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m<sup>2</sup> an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung <sup>1</sup></p>
 <p>Die Oberfläche der Erde beträgt laut <a href="https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che">Wikipedia</a> 5,1 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>14</sup> m<sup>2</sup>. Damit kommt im Jahr eine Energie von ca. 1,6 <img src="https://latex.codecogs.com/png.latex?%5Ccdot"> 10<sup>24</sup> J auf der Erdoberfläche an.</p>
 </section>
 <section id="wie-viel-energie-benötigt-die-menschheit" class="level2">
@@ -136,11 +136,11 @@
 <li>In <a href="https://www.nature.com/articles/s41467-021-25720-2">dieser</a> Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen</li>
 </ul>
 </section>
-<section id="todos" class="level2">
-<h2 class="anchored" data-anchor-id="todos">ToDos</h2>
+<section id="todos-zur-weiterarbeit-an-diesem-artikel" class="level2">
+<h2 class="anchored" data-anchor-id="todos-zur-weiterarbeit-an-diesem-artikel">ToDos zur Weiterarbeit an diesem Artikel</h2>
 <ul>
 <li>vielleicht die Rechenschritte mit aufführen? (Wer jetzt schon schauen möchte: Die Berechnungen sind <a href="https://github.com/sebastian-gerdes/dresden-solar/blob/main/posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.qmd">hier</a> einsehbar)</li>
-<li>Angenommene mittlere effektive Strahlungsintensität begründen!</li>
+<li><del>Angenommene mittlere effektive Strahlungsintensität begründen!</del></li>
 <li>Artikel ausbauen zum „kleinen Einmaleins der Energiewende“?</li>
 <li>Besser beschreiben, was im Weltenergiebedarf mit drin steckt - auch Industrie etc.</li>
 </ul>
@@ -152,7 +152,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Fußnoten</h2>
 
 <ol>
-<li id="fn1"><p>Dieser Wert fällt an dieser Stelle etwas vom Himmel - Begründung folgt!↩︎</p></li>
+<li id="fn1"><p>Dieser Wert ergibt sich approximativ aus einer „Rückwärtsrechnung“: Eine angenommene Jahres-Energiegewinnung von 200 kWh pro Quadratmeter PV-Anlage (<a href="https://www.iwb.ch/klimadreh/ratgeber/solaranlage/wie-viel-flaeche-benoetigt-meine-solaranlage">Quelle</a>) mit angenommenem Wirkungsgrad 0,2 ergibt eine auf das Jahr gemittelte Sonneneinstrahlung von ca. 114 Watt pro Quadratmeter.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <guid>https://dresden-solar.netlify.app/posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html</guid>

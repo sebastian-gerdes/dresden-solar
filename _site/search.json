@@ -46,7 +46,7 @@
     "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-liefert-die-sonne",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Wie viel Energie liefert die Sonne?",
-    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne (Wikipedia) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (Wikipedia) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).\nDazu findet sich hier folgende Angabe: „Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an“.\nEin großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre „hängen“. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf.\nFür die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m2 an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung 1.\nDie Oberfläche der Erde beträgt laut Wikipedia 5,1 \\(\\cdot\\) 1014 m2. Damit kommt im Jahr eine Energie von ca. 1,6 \\(\\cdot\\) 1024 J auf der Erdoberfläche an."
+    "text": "Wie viel Energie liefert die Sonne?\nZuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne (Wikipedia) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (Wikipedia) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).\nDazu findet sich hier folgende Angabe: “Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an“.\nEin großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre „hängen“. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf.\nFür die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m2 an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung 1\nDie Oberfläche der Erde beträgt laut Wikipedia 5,1 \\(\\cdot\\) 1014 m2. Damit kommt im Jahr eine Energie von ca. 1,6 \\(\\cdot\\) 1024 J auf der Erdoberfläche an."
   },
   {
     "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#wie-viel-energie-benötigt-die-menschheit",
@@ -91,18 +91,18 @@
     "text": "Weiterführende Links\n\nEine differenziertere und ausführlichere Betrachtung zum Thema Solarenergie findet sich in diesem Leitfaden der Fraunhofer-Gesellschaft\nIn dieser Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen"
   },
   {
-    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#todos",
-    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#todos",
+    "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#todos-zur-weiterarbeit-an-diesem-artikel",
+    "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#todos-zur-weiterarbeit-an-diesem-artikel",
     "title": "Das kleine Einmaleins der Solarenergie",
-    "section": "ToDos",
-    "text": "ToDos\n\nvielleicht die Rechenschritte mit aufführen? (Wer jetzt schon schauen möchte: Die Berechnungen sind hier einsehbar)\nAngenommene mittlere effektive Strahlungsintensität begründen!\nArtikel ausbauen zum „kleinen Einmaleins der Energiewende“?\nBesser beschreiben, was im Weltenergiebedarf mit drin steckt - auch Industrie etc."
+    "section": "ToDos zur Weiterarbeit an diesem Artikel",
+    "text": "ToDos zur Weiterarbeit an diesem Artikel\n\nvielleicht die Rechenschritte mit aufführen? (Wer jetzt schon schauen möchte: Die Berechnungen sind hier einsehbar)\nAngenommene mittlere effektive Strahlungsintensität begründen!\nArtikel ausbauen zum „kleinen Einmaleins der Energiewende“?\nBesser beschreiben, was im Weltenergiebedarf mit drin steckt - auch Industrie etc."
   },
   {
     "objectID": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#footnotes",
     "href": "posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html#footnotes",
     "title": "Das kleine Einmaleins der Solarenergie",
     "section": "Fußnoten",
-    "text": "Fußnoten\n\n\nDieser Wert fällt an dieser Stelle etwas vom Himmel - Begründung folgt!↩︎"
+    "text": "Fußnoten\n\n\nDieser Wert ergibt sich approximativ aus einer „Rückwärtsrechnung“: Eine angenommene Jahres-Energiegewinnung von 200 kWh pro Quadratmeter PV-Anlage (Quelle) mit angenommenem Wirkungsgrad 0,2 ergibt eine auf das Jahr gemittelte Sonneneinstrahlung von ca. 114 Watt pro Quadratmeter.↩︎"
   },
   {
     "objectID": "posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html",
