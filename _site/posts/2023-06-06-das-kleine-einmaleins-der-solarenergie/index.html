@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "weitere Treffer in diesem Dokument",
     "search-clear-button-title": "Zurücksetzen",
     "search-detached-cancel-button-title": "Abbrechen",
-    "search-submit-button-title": "Abschicken"
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
   }
 }</script>
 
@@ -123,12 +124,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#wie-viel-energie-liefert-die-sonne" id="toc-wie-viel-energie-liefert-die-sonne" class="nav-link active" data-scroll-target="#wie-viel-energie-liefert-die-sonne">Wie viel Energie liefert die Sonne?</a></li>
-  <li><a href="#wieviel-energie-benötigt-die-menschheit" id="toc-wieviel-energie-benötigt-die-menschheit" class="nav-link" data-scroll-target="#wieviel-energie-benötigt-die-menschheit">Wieviel Energie benötigt die Menschheit?</a></li>
-  <li><a href="#wieviel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden" id="toc-wieviel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden" class="nav-link" data-scroll-target="#wieviel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden">Wieviel nutzbare Energie kann mittels Photovoltaik gewonnen werden?</a></li>
+  <li><a href="#wie-viel-energie-benötigt-die-menschheit" id="toc-wie-viel-energie-benötigt-die-menschheit" class="nav-link" data-scroll-target="#wie-viel-energie-benötigt-die-menschheit">Wie viel Energie benötigt die Menschheit?</a></li>
+  <li><a href="#wie-viel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden" id="toc-wie-viel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden" class="nav-link" data-scroll-target="#wie-viel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden">Wie viel nutzbare Energie kann mittels Photovoltaik gewonnen werden?</a></li>
   <li><a href="#was-kostet-photovoltaik" id="toc-was-kostet-photovoltaik" class="nav-link" data-scroll-target="#was-kostet-photovoltaik">Was kostet Photovoltaik?</a></li>
   <li><a href="#fazit" id="toc-fazit" class="nav-link" data-scroll-target="#fazit">Fazit</a></li>
   <li><a href="#zusätzliche-angaben" id="toc-zusätzliche-angaben" class="nav-link" data-scroll-target="#zusätzliche-angaben">Zusätzliche Angaben</a></li>
   <li><a href="#weiterführende-links" id="toc-weiterführende-links" class="nav-link" data-scroll-target="#weiterführende-links">Weiterführende Links</a></li>
+  <li><a href="#todos" id="toc-todos" class="nav-link" data-scroll-target="#todos">ToDos</a></li>
   </ul>
 </nav>
     </div>
@@ -172,18 +174,18 @@ ul.task-list li input[type="checkbox"] {
 <p>Zuerst einmal wollte ich wissen, wieviel Energie im physikalischen Sinne (<a href="https://de.wikipedia.org/wiki/Energie">Wikipedia</a>) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung (<a href="https://de.wikipedia.org/wiki/Leistung_(Physik)">Wikipedia</a>) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).</p>
 <p>Dazu findet sich <a href="https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/">hier</a> folgende Angabe: „Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an“.</p>
 <p>Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre „hängen“. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf.</p>
-<p>Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m<sup>2</sup> an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung.</p>
+<p>Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m<sup>2</sup> an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
 <p>Die Oberfläche der Erde beträgt laut <a href="https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che">Wikipedia</a> 5,1 <span class="math inline">\(\cdot\)</span> 10<sup>14</sup> m<sup>2</sup>. Damit kommt im Jahr eine Energie von ca. 1,6 <span class="math inline">\(\cdot\)</span> 10<sup>24</sup> J auf der Erdoberfläche an.</p>
 </section>
-<section id="wieviel-energie-benötigt-die-menschheit" class="level2">
-<h2 class="anchored" data-anchor-id="wieviel-energie-benötigt-die-menschheit">Wieviel Energie benötigt die Menschheit?</h2>
+<section id="wie-viel-energie-benötigt-die-menschheit" class="level2">
+<h2 class="anchored" data-anchor-id="wie-viel-energie-benötigt-die-menschheit">Wie viel Energie benötigt die Menschheit?</h2>
 <p>Laut <a href="https://de.wikipedia.org/wiki/Weltenergiebedarf">Wikipedia</a> beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = 5,7 <span class="math inline">\(\cdot\)</span> 10<sup>20</sup> J.</p>
 <p>Die Sonne liefert also bis zur Erdoberfläche ca. 2.800 mal so viel Energie wie von der Menschheit benötigt wird.</p>
-<p>Der Energiebedarf Deutschlands betrug laut <a href="https://de.wikipedia.org/wiki/Weltenergiebedarf">Wikipedia</a> im Jahr 2020 ca. 1,2 <span class="math inline">\(\cdot\)</span> 10<sup>19</sup> J.</p>
+<p>Der Energiebedarf Deutschlands betrug laut <a href="https://de.wikipedia.org/wiki/Prim%C3%A4renergieverbrauch#Deutschland">Wikipedia</a> im Jahr 2020 ca. 1,2 <span class="math inline">\(\cdot\)</span> 10<sup>19</sup> J.</p>
 <p>Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=3 <span class="math inline">\(\cdot\)</span> 10<sup>11</sup> Quadratmeter). Damit kommt in Deutschland ca. 80 mal so viel Energie wie benötigt an.</p>
 </section>
-<section id="wieviel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden" class="level2">
-<h2 class="anchored" data-anchor-id="wieviel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden">Wieviel nutzbare Energie kann mittels Photovoltaik gewonnen werden?</h2>
+<section id="wie-viel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden" class="level2">
+<h2 class="anchored" data-anchor-id="wie-viel-nutzbare-energie-kann-mittels-photovoltaik-gewonnen-werden">Wie viel nutzbare Energie kann mittels Photovoltaik gewonnen werden?</h2>
 <p>Bei einem Photovoltaik-Wirkungsgrad von 20 % müssten grob genähert 0,18 % der Erde mit Photovoltaik-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca. 110 m<sup>2</sup> pro Mensch.</p>
 <p>Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Bedarfs eine benötigte Fläche pro Person von ca. 220 m<sup>2</sup>, ingesamt entsprechend 6,3 % der Fläche Deutschlands. Zur Einordnung: aktuell sind laut <a href="https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#ermittlung-der-bodenversiegelung">Umweltbundesamt</a> 6,53 % der Bodenfläche in Deutschland versiegelt.</p>
 </section>
@@ -216,11 +218,26 @@ ul.task-list li input[type="checkbox"] {
 <li>Eine differenziertere und ausführlichere Betrachtung zum Thema Solarenergie findet sich in <a href="https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf">diesem</a> Leitfaden der Fraunhofer-Gesellschaft</li>
 <li>In <a href="https://www.nature.com/articles/s41467-021-25720-2">dieser</a> Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen</li>
 </ul>
+</section>
+<section id="todos" class="level2">
+<h2 class="anchored" data-anchor-id="todos">ToDos</h2>
+<ul>
+<li>vielleicht die Rechenschritte mit aufführen? (Wer jetzt schon schauen möchte: Die Berechnungen sind <a href="https://github.com/sebastian-gerdes/dresden-solar/blob/main/posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.qmd">hier</a> einsehbar)</li>
+<li>Angenommene mittlere effektive Strahlungsintensität begründen!</li>
+<li>Artikel ausbauen zum „kleinen Einmaleins der Energiewende“?</li>
+<li>Besser beschreiben, was im Weltenergiebedarf mit drin steckt - auch Industrie etc.</li>
+</ul>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Fußnoten</h2>
+
+<ol>
+<li id="fn1"><p>Dieser Wert fällt an dieser Stelle etwas vom Himmel - Begründung folgt!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

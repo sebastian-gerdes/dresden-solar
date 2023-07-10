@@ -1,20 +1,22 @@
 ---
-title: "Solarfest Dresden am 23.7.2023!"
+title: "Solarfest Dresden am 22.7.2023!"
 format: html
 date: "2023-06-09"
 toc: false
 # categories: [Allgemeines]
 ---
-Am 23.7.2023 um 18:00 Uhr findet (Ort noch ausstehend) ein Solarfest statt! 
+Am 22.7.2023 um 18:00 Uhr findet am Martin-Luther-Platz „an der Kugel“ ein Solarfest statt! 
 
 Ziele des Festes sind unter Anderem:
 
 * ein gemütliches Beisammensein
-* Vernetzung  
+* Vernetzung
 * Austausch darüber, wie Solarprojekte angeschoben werden können
 
-Wer mag kann auch Kuchen oder andere Leckerein mitbringen und vielleicht wird es auch etwas Live-Musik geben!
+Wer mag kann auch Kuchen oder andere Leckerein mitbringen und das [Ensemble Incroyable](https://www.youtube.com/@ensembleincroyable2685) wird feine Musik beisteuern!
 
-Toll wäre, wenn nach dem Fest, möglichst viele Leute Solarprojekte in ihrem Umfeld beginnen!
+Toll wäre, wenn nach dem Fest, möglichst viele Menschen Solarprojekte in ihrem Umfeld beginnen!
+
+Der Termin und Ort für ein nächstes Treffen sind noch ausstehend!
 
 Einen kleinen Leitfaden zum Starten eines Solarprojektes findest Du [hier](/posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.qmd)!

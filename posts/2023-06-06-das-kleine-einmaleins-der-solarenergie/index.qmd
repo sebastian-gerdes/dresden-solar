@@ -94,21 +94,21 @@ Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/sola
 
 Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre &bdquo;hängen&ldquo;. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
 
-Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m^2^ an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung.
+Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m^2^ an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung ^[Dieser Wert fällt an dieser Stelle etwas vom Himmel - Begründung folgt!].
 
 Die Oberfläche der Erde beträgt laut [Wikipedia](https://de.wikipedia.org/wiki/Erdoberfl%C3%A4che) `r str_format(surface_earth_m2)` m^2^. Damit kommt im Jahr eine Energie von ca. `r str_format(energy_sun_to_earth_per_year_surface_J)` J auf der Erdoberfläche an.
 
-## Wieviel Energie benötigt die Menschheit?
+## Wie viel Energie benötigt die Menschheit?
 Laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) beträgt der jährliche menschliche Weltenergiebedarf 574 Exajoule = `r str_format(consumption_world_per_year_J)` J.
 
 Die Sonne liefert also bis zur Erdoberfläche ca. `r str_format(energy_sun_to_earth_per_year_surface_J / consumption_world_per_year_J)` mal so viel Energie wie von der Menschheit benötigt wird.
 
-Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Weltenergiebedarf) im Jahr 2020 ca. `r str_format(consumption_germany_per_year_J)` J. 
+Der Energiebedarf Deutschlands betrug laut [Wikipedia](https://de.wikipedia.org/wiki/Prim%C3%A4renergieverbrauch#Deutschland) im Jahr 2020 ca. `r str_format(consumption_germany_per_year_J)` J. 
 
 Die Fläche Deutschlands beträgt ca. 300.000 Quadratkilometer (=`r str_format(surface_germany_m2)` Quadratmeter). Damit kommt in Deutschland ca. `r str_format(energy_sun_to_germany_per_year_surface_J / consumption_germany_per_year_J)` mal so viel Energie wie benötigt an.
 
 
-## Wieviel nutzbare Energie kann mittels Photovoltaik gewonnen werden?
+## Wie viel nutzbare Energie kann mittels Photovoltaik gewonnen werden?
 Bei einem Photovoltaik-Wirkungsgrad von `r str_format(pv_efficiency * 100)` % müssten grob genähert `r str_format(fraction_earth_needed * 100)` % der Erde mit Photovoltaik-Anlagen bedeckt sein, um den Gesamtenergiebedarf der Menschheit zu befriedigen. Das entspricht einer Fläche von ca. `r str_format(area_needed_per_person_earth_m2)` m^2^ pro Mensch.
 
 Auf Deutschland bezogen ergibt sich aufgrund des höheren Pro-Kopf-Bedarfs eine benötigte Fläche pro Person von ca. `r str_format(area_needed_per_person_germany_m2)` m^2^, ingesamt entsprechend `r str_format(fraction_germany_needed * 100)` % der Fläche Deutschlands. Zur Einordnung: aktuell sind laut [Umweltbundesamt](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#ermittlung-der-bodenversiegelung) 6,53 % der Bodenfläche in Deutschland versiegelt.
@@ -147,3 +147,9 @@ Eine weitgehende Dekarbonisierung der Energieerzeugung ist sicherlich eine gewal
 ## Weiterführende Links
 * Eine differenziertere und ausführlichere Betrachtung zum Thema Solarenergie findet sich in [diesem](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf) Leitfaden der Fraunhofer-Gesellschaft
 * In [dieser](https://www.nature.com/articles/s41467-021-25720-2) Publikation findet sich eine aktuelle Analyse zum Potential von auf Dachflächen installierten Photovoltaik-Anlagen
+
+## ToDos
+* vielleicht die Rechenschritte mit aufführen? (Wer jetzt schon schauen möchte: Die Berechnungen sind [hier](https://github.com/sebastian-gerdes/dresden-solar/blob/main/posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.qmd) einsehbar)
+* Angenommene mittlere effektive Strahlungsintensität begründen!
+* Artikel ausbauen zum &bdquo;kleinen Einmaleins der Energiewende&ldquo;?
+* Besser beschreiben, was im Weltenergiebedarf mit drin steckt - auch Industrie etc. 

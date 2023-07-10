@@ -2,10 +2,13 @@
 title: "Mitmachen"
 ---
 
+## Starte ein Solarprojekt
+* Ein paar Ideen, wie du beginnen kannst, findest Du [hier](/posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.qmd)!
+
 ## Beisteuern von News
 Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar(at)posteo.de. 
 
-Insbesondere kommen dabei die folgenden News-Typen in Betracht:
+Insbesondere kommen dabei die folgenden News-Typen in Betracht (aber gern auch andere Vorschläge!):
 
 * Eine Person / Institution möchte über den Fortschritt eines Solarprojektes berichten, das sie selbst vorantreibt
   + zum Beispiel ein Krankenhaus berichtet von den Fortschritten bei der Umsetzung eines Photovoltaikprojektes
