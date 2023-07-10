@@ -56,6 +56,8 @@ title: "Links"
 ## Vereinigung zur Förderung der Nutzung Erneuerbarer Energien Sachsen
 * [Link zur Webseite](https://www.vee-sachsen.de/node/)
 
+## Bericht der Sächsischen Zeitung zur Solaroffensive der Stadt Dresden
+* [Link](https://www.saechsische.de/dresden/politik/welche-dresdner-daecher-sind-fuer-solaranlagen-geeignet-5831744.html)
 
 <!-- ## Sachsenenergie -->
 <!-- * [Link](https://www.sachsenenergie.de/) -->
