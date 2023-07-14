@@ -5,7 +5,8 @@ date: "2023-06-09"
 toc: false
 # categories: [Allgemeines]
 ---
-![](ensemble_incroyable_small.jpeg){width='100%' fig-align='center'}
+
+<!-- ![](ensemble_incroyable_small.jpeg){width='100%' fig-align='center'} -->
 
 Am 22.7.2023 um 18:00 Uhr findet am Martin-Luther-Platz „an der Kugel“ ein Solarfest statt! 
 
