@@ -57,8 +57,8 @@ title: "Links"
 * [Link zur Webseite](https://www.vee-sachsen.de/node/)
 
 ## Solaroffensive Dresden
-* [Link](https://www.saechsische.de/dresden/politik/welche-dresdner-daecher-sind-fuer-solaranlagen-geeignet-5831744.html)
-* [Link](https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2022/12/pm_069.php)
+* [Pressemitteilung der Stadt Dresden](https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2022/12/pm_069.php)
+* [Bericht in der Sächsischen Zeitung](https://www.saechsische.de/dresden/politik/welche-dresdner-daecher-sind-fuer-solaranlagen-geeignet-5831744.html)
 
 <!-- ## Sachsenenergie -->
 <!-- * [Link](https://www.sachsenenergie.de/) -->
