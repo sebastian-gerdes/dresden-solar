@@ -3,6 +3,8 @@ title: "Solarfest Dresden am 22.7.2023!"
 format: html
 date: "2023-06-09"
 toc: false
+twitter-card:
+  image: "flyer.jpg"
 # categories: [Allgemeines]
 ---
 

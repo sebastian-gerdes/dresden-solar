@@ -6,6 +6,7 @@ website:
   site-url: "https://dresden-solar.netlify.app/"
   description: "Dokumentation des Photovoltaik-Ausbaus in Dresden"
   favicon: images/dresden-solar.png
+  twitter-card: true
   # margin-header: subscribe.html
   # comments: 
   #   hypothesis:
