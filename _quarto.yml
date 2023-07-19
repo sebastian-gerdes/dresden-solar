@@ -24,7 +24,7 @@ website:
         href: news.xml
   open-graph: true
   twitter-card: true
-  cookie-consent: false
+  cookie-consent: true
   page-footer: "[Impressum](/impressum.qmd) - [Datenschutzerklärung](/datenschutzerklaerung.qmd)"
   page-navigation: true
 format:
