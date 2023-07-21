@@ -6,7 +6,7 @@ title: "Impressum"
 * Betreiber dieser Webseite:
   * Sebastian Gerdes (Privatperson)
     * Adresse: Talstraße 7, 01099 Dresden
-    * E-Mail: dresden-solar(at)posteo.de
+    * E-Mail: dresden-solar(at)posteo(punkt)de
 
 <!-- ## Angestrebtes Impressum (aktuell fiktiv!!!) -->
 <!-- * Betreiberin dieser Webseite ([www.dresden-solar.netlify.app](www.dresden-solar.netlify.app) und [www.dresden-solar.net](www.dresden-solar.net)):  -->
