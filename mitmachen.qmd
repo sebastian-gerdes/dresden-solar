@@ -5,6 +5,9 @@ title: "Mitmachen"
 ## Starte ein Solarprojekt
 * Ein paar Ideen, wie du beginnen kannst, findest Du [hier](/posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.qmd)!
 
+## Vernetze Dich
+* Wenn du magst, tritt der Dresden-Solar-[Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe mit diesem [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef) um Dich mit Gleichgesinnten über Solarprojekte auszutauschen!
+
 ## Beisteuern von News
 Newsbeiträge können von allen vorgeschlagen werden durch eine E-Mail an dresden-solar(at)posteo.de. 
 
