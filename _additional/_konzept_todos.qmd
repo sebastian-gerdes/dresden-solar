@@ -4,6 +4,31 @@ embed-resources: true
 toc: true
 ---
 
+## Change image dimensions
+```{r}
+library('magick')
+library('fs')
+
+change_image_dimensions <- Vectorize(
+  function(file_name_in, new_pixel_width = 200) {
+    file_name_out <- paste0(path_ext_remove(file_name_in), '_small.png')
+    my_image <- image_read(file_name_in)
+    my_image_small <- 
+      image_resize(my_image, 
+                   geometry = geometry_size_pixels(width = new_pixel_width))
+    image_write(my_image_small, path = file_name_out)
+    return(my_image_small)
+  })
+
+files <- c('../posts/2023-06-09-solarfest-dresden/ensemble_incroyable.png')
+
+files <- c('images/links_logos/logo_for_future.png')
+
+change_image_dimensions(files, new_pixel_width = 800)
+
+```
+
+
 ## ToDos aktuell
 * Institutionen, die schon Photovoltaikanlagen installiert haben anschreiben mit der Frage, ob sie hier die Geschichte ihrer Photovoltaikanlage berichten wollen
 * Auf anderen Seiten um Verlinkung / Berichterstattung über das Projekt bitten
