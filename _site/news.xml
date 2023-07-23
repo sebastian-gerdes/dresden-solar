@@ -10,7 +10,27 @@
 <atom:link href="https://dresden-solar.netlify.app/news.xml" rel="self" type="application/rss+xml"/>
 <description>Dokumentation des Photovoltaik-Ausbaus in Dresden</description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Thu, 08 Jun 2023 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Jul 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nachschau zum Solarfest</title>
+  <dc:creator>Sebastian Gerdes</dc:creator>
+  <link>https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/die_band.jpeg" class="img-fluid" style="width:49.0%" data-fig-align="center"> <img src="https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/die_leute.jpeg" class="img-fluid" style="width:49.0%" data-fig-align="center"></p>
+<p>Das Solarfest gestern war richtig toll! Das Ensemble Incroyable hat wunderbare Musik gemacht, es gab im Anschluss das ein oder andere Solar-Gespräch und die ein oder andere Idee, was man im Bereich Photovoltaik in Dresden auf die Beine stellen könnte.</p>
+<p>Ein von Herzen kommendes Dankeschön an alle die da waren und ganz besonders an die Band!</p>
+<p><strong>Einen Termin für ein nächstes Treffen für an Photovoltaik-Projekten Interessierte gibt es auch schon:<br>
+Donnerstag, 31. August, 20:00 Uhr im <a href="https://www.stadtteilhaus.de/raum-louise.html">Raum Louise</a> des <a href="https://www.stadtteilhaus.de/">Stadtteilhauses in der Neustadt</a>, Prießnitzstraße 18!</strong></p>
+
+
+
+ ]]></description>
+  <guid>https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/index.html</guid>
+  <pubDate>Sat, 22 Jul 2023 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Wie kann ich ein Solarprojekt starten?</title>
   <dc:creator>Sebastian Gerdes</dc:creator>
@@ -47,26 +67,6 @@
 
  ]]></description>
   <guid>https://dresden-solar.netlify.app/posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html</guid>
-  <pubDate>Thu, 08 Jun 2023 22:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Nachschau zum Solarfest</title>
-  <dc:creator>Sebastian Gerdes</dc:creator>
-  <link>https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<p><img src="https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/die_band.jpeg" class="img-fluid" style="width:49.0%" data-fig-align="center"> <img src="https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/die_leute.jpeg" class="img-fluid" style="width:49.0%" data-fig-align="center"></p>
-<p>Das Solarfest gestern war richtig toll! Das Ensemble Incroyable hat wunderbare Musik gemacht, es gab im Anschluss das ein oder andere Solar-Gespräch und die ein oder andere Idee, was man im Bereich Photovoltaik in Dresden auf die Beine stellen könnte.</p>
-<p>Ein von Herzen kommendes Dankeschön an alle die da waren und ganz besonders an die Band!</p>
-<p><strong>Einen Termin für ein nächstes Treffen für an Photovoltaik-Projekten Interessierte gibt es auch schon:<br>
-Donnerstag, 31. August, 20:00 Uhr im <a href="https://www.stadtteilhaus.de/raum-louise.html">Raum Louise</a> des <a href="https://www.stadtteilhaus.de/">Stadtteilhauses in der Neustadt</a>, Prießnitzstraße 18!</strong></p>
-
-
-
- ]]></description>
-  <guid>https://dresden-solar.netlify.app/posts/2023-07-23-solarfest-der-tag-danach/index.html</guid>
   <pubDate>Thu, 08 Jun 2023 22:00:00 GMT</pubDate>
 </item>
 <item>
