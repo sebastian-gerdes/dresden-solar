@@ -1,0 +1,20 @@
+---
+title: "Nachschau zum Solarfest"
+format: html
+date: "2023-06-09"
+toc: false
+twitter-card:
+  image: "flyer.jpg"
+# categories: [Allgemeines]
+---
+
+![](die_band.jpeg){width='49%' fig-align='center'}
+![](die_leute.jpeg){width='49%' fig-align='center'}
+
+Das Solarfest gestern war richtig toll! Das Ensemble Incroyable hat wunderbare Musik gemacht, es gab im Anschluss das ein oder andere Solar-Gespräch und die ein oder andere Idee, was man im Bereich Photovoltaik in Dresden auf die Beine stellen könnte.
+
+Ein von Herzen kommendes Dankeschön an alle die da waren und ganz besonders an die Band! 
+
+
+**Einen Termin für ein nächstes Treffen für an Photovoltaik-Projekten Interessierte gibt es auch schon:  
+Donnerstag, 31. August, 20:00 Uhr im [Raum Louise](https://www.stadtteilhaus.de/raum-louise.html) des [Stadtteilhauses in der Neustadt](https://www.stadtteilhaus.de/), Prießnitzstraße 18!**
