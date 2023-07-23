@@ -1,6 +1,6 @@
 ---
-# title: "Über das Projekt"
-title: "Aktuell: Solarfest Dresden am 22.7.2023 - mehr dazu [hier](posts/2023-06-09-solarfest-dresden/index.qmd)"
+title: "Über das Projekt"
+# title: "Aktuell: Solarfest Dresden am 22.7.2023 - mehr dazu [hier](posts/2023-06-09-solarfest-dresden/index.qmd)"
 image: images/profile.jpg
 about:
   template: jolla
@@ -13,5 +13,9 @@ Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivier
 Kontaktmöglichkeit per E-Mail: dresden-solar(at)posteo(punkt)de!
 
 Um auf dem Laufenden zu bleiben tritt der Dresden-Solar-[Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe mit diesem [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef) bei!
+
+**Das  nächste Treffen für an Photovoltaik-Projekten Interessierte:  
+Donnerstag, 31. August, 20:00 Uhr im [Raum Louise](https://www.stadtteilhaus.de/raum-louise.html) des [Stadtteilhauses in der Neustadt](https://www.stadtteilhaus.de/), Prießnitzstraße 18!**
+
 
 [Bildquelle](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) - [Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
