@@ -1,6 +1,7 @@
 ---
 # title: "Über das Projekt"
 # title: "Aktuell: Solarfest Dresden am 22.7.2023 - mehr dazu [hier](posts/2023-06-09-solarfest-dresden/index.qmd)"
+title: 'Starte ein Solarprojekt!'
 image: images/profile.jpg
 about:
   template: jolla
