@@ -87,15 +87,15 @@ In diesem Artikel möchte ich ein paar Zahlen zusammenzutragen, die ermöglichen
 
 Um die dabei auftretenden zum Teil recht großen Zahlen möglichst übersichtlich darzustellen, verwende ich an einigen Stellen [wissenschaftliche Zahlennotation](https://de.wikipedia.org/wiki/Wissenschaftliche_Notation). Zum Beispiel kann 32 Millionen = 32.000.000 in wissenschaftlicher Notation als `r str_format(3.2e7)` geschrieben werden.
 
-Bei den Einheiten strebe ich überwiegend das [Internationale Einheitensystem = SI-System](https://de.wikipedia.org/wiki/Internationales_Einheitensystem) an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffenen und dann in das Internationale Einheitensystem umgerechnet.
+Bei den Einheiten strebe ich überwiegend das [Internationale Einheitensystem (SI)](https://de.wikipedia.org/wiki/Internationales_Einheitensystem) an, habe hier und da jedoch auch Angaben in anderen Einheiten aufgegriffenen und dann in das Internationale Einheitensystem umgerechnet.
 
 
 ## Wie viel Energie liefert die Sonne?
-Zuerst einmal wollte ich wissen, wie viel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J im SI-System. Die physikalische Größe Leistung ([Wikipedia](https://de.wikipedia.org/wiki/Leistung_(Physik))) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).
+Zuerst einmal wollte ich wissen, wie viel Energie im physikalischen Sinne ([Wikipedia](https://de.wikipedia.org/wiki/Energie)) die Sonne zur Erde schickt. Die Einheit der Energie ist Joule, kurz J. Die physikalische Größe Leistung ([Wikipedia](https://de.wikipedia.org/wiki/Leistung_(Physik))) entspricht der Energie pro Zeit. Sie hat die Einheit Watt (W = J / s im SI-System).
 
 Dazu findet sich [hier](https://www.weltderphysik.de/gebiet/technik/energie/solarenergie/sonnenenergie/) folgende Angabe: “Die jahreszeitlich gemittelte Strahlung der Sonne kommt an unserer Lufthülle, senkrecht zur direkten Linie Sonne – Erde gemessen, mit einer Intensität von 1361 Watt pro Quadratmeter an“.
 
-Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre „hängen“. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen überwiegend in flachen Winkeln auf. 
+Ein großer Teil der Sonnenenergie bleibt jedoch in der Erdatmosphäre „hängen“. Zudem ist auf einer Hälfte der Erde jeweils Nacht und auf der Taghälfte treffen die Strahlen zu großen Teilen in flachen Winkeln auf. 
 
 Für die weiteren Rechnungen nehme ich daher an nutzbarer Sonnenstrahlung im örtlichen und zeitlichen Mittel eine Leistung pro Quadratmeter von 100 W / m^2^ an. Die Annahme, dass dieser Wert zu allen Zeiten für alle Flecken der Erde gilt, ist natürlich eine grobe Vereinfachung ^[Dieser Wert ergibt sich approximativ aus einer „Rückwärtsrechnung“: Eine angenommene Jahres-Energiegewinnung von 200 kWh pro Quadratmeter PV-Anlage ([Quelle](https://www.iwb.ch/klimadreh/ratgeber/solaranlage/wie-viel-flaeche-benoetigt-meine-solaranlage)) mit angenommenem Wirkungsgrad `r str_format(pv_efficiency)` ergibt eine auf das Jahr gemittelte Sonneneinstrahlung von ca. `r str_format(W_per_m2_sun, digits = 2)` Watt pro Quadratmeter.].
 
