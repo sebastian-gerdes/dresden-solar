@@ -2,21 +2,23 @@
 # title: "Über das Projekt"
 # title: "Aktuell: Solarfest Dresden am 22.7.2023 - mehr dazu [hier](posts/2023-06-09-solarfest-dresden/index.qmd)"
 title: 'Starte ein Solarprojekt!'
-image: images/profile.jpg
+image: /images/profile.jpg
 about:
   template: jolla
+  
 ---
 
-**Das  nächste Treffen für an Photovoltaik-Projekten Interessierte:  
-Donnerstag, 31. August, 20:00 Uhr im [Raum Louise](https://www.stadtteilhaus.de/raum-louise.html) des [Stadtteilhauses in der Neustadt](https://www.stadtteilhaus.de/), Prießnitzstraße 18!**
+Photovoltaik ist super. Deswegen hat sich die Initiative *Dresden Solar* gegründet!
 
-Photovoltaik ist super. Auf dieser Webseite werden [Nachrichten](news.qmd) gesammelt, die den Fortschritt von Photovoltaik in Dresden dokumentieren.
+*Dresden Solar* ist eine Vernetzungsmöglichkeit für Menschen, die sich in ihrem Umfeld umschauen, geeignete Dächer finden und Solarprojekte auf den Weg bringen wollen.
 
-Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern!
+[Das erste Arbeitstreffen](/posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/) von *Dresden Solar* findet am **Donnerstag, 31. August, 20:00 Uhr im [Raum Louise](https://www.stadtteilhaus.de/raum-louise.html) des [Stadtteilhauses in der Neustadt](https://www.stadtteilhaus.de/), Prießnitzstraße 18** statt.
 
-Kontaktmöglichkeit per E-Mail: dresden-solar(at)posteo(punkt)de!
+<!-- Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern! -->
 
-Um auf dem Laufenden zu bleiben tritt der Dresden-Solar-[Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe mit diesem [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef) bei!
+Kontaktmöglichkeiten:  
+E-Mail: dresden-solar(at)posteo(punkt)de  
+[Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe - Beitrittsmöglichkeit über diesen  [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef)
 
 
 [Bildquelle](https://commons.wikimedia.org/wiki/File:SoSie%2BSoSchiff_Ansicht.jpg) - [Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
