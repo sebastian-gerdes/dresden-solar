@@ -1,0 +1,23 @@
+---
+title: "Dresden Solar - erstes Arbeitstreffen"
+format: html
+date: "2023-08-20"
+toc: false
+twitter-card:
+  image: "flyer.jpg"
+# categories: [Allgemeines]
+---
+
+Toll wäre, wenn Photovoltaikanlagen von alleine auf geeignete Dächer kommen würden. Leider ist das nicht der Fall, sodass es sinnvoll ist, aktiv zu werden, sich in seiner Umgebung umzuschauen, geeignete Dächer ausfindig zu machen und zu schauen, ob sich da etwas machen lässt.
+
+Um das gemeinsam zu machen, gibt es am **Donnerstag, 31. August, 20:00 Uhr im [Raum Louise](https://www.stadtteilhaus.de/raum-louise.html) des [Stadtteilhauses in der Neustadt](https://www.stadtteilhaus.de/), Prießnitzstraße 18!** im Rahmen des ersten Arbeitstreffen der Initiative **Dresden Solar** die Möglichkeit, sich zu vernetzen!
+
+Vorläufige Ziele sind:
+
+- Gegenseitiges Kennenlernen
+- Brainstorming, wie wir Solarprojekte anstoßen können
+- und was ihr sonst noch an Ideen mitbringt!
+
+Ich bin gespannt und freue mich schon sehr auf das Treffen!
+
+<!-- [Hier](https://etherpad.wikimedia.org/p/dresden-solar) gibt es die Möglichkeit, schon im Vorfeld Ideen aufzuschreiben - trage gern etwas ein, wenn Du magst! -->
