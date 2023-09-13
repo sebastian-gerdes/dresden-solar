@@ -4,7 +4,7 @@ project:
 website:
   title: "Dresden Solar"
   site-url: https://dresden-solar.net/
-  description: "Dokumentation des Photovoltaik-Ausbaus in Dresden"
+  description: "Starte ein Solarprojekt!"
   favicon: images/dresden-solar.png
   # margin-header: subscribe.html
   # comments: 
