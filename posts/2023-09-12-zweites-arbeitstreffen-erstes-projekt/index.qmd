@@ -1,0 +1,18 @@
+---
+title: 'Zweites Arbeitstreffen - erstes Projekt'
+subtitle: 'Photovoltaikanlagen auf Kindertageseinrichtungen in freier Trägerschaft!'
+format: html
+date: '2023-09-12'
+toc: false
+twitter-card:
+  image: 'flyer.jpg'
+# categories: [Allgemeines]
+---
+
+Heute fand unser zweites Arbeitstreffen statt. Noch überschaubar in Anzahl, jedoch groß in Motivation und Enthusiasmus haben Friedhelm und ich uns heute Abend im Raskolnikoff getroffen. 
+
+Als erste Projektidee haben wir ins Auge gefasst, die Installation von Photovoltaikanlagen auf Dächern von Kindertageseinrichtungen in freier Trägerschaft zu unterstützen. Dazu haben wir aus einem [Verzeichnis der Stadt Dresden](https://www.dresden.de/de/leben/kinder/tagesbetreuung/kita-verzeichnis.php) eine Liste von Kindertageseinrichtungen heruntergeladen und begonnen, über die [frei verfügbaren Kataster](https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2023/03/pm_031.php?mtm_kwd=Stadtentwicklung+und+Umwelt&mtm_campaign=newsletter) zu schauen, welche Dächer von Kindertageseinrichtungen in Frage kommen würden. 
+
+Zeitnah wollen wir nun erste Kindertageseinrichtungen anschreiben um zu schauen, ob wir die Energiewende auf diesem Weg voranbringen können! Wir sind gespannt auf die Resonanz!
+
+Ein nächstes Arbeitstreffen ist im Oktober geplant - wenn Du Interesse hast zu kommen, tritt doch unserer [Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe über diesen  [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef) bei um weitere Infos zu erhalten - wir würden uns freuen!
