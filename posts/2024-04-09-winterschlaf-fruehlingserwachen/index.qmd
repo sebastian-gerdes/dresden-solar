@@ -1,0 +1,15 @@
+---
+title: 'Winterschlaf - Frühlingserwachen'
+format: html
+date: '2024-04-09'
+toc: false
+twitter-card:
+  image: 'flyer.jpg'
+# categories: [Allgemeines]
+---
+
+Über den vergangenen Winter befand sich *Dresden Solar* ungeplant und eher abrupt im Winterschlaf. Heute hat *Dresden Solar* ein [neues Logo](/images/chat_gpt_dresden_solar_small.jpeg) bekommen und erlebt hoffentlich bald sein Frühlingserwachen?!?
+
+![neues Logo](/images/chat_gpt_dresden_solar_small.jpeg)
+
+Das Logo basiert auf [diesem Bild](https://commons.wikimedia.org/w/index.php?title=File:100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg&oldid=740381310) ([Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)). Die Solarpanels auf dem Bild hat [ChatGPT (GPT-4)](https://en.wikipedia.org/w/index.php?title=GPT-4&oldid=1217588934) verlegt.

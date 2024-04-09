@@ -13,7 +13,7 @@ Photovoltaik ist super. Deswegen haben wir die Initiative *Dresden Solar* gegrü
 
 *Dresden Solar* ist eine Vernetzungsmöglichkeit für Menschen, die sich in ihrem Umfeld umschauen, geeignete Dächer finden und Solarprojekte auf den Weg bringen wollen.
 
-Als neu gegründete Initiative ist unser erstes Projekt, zu versuchen Kindertageseinrichtungen bei der Installation einer Photovoltaikanlage zu unterstützen. Mehr dazu [auf unserer Newsseite](news.qmd).
+<!-- Als neu gegründete Initiative ist unser erstes Projekt, zu versuchen Kindertageseinrichtungen bei der Installation einer Photovoltaikanlage zu unterstützen. Mehr dazu [auf unserer Newsseite](news.qmd). -->
 
 <!-- Diese Seite möchte einen Überblick schaffen, Vernetzung ermöglichen, motivieren und Transformation beflügeln. Jede:r kann Beiträge beisteuern! -->
 
@@ -22,4 +22,4 @@ E-Mail: dresden-solar(at)posteo(punkt)de
 [Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe: Beitrittsmöglichkeit über diesen  [Link](https://signal.group/#CjQKIPhjhJfJqtR-cg__86GQR-tcPxsLlILNGlyFuyUWFC3vEhAnnXu1V7DAn-mlrrg0Oyef)
 
 
-Bild basierend auf [diesem Bild](https://commons.wikimedia.org/w/index.php?title=File:100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg&oldid=740381310) ([Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)) - modifiziert mit [ChatGPT - GPT-4](https://en.wikipedia.org/w/index.php?title=GPT-4&oldid=1217588934).
+Logo basierend auf [diesem Bild](https://commons.wikimedia.org/w/index.php?title=File:100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg&oldid=740381310) ([Lizenz](https://creativecommons.org/licenses/by-sa/3.0/deed.en)) - modifiziert mit [ChatGPT - GPT-4](https://en.wikipedia.org/w/index.php?title=GPT-4&oldid=1217588934).

@@ -5,7 +5,8 @@ website:
   title: "Dresden Solar"
   site-url: https://dresden-solar.net/
   description: "Starte ein Solarprojekt!"
-  favicon: images/dresden-solar.png
+  # favicon: images/dresden-solar.png
+  favicon: /images/chat_gpt_dresden_solar_small.jpeg
   # margin-header: subscribe.html
   # comments: 
   #   hypothesis:
