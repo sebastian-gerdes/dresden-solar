@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -50,7 +50,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "Keine Treffer",
     "search-matching-documents-text": "Treffer",
@@ -59,6 +65,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "weitere Treffer in diesem Dokument",
     "search-more-matches-text": "weitere Treffer in diesem Dokument",
     "search-clear-button-title": "Zurücksetzen",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Abbrechen",
     "search-submit-button-title": "Abschicken",
     "search-label": "Suchen"
@@ -98,13 +105,15 @@ ul.task-list li input[type="checkbox"] {
 document.addEventListener('DOMContentLoaded', function () {
 cookieconsent.run({
   "notice_banner_type":"simple",
-  "consent_type":"implied",
+  "consent_type":"express",
   "palette":"light",
   "language":"en",
-  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "page_load_consent_levels":["strictly-necessary"],
   "notice_banner_reject_button_hide":false,
   "preferences_center_close_button_hide":false,
   "website_name":""
+  ,
+"language":"de"
   });
 });
 </script> 
@@ -113,9 +122,36 @@ cookieconsent.run({
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Dresden Solar" href="news.xml"><meta property="og:title" content="Dresden Solar - News">
-<meta property="og:site-name" content="Dresden Solar">
+<link rel="alternate" type="application/rss+xml" title="Dresden Solar" href="news.xml" data-external="1"><meta property="og:title" content="Dresden Solar - News">
+<meta property="og:site_name" content="Dresden Solar">
 <meta name="twitter:title" content="Dresden Solar - News">
 <meta name="twitter:card" content="summary">
 </head>
@@ -124,9 +160,9 @@ cookieconsent.run({
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Dresden Solar</span>
     </a>
@@ -138,32 +174,32 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Starte ein Solarprojekt!</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Starte ein Solarprojekt!</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" rel="" target="" aria-current="page">
- <span class="menu-text">News</span></a>
+    <a class="nav-link active" href="./news.html" aria-current="page"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mitmachen.html" rel="" target="">
- <span class="menu-text">Mitmachen</span></a>
+    <a class="nav-link" href="./mitmachen.html"> 
+<span class="menu-text">Mitmachen</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./links.html" rel="" target="">
- <span class="menu-text">Links</span></a>
+    <a class="nav-link" href="./links.html"> 
+<span class="menu-text">Links</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="./news.xml" rel="" target=""><i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./news.xml"> <i class="bi bi-rss" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -190,7 +226,9 @@ cookieconsent.run({
   </div>
   
 
+
 </header>
+
 
 
 
@@ -198,225 +236,216 @@ cookieconsent.run({
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1712663270569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1712663270569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
 <div class="thumbnail">
-<p><a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html"> </a></p>
+<p><a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external"></a></p><a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external">
+</a><p><a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html">
 <h3 class="no-anchor listing-title">
-Winterschlaf - Frühlingserwachen?
+<a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external">Winterschlaf - Frühlingserwachen?</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html">
+<a href="./posts/2024-04-09-winterschlaf-fruehlingserwachen/index.html" class="no-external">
 <div class="listing-date">
 09.04.2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1697580000000" data-listing-file-modified-sort="1712662423999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1697580000000" data-listing-file-modified-sort="1712662423999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
 <div class="thumbnail">
-<p><a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html"> </a></p>
+<p><a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external"></a></p><a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external">
+</a><p><a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html">
 <h3 class="no-anchor listing-title">
-Drittes Arbeitstreffen - mehr Menschen waren da und neue Ideen
+<a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external">Drittes Arbeitstreffen - mehr Menschen waren da und neue Ideen</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html">
+<a href="./posts/2023-10-18-drittes-arbeitstreffen/index.html" class="no-external">
 <div class="listing-date">
 18.10.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1694469600000" data-listing-file-modified-sort="1694620505466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1694469600000" data-listing-file-modified-sort="1694620505466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="135">
 <div class="thumbnail">
-<p><a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html"> </a></p>
+<p><a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external"></a></p><a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external">
+</a><p><a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html">
 <h3 class="no-anchor listing-title">
-Zweites Arbeitstreffen - erstes Projekt
+<a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external">Zweites Arbeitstreffen - erstes Projekt</a>
 </h3>
 <div class="listing-subtitle">
-Photovoltaikanlagen auf Kindertageseinrichtungen in freier Trägerschaft!
+<a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external">Photovoltaikanlagen auf Kindertageseinrichtungen in freier Trägerschaft!</a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html">
+<a href="./posts/2023-09-12-zweites-arbeitstreffen-erstes-projekt/index.html" class="no-external">
 <div class="listing-date">
 12.09.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1692482400000" data-listing-file-modified-sort="1692525508527" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1692482400000" data-listing-file-modified-sort="1692525508527" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="121">
 <div class="thumbnail">
-<p><a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html"> </a></p>
+<p><a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external"></a></p><a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external">
+</a><p><a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html">
 <h3 class="no-anchor listing-title">
-Dresden Solar - erstes Arbeitstreffen
+<a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external">Dresden Solar - erstes Arbeitstreffen</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html">
+<a href="./posts/2023-08-20-dresden-solar-erstes-arbeitstreffen/index.html" class="no-external">
 <div class="listing-date">
 20.08.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1690063200000" data-listing-file-modified-sort="1690125319167" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1690063200000" data-listing-file-modified-sort="1690125319167" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
 <div class="thumbnail">
-<p><a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html"> </a></p>
+<p><a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external"></a></p><a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external">
+</a><p><a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html">
 <h3 class="no-anchor listing-title">
-Nachschau zum Solarfest
+<a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external">Nachschau zum Solarfest</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html">
+<a href="./posts/2023-07-23-solarfest-der-tag-danach/index.html" class="no-external">
 <div class="listing-date">
 23.07.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1686261600000" data-listing-file-modified-sort="1688984114935" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1686261600000" data-listing-file-modified-sort="1688984114935" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
 <div class="thumbnail">
-<p><a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html"> </a></p>
+<p><a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external"></a></p><a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external">
+</a><p><a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html">
 <h3 class="no-anchor listing-title">
-Wie kann ich ein Solarprojekt starten?
+<a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external">Wie kann ich ein Solarprojekt starten?</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html">
+<a href="./posts/2023-06-10-wie-kann-ich-ein-solarprojekt-starten/index.html" class="no-external">
 <div class="listing-date">
 09.06.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1686261600000" data-listing-file-modified-sort="1690124887339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1686261600000" data-listing-file-modified-sort="1690124887339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
 <div class="thumbnail">
-<p><a href="./posts/2023-06-09-solarfest-dresden/index.html"> </a></p>
+<p><a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external"></a></p><a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external">
+</a><p><a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-06-09-solarfest-dresden/index.html">
 <h3 class="no-anchor listing-title">
-Solarfest Dresden am 22.7.2023!
+<a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external">Solarfest Dresden am 22.7.2023!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-06-09-solarfest-dresden/index.html">
+<a href="./posts/2023-06-09-solarfest-dresden/index.html" class="no-external">
 <div class="listing-date">
 09.06.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1686002400000" data-listing-file-modified-sort="1690885368444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1686002400000" data-listing-file-modified-sort="1690885368444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1395">
 <div class="thumbnail">
-<p><a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html"> </a></p>
+<p><a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external"></a></p><a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external">
+</a><p><a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html">
 <h3 class="no-anchor listing-title">
-Das kleine Einmaleins der Solarenergie
+<a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external">Das kleine Einmaleins der Solarenergie</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html">
+<a href="./posts/2023-06-06-das-kleine-einmaleins-der-solarenergie/index.html" class="no-external">
 <div class="listing-date">
 06.06.2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="Grønnköpingkið University Hospital Dresden" data-listing-date-sort="1685570400000" data-listing-file-modified-sort="1686571942993" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="8" data-categories="Grønnköpingkið University Hospital Dresden" data-listing-date-sort="1685570400000" data-listing-file-modified-sort="1686571942993" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
 <div class="thumbnail">
-<p><a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html"> </a></p>
+<p><a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external"></a></p><a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external">
+</a><p><a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html">
 <h3 class="no-anchor listing-title">
-Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden
+<a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external">Photovoltaikanlage mit 10 000 Gigawatt-Peak im Grønnköpingkið University Hospital Dresden</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html">
+<a href="./posts/2023-06-01-photovoltaik-im-kh-grønnköpingkið-university-hospital-dresden/index.html" class="no-external">
 <div class="listing-date">
 01.06.2023
 </div>
@@ -507,10 +536,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/dresden-solar\.net\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -520,8 +566,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -533,7 +588,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -577,6 +755,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -602,6 +781,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -667,12 +872,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center"><a href="./impressum.html">Impressum</a> - <a href="./datenschutzerklaerung.html">Datenschutzerklärung</a><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-center">
+<p><a href="./impressum.html">Impressum</a> - <a href="./datenschutzerklaerung.html">Datenschutzerklärung</a></p>
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
+
 
 
 
